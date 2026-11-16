@@ -1,0 +1,137 @@
+{
+  "olusturma": "2026-11-16T18:42:58+00:00",
+  "ozet": "Ons altın 3.865 dolar civarında, Ekim 2025'ten beri en düşük seviyelerde. Düşüşün nedeni Fed'in 9 Aralık'ta faiz artıracağının tam fiyatlanması, güçlü dolar ve %5,15'e yaklaşan ABD 10 yıllık tahvil faizi. Dolar/TL'nin 50,39'da yavaş yükselmesi gram altındaki kaybı sınırlıyor; gram gün içinde 6.210-6.318 TL aralığında gezdi.",
+  "vadeler": {
+    "kisa": {
+      "yon": "asagi",
+      "guven": 55,
+      "yorum": "Ons geçen haftayı yaklaşık %4,5 kayıpla kapattı ve yeni haftaya da zayıf başladı; analist notlarında düşüş eğilimi korunuyor. 3.850-3.870 dolar bölgesinde tutunma çabası var, bu yüzden güven düşük. Bu hafta ABD perakende satışları ve Fed tutanakları yönü belirleyecek.",
+      "hedef": "Gram altında 6.210 TL (bugünkü dip); ons 3.850 doların altına inerse daha aşağısı",
+      "iptal": "Onsun 3.900 doların üzerine dönmesi ve gram altının 6.320 TL üstünde kalması"
+    },
+    "orta": {
+      "yon": "asagi",
+      "guven": 55,
+      "yorum": "9 Aralık Fed toplantısında 25 baz puan artırım tam fiyatlanmış durumda; bazı üyeler en az iki artırımdan söz ediyor. Yüksek reel faiz ve güçlü dolar ons üzerinde baskıyı sürdürüyor. Artırım zaten fiyatlandığı için karar sonrası tepki yükselişi mümkün; bu nedenle güven sınırlı.",
+      "hedef": "Onsta 3.850 dolar desteğinin test edilmesi; gramda 6.200 TL çevresi",
+      "iptal": "ABD verilerinin belirgin zayıflaması veya Fed'in artırım döngüsünü kısa tutacağı sinyali"
+    },
+    "uzun": {
+      "yon": "yukari",
+      "guven": 60,
+      "yorum": "Gram altın için uzun vadede asıl destek kur: TCMB anketinde 12 ay sonrası dolar/TL beklentisi 60,77, yani bugüne göre yaklaşık %20 yukarıda. Büyük bankaların 2027 ons hedefleri 5.000 doların üzerinde, ancak bu hedefler Fed'in 2027'de yeniden gevşemeye dönmesi koşuluna bağlı.",
+      "hedef": "Kur artışı ve onsta toparlanma birlikte gelirse yeni TL zirveleri",
+      "iptal": "Fed'in 2027 boyunca sıkılaşmayı sürdürmesi ve merkez bankası alımlarının belirgin yavaşlaması"
+    }
+  },
+  "ana_senaryo": "Fed toplantısına kadar ons 3.850-3.900 dolar bandında baskılı kalır; gram altın kurun desteğiyle 6.200-6.320 TL aralığında, aşağı eğilimli yatay seyreder.",
+  "alternatif_senaryo": "Perakende satışlar veya tutanaklar beklenenden yumuşak gelirse açığa satışlar kapanır, ons 3.900 doların üzerine döner ve gram altın 6.400 TL'ye doğru tepki verir.",
+  "haberler": [
+    {
+      "baslik": "Ons altın bir yılı aşkın sürenin en düşük açılışını yaptı",
+      "etki": "negatif",
+      "kaynak": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-november-16-2026-gold-prices-hit-lowest-levels-in-over-a-year-heres-why-123541464.html",
+      "yorum": "Aralık vadeli kontrat 3.869,70 dolardan açıldı; güçlü dolar ve yükselen tahvil faizleri baskı yapıyor."
+    },
+    {
+      "baslik": "Fed'in 9 Aralık'ta faiz artırması tam fiyatlandı",
+      "etki": "negatif",
+      "kaynak": "Rate Probability",
+      "url": "https://rateprobability.com/fed",
+      "yorum": "Faiz getirisi olmayan altın için yüksek faiz olumsuz. Artırım zaten fiyatlarda olduğu için sürpriz etkisi sınırlı kalabilir."
+    },
+    {
+      "baslik": "ABD üretici enflasyonu %6,5; 10 yıllık faiz %5,15'e yaklaştı",
+      "etki": "negatif",
+      "kaynak": "Mitrade",
+      "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-weekly-loss-yields-fed-tightening",
+      "yorum": "Yüksek tahvil getirisi altının fırsat maliyetini artırıyor ve doları güçlendiriyor."
+    },
+    {
+      "baslik": "TCMB anketi: 12 ay sonrası dolar/TL beklentisi 60,77",
+      "etki": "pozitif",
+      "kaynak": "Samanyolu Haber",
+      "url": "https://www.samanyoluhaber.com/tcmb-kasim-2026-piyasa-katilimcilari-anketi-aciklandi-12-ay-sonrasi-dolar-beklentisi-6077-tlye-yukseldi/1495270",
+      "yorum": "Kur beklentisinin yükselmesi, ons zayıf kalsa bile gram altının TL değerini destekler."
+    },
+    {
+      "baslik": "TCMB kasımda toplanmıyor; sıradaki faiz kararı 10 Aralık",
+      "etki": "notr",
+      "kaynak": "Dünya",
+      "url": "https://www.dunya.com/ekonomi/tcmb-toplanti-tarihi-merkez-bankasi-faiz-karari-ne-zaman-haberi-847610",
+      "yorum": "Piyasa aralıkta 100 baz puan indirimle faizin %35'e inmesini bekliyor; indirim hızı kur üzerinden gram altını etkiler."
+    },
+    {
+      "baslik": "Gram altın gün içinde 6.240 TL'ye kadar geriledi",
+      "etki": "negatif",
+      "kaynak": "Yeni Şafak",
+      "url": "https://www.yenisafak.com/galeri/ozgun/altin-fiyatlari-neden-dusuyor-ne-zaman-yukselecek-fed-faiz-beklentileri-ve-dolarin-altin-uzerindeki-etkisi-nedir-16-kasim-2026-altin-fiyatlarinda-son-durum-4873155",
+      "yorum": "Cuma günü 6.280 TL civarında olan gram altın, ons kaynaklı düşüşle haftaya geriledi."
+    }
+  ],
+  "trader_gorusleri": [
+    {
+      "kim": "Tacirler Yatırım",
+      "gorus": "Ons geçen haftayı %4,5 kayıpla kapattı, yeni haftaya da düşüşle başlayıp 3.865 dolar civarına geriledi.",
+      "kaynak": "https://www.paraborsa.net/kategori/piyasalar/altin-yorumlari/"
+    },
+    {
+      "kim": "Osmanlı Yatırım",
+      "gorus": "Ons 3.876,67 doların altında kaldıkça aşağı yönlü gevşemeler görülebilir.",
+      "kaynak": "https://www.paraborsa.net/kategori/piyasalar/altin-yorumlari/"
+    },
+    {
+      "kim": "Societe Generale",
+      "gorus": "Düşüş eğilimi daha aşağıdaki projeksiyonlara doğru uzuyor.",
+      "kaynak": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-weekly-loss-yields-fed-tightening"
+    },
+    {
+      "kim": "UBS",
+      "gorus": "Eylül 2027 için 5.400 dolar hedefliyor; daha önce onsun önce 3.850 dolara kadar gerileyebileceği uyarısını yapmıştı.",
+      "kaynak": "https://deigoldandsilvercoins.com/gold-price-prediction-2027-will-gold-keep-rising/"
+    },
+    {
+      "kim": "Goldman Sachs",
+      "gorus": "2026 sonu hedefini 4.650 dolara indirdi. 2027 sonu hedefi için kaynaklar çelişiyor: çoğu 5.400 dolar diyor, bir kaynak 4.800 dolara indirildiğini yazıyor.",
+      "kaynak": "https://discoveryalert.com/analysis/gold-price-outlook-2027-november-2026/"
+    },
+    {
+      "kim": "HSBC",
+      "gorus": "2027 sonu için 5.025 dolar öngörüyor.",
+      "kaynak": "https://www.billionaires.africa/2026/11/16/gold-price-prediction-2026-what-central-banks-inflation-and-geopolitics-signal/"
+    }
+  ],
+  "takvim": [
+    {
+      "zaman": "Bu hafta",
+      "olay": "ABD ekim ayı perakende satışları (beklenti +%0,2)",
+      "onem": "yuksek"
+    },
+    {
+      "zaman": "Bu hafta",
+      "olay": "Fed toplantı tutanakları",
+      "onem": "yuksek"
+    },
+    {
+      "zaman": "27 Kasım",
+      "olay": "TCMB Finansal İstikrar Raporu",
+      "onem": "orta"
+    },
+    {
+      "zaman": "9 Aralık 22:00",
+      "olay": "Fed faiz kararı",
+      "onem": "yuksek"
+    },
+    {
+      "zaman": "10 Aralık 14:00",
+      "olay": "TCMB faiz kararı",
+      "onem": "yuksek"
+    }
+  ],
+  "riskler": [
+    "Fed'in 25 yerine 50 baz puan artırım sinyali vermesi onsu 3.850 doların altına itebilir",
+    "Beklentiden zayıf ABD verisi sert bir tepki yükselişi başlatabilir",
+    "Dolar/TL'de ani hareket gram altını onstan bağımsız oynatır"
+  ]
+}
