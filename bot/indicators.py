@@ -51,8 +51,9 @@ def seviyeler(df: pd.DataFrame, pencere: int = 5, adet: int = 2) -> dict:
             kumeler.append([p])
     merkezler = [(float(np.mean(k)), len(k)) for k in kumeler]
     bosluk = 0.25 * a
-    destek = sorted((m for m, _ in merkezler if m < son - bosluk), reverse=True)[:adet]
-    direnc = sorted(m for m, _ in merkezler if m > son + bosluk)[:adet]
+    # fiyattan %35'ten uzak seviyeler anlamli degil
+    destek = sorted((m for m, _ in merkezler if son * 0.65 < m < son - bosluk), reverse=True)[:adet]
+    direnc = sorted(m for m, _ in merkezler if son + bosluk < m < son * 1.35)[:adet]
     tahmini = False
     if not direnc:  # tarihi zirve bolgesi: ATR projeksiyonu
         direnc, tahmini = [son + a * 1.5, son + a * 3], True
