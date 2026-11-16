@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-16T18:50:50+00:00",
+  "zaman": "2026-11-16T18:53:14+00:00",
   "durum": "hata",
   "hata": "RuntimeError: Veri ve grafikler hazir ama TELEGRAM_BOT_TOKEN tanimli degil (repo Settings > Secrets and variables > Actions).",
   "iz": "Traceback (most recent call last):\n  File \"/home/runner/work/altin-takip/altin-takip/bot/main.py\", line 199, in main\n    sonuc = calistir()\n            ^^^^^^^^^^\n  File \"/home/runner/work/altin-takip/altin-takip/bot/main.py\", line 176, in calistir\n    raise RuntimeError(\"Veri ve grafikler hazir ama TELEGRAM_BOT_TOKEN tanimli degil \"\nRuntimeError: Veri ve grafikler hazir ama TELEGRAM_BOT_TOKEN tanimli degil (repo Settings > Secrets and variables > Actions).\n"
