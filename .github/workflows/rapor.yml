@@ -1,0 +1,61 @@
+name: Altın Raporu
+
+on:
+  push:
+    branches: [main]
+    paths: ["analiz/latest.json"]   # Claude analizi gelince hemen gönder
+  schedule:
+    - cron: "17 * * * *"            # yedek: analiz gecikirse teknik rapor gönderir
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: altin-raporu
+  cancel-in-progress: false
+
+jobs:
+  rapor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TETIK: ${{ github.event_name }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rapor gerekli mi?
+        id: kontrol
+        run: python3 bot/kontrol.py
+
+      - uses: actions/setup-python@v5
+        if: steps.kontrol.outputs.calis == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Bağımlılıklar
+        if: steps.kontrol.outputs.calis == 'true'
+        run: pip install -q -r requirements.txt
+
+      - name: Raporu üret ve gönder
+        id: rapor
+        if: steps.kontrol.outputs.calis == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m bot.main
+
+      - name: Durumu kaydet
+        if: always() && steps.kontrol.outputs.calis == 'true'
+        run: |
+          git config user.name "altin-takip-bot"
+          git config user.email "altin-takip-bot@users.noreply.github.com"
+          git add durum
+          git diff --cached --quiet && exit 0
+          git commit -q -m "durum: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1

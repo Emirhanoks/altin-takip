@@ -1,0 +1,21 @@
+{
+  "olusturma": "2026-11-16T18:00:00+00:00",
+  "ozet": "Ons altın Fed tutanakları öncesinde dar bantta; dolar/TL'deki yavaş yükseliş gram altını destekliyor. Kısa vadede yön arayışı var, ana eğilim yukarı.",
+  "vadeler": {
+    "kisa": {"yon": "yatay", "guven": 55, "yorum": "Veri öncesi hacim düşük; ons 20 saatlik ortalamanın çevresinde. Kırılım için ABD verisi bekleniyor.", "hedef": "Direnç üstünde kapanış gelirse bir sonraki direnç", "iptal": "İlk desteğin altında saatlik kapanış"},
+    "orta": {"yon": "yukari", "guven": 65, "yorum": "Merkez bankası alımları ve reel faiz beklentileri destekleyici; düzeltmeler alım fırsatı olarak görülüyor.", "hedef": "Yıl içi zirvenin yeniden test edilmesi", "iptal": "50 günlük ortalamanın altında haftalık kapanış"},
+    "uzun": {"yon": "yukari", "guven": 70, "yorum": "Kur eğilimi ve küresel rezerv çeşitlendirmesi uzun vadeli yükseliş eğilimini koruyor.", "hedef": "Yeni zirveler", "iptal": "Fed'in yeniden sıkılaşmaya dönmesi ve TL'de kalıcı değerlenme"}
+  },
+  "ana_senaryo": "Veri beklentilere yakın gelirse gram altın bant içinde kalıp yukarı yönlü eğilimini sürdürür.",
+  "alternatif_senaryo": "Beklenti üstü enflasyon verisi doları güçlendirirse ons kaynaklı geri çekilme görülür; kur etkisi düşüşü sınırlar.",
+  "haberler": [
+    {"baslik": "Örnek haber başlığı", "etki": "pozitif", "kaynak": "Örnek Kaynak", "url": "https://example.com/haber", "yorum": "Haberin altına etkisinin bir-iki cümlelik açıklaması."}
+  ],
+  "trader_gorusleri": [
+    {"kim": "Örnek Banka emtia masası", "gorus": "Yıl sonu ons hedefini yukarı çekti; geri çekilmelerde alım öneriyor.", "kaynak": "https://example.com/rapor"}
+  ],
+  "takvim": [
+    {"zaman": "Çar 22:00", "olay": "Fed tutanakları", "onem": "yuksek"}
+  ],
+  "riskler": ["Beklenti üstü ABD enflasyonu", "Jeopolitik gerilimde hızlı yumuşama"]
+}
