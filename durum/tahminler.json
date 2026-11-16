@@ -1,0 +1,26 @@
+[
+  {
+    "zaman": "2026-11-16T18:58:22+00:00",
+    "vade": "kisa",
+    "yon": "asagi",
+    "kaynak": "analiz",
+    "fiyat": 6242.52,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-16T18:58:22+00:00",
+    "vade": "orta",
+    "yon": "asagi",
+    "kaynak": "analiz",
+    "fiyat": 6242.52,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-16T18:58:22+00:00",
+    "vade": "uzun",
+    "yon": "yukari",
+    "kaynak": "analiz",
+    "fiyat": 6242.52,
+    "sonuc": null
+  }
+]

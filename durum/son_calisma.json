@@ -1,6 +1,5 @@
 {
-  "zaman": "2026-11-16T18:55:24+00:00",
-  "durum": "hata",
-  "hata": "RuntimeError: Sohbet bulunamadi: Telegram'da bota /start yazin, sonra tekrar calistirin.",
-  "iz": "Traceback (most recent call last):\n  File \"/home/runner/work/altin-takip/altin-takip/bot/main.py\", line 199, in main\n    sonuc = calistir()\n            ^^^^^^^^^^\n  File \"/home/runner/work/altin-takip/altin-takip/bot/main.py\", line 180, in calistir\n    raise RuntimeError(\"Sohbet bulunamadi: Telegram'da bota /start yazin, sonra tekrar calistirin.\")\nRuntimeError: Sohbet bulunamadi: Telegram'da bota /start yazin, sonra tekrar calistirin.\n"
+  "zaman": "2026-11-16T18:58:22+00:00",
+  "durum": "tamam",
+  "sonuc": "gonderildi (analizli, tetik=push)"
 }
