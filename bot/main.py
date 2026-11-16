@@ -138,8 +138,6 @@ def karne_guncelle(tahminler: list, fiyat: float, z: dt.datetime, teknik: dict, 
 def calistir() -> str:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     kuru = os.environ.get("KURU_CALISMA") == "1"  # Telegram'a gondermeden dene
-    if not token and not kuru:
-        raise RuntimeError("TELEGRAM_BOT_TOKEN tanimli degil (repo Settings > Secrets > Actions).")
     tetik = os.environ.get("TETIK", "manual")
     z = simdi()
     durum = oku(DURUM / "durum.json", {})
@@ -173,6 +171,10 @@ def calistir() -> str:
         ))
 
     if not kuru:
+        if not token:
+            yaz(DURUM / "piyasa.json", {**p, "teknik": teknik, "karne": karne})
+            raise RuntimeError("Veri ve grafikler hazir ama TELEGRAM_BOT_TOKEN tanimli degil "
+                               "(repo Settings > Secrets and variables > Actions).")
         sohbet = os.environ.get("TELEGRAM_CHAT_ID", "").strip() or durum.get("chat_id") or telegram.sohbet_bul(token)
         if not sohbet:
             raise RuntimeError("Sohbet bulunamadi: Telegram'da bota /start yazin, sonra tekrar calistirin.")
