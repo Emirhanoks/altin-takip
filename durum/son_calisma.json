@@ -1,0 +1,6 @@
+{
+  "zaman": "2026-11-16T18:43:23+00:00",
+  "durum": "hata",
+  "hata": "RuntimeError: TELEGRAM_BOT_TOKEN tanimli degil (repo Settings > Secrets > Actions).",
+  "iz": "Traceback (most recent call last):\n  File \"/home/runner/work/altin-takip/altin-takip/bot/main.py\", line 197, in main\n    sonuc = calistir()\n            ^^^^^^^^^^\n  File \"/home/runner/work/altin-takip/altin-takip/bot/main.py\", line 142, in calistir\n    raise RuntimeError(\"TELEGRAM_BOT_TOKEN tanimli degil (repo Settings > Secrets > Actions).\")\nRuntimeError: TELEGRAM_BOT_TOKEN tanimli degil (repo Settings > Secrets > Actions).\n"
+}
