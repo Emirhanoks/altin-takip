@@ -30,5 +30,13 @@
     "kaynak": "teknik",
     "fiyat": 6277.41,
     "sonuc": null
+  },
+  {
+    "zaman": "2026-11-17T11:59:00+00:00",
+    "vade": "kisa",
+    "yon": "yatay",
+    "kaynak": "teknik",
+    "fiyat": 6276.62,
+    "sonuc": null
   }
 ]
