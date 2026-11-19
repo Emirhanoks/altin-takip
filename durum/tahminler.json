@@ -69,7 +69,9 @@
     "yon": "asagi",
     "kaynak": "teknik",
     "fiyat": 6163.57,
-    "sonuc": null
+    "sonuc": "dogru",
+    "gerceklesen_yuzde": -1.81,
+    "degerlendirme": "2026-11-19T11:47:43+00:00"
   },
   {
     "zaman": "2026-11-18T11:50:23+00:00",
@@ -101,6 +103,14 @@
     "yon": "asagi",
     "kaynak": "teknik",
     "fiyat": 6078.47,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-19T11:47:43+00:00",
+    "vade": "kisa",
+    "yon": "asagi",
+    "kaynak": "teknik",
+    "fiyat": 6051.85,
     "sonuc": null
   }
 ]
