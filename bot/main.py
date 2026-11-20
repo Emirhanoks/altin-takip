@@ -206,7 +206,7 @@ def calistir() -> str:
         eski_sohbet = os.environ.get("TELEGRAM_CHAT_ID", "").strip() or durum.get("chat_id")
         gonderilen, uyarilar = 0, []
         for ad, token in botlar:
-        print(f"bot-tani: {ad} -> {telegram.tani(token)}", flush=True)
+            print(f"bot-tani: {ad} -> {telegram.tani(token)}", flush=True)
             giris = kayit.setdefault(ad, {"sohbetler": []})
             adaylar = list(giris.get("sohbetler", []))
             try:
