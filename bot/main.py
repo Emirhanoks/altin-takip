@@ -44,10 +44,12 @@ def tokenlar() -> list[tuple[str, str]]:
     except ValueError:
         sozluk = {}
     for ad, deger in sozluk.items():
-        deger = str(deger).strip()
+        deger = "".join(str(deger).split())  # ici bosluklar/satir sonlari dahil temizle
+        if deger.lower().startswith("bot") and deger[3:4].isdigit():
+            deger = deger[3:]
         print(f"secret-tani: ad={ad} uzunluk={len(deger)} desen={'evet' if TOKEN_DESENI.fullmatch(deger) else 'hayir'} "
               f"iki_nokta={deger.count(':')} bosluk={sum(c.isspace() for c in deger)} "
-              f"ayni_deger_adlari={[a for a, d in sozluk.items() if str(d).strip() == deger]}", flush=True)
+              f"ayni_deger_adlari={[a for a, d in sozluk.items() if "".join(str(d).split()) == deger]}", flush=True)
         if TOKEN_DESENI.fullmatch(deger):
             bulunan.setdefault(deger, ad)
     tek = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
