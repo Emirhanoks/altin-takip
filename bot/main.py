@@ -4,6 +4,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
+import re
 import sys
 import traceback
 from pathlib import Path
@@ -30,6 +31,26 @@ VADELER = {
                  aciklama="haftalık, son 5 yıl, logaritmik ölçek", pencere=6, log=True,
                  ufuk=dt.timedelta(days=90), esik=3.0, yatay=5.0, kayit_araligi=dt.timedelta(days=6, hours=20)),
 }
+
+
+TOKEN_DESENI = re.compile(r"\d{6,12}:[A-Za-z0-9_-]{30,}")
+
+
+def tokenlar() -> list[tuple[str, str]]:
+    """Repo secret'larindaki tum Telegram bot token'lari (ad serbest; degerin bicimine bakilir)."""
+    bulunan: dict[str, str] = {}
+    try:
+        sozluk = json.loads(os.environ.get("TUM_SECRETLAR", "") or "{}")
+    except ValueError:
+        sozluk = {}
+    for ad, deger in sozluk.items():
+        deger = str(deger).strip()
+        if TOKEN_DESENI.fullmatch(deger):
+            bulunan.setdefault(deger, ad)
+    tek = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    if tek and TOKEN_DESENI.fullmatch(tek):
+        bulunan.setdefault(tek, "TELEGRAM_BOT_TOKEN")
+    return [(ad, t) for t, ad in bulunan.items()]
 
 
 def simdi() -> dt.datetime:
@@ -136,7 +157,7 @@ def karne_guncelle(tahminler: list, fiyat: float, z: dt.datetime, teknik: dict, 
 
 
 def calistir() -> str:
-    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    botlar = tokenlar()
     kuru = os.environ.get("KURU_CALISMA") == "1"  # Telegram'a gondermeden dene
     tetik = os.environ.get("TETIK", "manual")
     z = simdi()
@@ -171,15 +192,40 @@ def calistir() -> str:
         ))
 
     if not kuru:
-        if not token:
+        if not botlar:
             yaz(DURUM / "piyasa.json", {**p, "teknik": teknik, "karne": karne})
-            raise RuntimeError("Veri ve grafikler hazir ama TELEGRAM_BOT_TOKEN tanimli degil "
+            raise RuntimeError("Veri ve grafikler hazir ama Telegram bot token'i bulunamadi "
                                "(repo Settings > Secrets and variables > Actions).")
-        sohbet = os.environ.get("TELEGRAM_CHAT_ID", "").strip() or durum.get("chat_id") or telegram.sohbet_bul(token)
-        if not sohbet:
-            raise RuntimeError("Sohbet bulunamadi: Telegram'da bota /start yazin, sonra tekrar calistirin.")
-        durum["chat_id"] = str(sohbet)
-        telegram.gonder(token, str(sohbet), gorseller, report.baslik(p), report.metin(p, analiz, karne, teknik))
+        baslik, mesaj = report.baslik(p), report.metin(p, analiz, karne, teknik)
+        kayit = durum.setdefault("botlar", {})
+        eski_sohbet = os.environ.get("TELEGRAM_CHAT_ID", "").strip() or durum.get("chat_id")
+        gonderilen, uyarilar = 0, []
+        for ad, token in botlar:
+            giris = kayit.setdefault(ad, {"sohbetler": []})
+            adaylar = list(giris.get("sohbetler", []))
+            try:
+                for c in telegram.sohbetler_bul(token):
+                    if c not in adaylar:
+                        adaylar.append(c)
+            except telegram.TelegramHata as e:
+                uyarilar.append(f"{ad}: sohbet listesi alinamadi ({e})")
+            if eski_sohbet and str(eski_sohbet) not in adaylar:
+                adaylar.append(str(eski_sohbet))  # ilk bot icin gecerli; digerinde hata verirse elenir
+            calisan = []
+            for c in adaylar:
+                try:
+                    telegram.gonder(token, c, gorseller, baslik, mesaj)
+                    calisan.append(c)
+                    gonderilen += 1
+                except telegram.TelegramHata as e:
+                    uyarilar.append(f"{ad}: sohbet {c} gonderilemedi ({e})")
+            giris["sohbetler"] = calisan
+            if not adaylar:
+                uyarilar.append(f"{ad}: henuz kimse bota yazmadi; botu acip /start yazmak gerekiyor")
+        if gonderilen == 0:
+            raise RuntimeError("Hicbir sohbete gonderilemedi: " + "; ".join(uyarilar))
+        durum["uyarilar"] = uyarilar
+        durum["chat_id"] = (kayit.get(botlar[0][0], {}).get("sohbetler") or [None])[0] or durum.get("chat_id")
         durum["son_gonderim"] = z.isoformat(timespec="seconds")
     else:
         (CIKTI / "mesaj.html").write_text(
@@ -193,7 +239,7 @@ def calistir() -> str:
 
 
 def main() -> int:
-    token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    gizli = [t for _, t in tokenlar()]
     z = simdi().isoformat(timespec="seconds")
     try:
         sonuc = calistir()
@@ -203,8 +249,8 @@ def main() -> int:
     except Exception as e:  # noqa: BLE001
         iz = traceback.format_exc()
         mesaj = f"{type(e).__name__}: {e}"
-        if token:
-            iz, mesaj = iz.replace(token, "***"), mesaj.replace(token, "***")
+        for t in gizli:
+            iz, mesaj = iz.replace(t, "***"), mesaj.replace(t, "***")
         yaz(DURUM / "son_calisma.json", {"zaman": z, "durum": "hata", "hata": mesaj, "iz": iz[-3000:]})
         print(iz, file=sys.stderr)
         return 1

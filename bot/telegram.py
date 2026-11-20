@@ -34,15 +34,16 @@ def _cagri(token: str, metod: str, veri: dict | None = None, dosyalar: dict | No
     raise TelegramHata(f"Telegram {metod} basarisiz: {son}")
 
 
-def sohbet_bul(token: str) -> str | None:
-    """Bota en son yazan sohbetin kimligi (/start gonderilmis olmali)."""
+def sohbetler_bul(token: str) -> list[str]:
+    """Bota yazmis (veya gruba eklemis) tum sohbetlerin kimligi. Telegram bu bilgiyi ~24 saat tutar."""
     j = _cagri(token, "getUpdates", {"timeout": 0, "allowed_updates": json.dumps(["message", "channel_post", "my_chat_member"])})
-    for g in reversed(j.get("result", [])):
+    bulunan: list[str] = []
+    for g in j.get("result", []):
         for anahtar in ("message", "channel_post", "my_chat_member"):
             sohbet = (g.get(anahtar) or {}).get("chat")
-            if sohbet and "id" in sohbet:
-                return str(sohbet["id"])
-    return None
+            if sohbet and "id" in sohbet and str(sohbet["id"]) not in bulunan:
+                bulunan.append(str(sohbet["id"]))
+    return bulunan
 
 
 def parcala(metin: str, sinir: int = 3900) -> list[str]:

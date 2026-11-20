@@ -3,9 +3,12 @@ name: Altın Raporu
 on:
   push:
     branches: [main]
-    paths: ["analiz/latest.json"]   # Claude analizi gelince hemen gönder
+    paths: ["analiz/latest.json", ".github/workflows/rapor.yml"]   # Claude analizi gelince hemen gönder
   schedule:
-    - cron: "17 * * * *"            # yedek: analiz gecikirse teknik rapor gönderir
+    # Yedek: GitHub zamanlamasi garanti degil; farkli dakikalarda uc zamanlama, hangisi calisirsa.
+    - cron: "12 0,3,6,9,12,15,18,21 * * *"
+    - cron: "42 1,4,7,10,13,16,19,22 * * *"
+    - cron: "17 2,5,8,11,14,17,20,23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -45,16 +48,8 @@ jobs:
           # Asıl yer: repository secret TELEGRAM_BOT_TOKEN. Diğerleri yanlış yere/adla eklenmişse yedek.
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.TELEGRAM_BOT || secrets.TELEGRAM_TOKEN || secrets.BOT_TOKEN || vars.TELEGRAM_BOT_TOKEN || vars.TELEGRAM_TOKEN || vars.BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || vars.TELEGRAM_CHAT_ID }}
-          TANI: >-
-            secret_TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN != '' }}
-            secret_TELEGRAM_BOT=${{ secrets.TELEGRAM_BOT != '' }}
-            secret_TELEGRAM_TOKEN=${{ secrets.TELEGRAM_TOKEN != '' }}
-            secret_BOT_TOKEN=${{ secrets.BOT_TOKEN != '' }}
-            var_TELEGRAM_BOT_TOKEN=${{ vars.TELEGRAM_BOT_TOKEN != '' }}
-            var_TELEGRAM_TOKEN=${{ vars.TELEGRAM_TOKEN != '' }}
-            var_BOT_TOKEN=${{ vars.BOT_TOKEN != '' }}
+          TUM_SECRETLAR: ${{ toJSON(secrets) }}
         run: |
-          mkdir -p durum && echo "$TANI" > durum/tani.txt
           python -m bot.main
 
       - name: Durumu kaydet

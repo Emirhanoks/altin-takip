@@ -4,7 +4,7 @@ import json
 import os
 from pathlib import Path
 
-YEDEK_ESIK_DK = 215  # son gonderimden bu kadar dakika gectiyse yedek rapor gonder
+YEDEK_ESIK_DK = 170  # son gonderimden bu kadar dakika gectiyse yedek rapor gonder
 
 durum_yolu = Path(__file__).resolve().parent.parent / "durum" / "durum.json"
 tetik = os.environ.get("TETIK", "manual")
