@@ -45,6 +45,9 @@ def tokenlar() -> list[tuple[str, str]]:
         sozluk = {}
     for ad, deger in sozluk.items():
         deger = str(deger).strip()
+        print(f"secret-tani: ad={ad} uzunluk={len(deger)} desen={'evet' if TOKEN_DESENI.fullmatch(deger) else 'hayir'} "
+              f"iki_nokta={deger.count(':')} bosluk={sum(c.isspace() for c in deger)} "
+              f"ayni_deger_adlari={[a for a, d in sozluk.items() if str(d).strip() == deger]}", flush=True)
         if TOKEN_DESENI.fullmatch(deger):
             bulunan.setdefault(deger, ad)
     tek = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
