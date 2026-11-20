@@ -127,7 +127,9 @@
     "yon": "asagi",
     "kaynak": "teknik",
     "fiyat": 5954.64,
-    "sonuc": null
+    "sonuc": "dogru",
+    "gerceklesen_yuzde": -3.8,
+    "degerlendirme": "2026-11-20T21:49:36+00:00"
   },
   {
     "zaman": "2026-11-19T20:43:31+00:00",
@@ -175,6 +177,22 @@
     "yon": "yatay",
     "kaynak": "analiz",
     "fiyat": 5715.26,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-20T21:49:36+00:00",
+    "vade": "kisa",
+    "yon": "yatay",
+    "kaynak": "analiz",
+    "fiyat": 5728.57,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-20T21:49:36+00:00",
+    "vade": "orta",
+    "yon": "asagi",
+    "kaynak": "analiz",
+    "fiyat": 5728.57,
     "sonuc": null
   }
 ]

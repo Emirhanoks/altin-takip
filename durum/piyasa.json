@@ -1,52 +1,56 @@
 {
-  "zaman": "2026-11-20T18:49:18+00:00",
-  "gram": 5715.26,
-  "ons": 3515.1,
-  "kur": 50.5717,
-  "son_veri_zamani": "2026-11-20T18:00:00+00:00",
+  "zaman": "2026-11-20T21:49:36+00:00",
+  "gram": 5728.57,
+  "ons": 3526.0,
+  "kur": 50.5327,
+  "son_veri_zamani": "2026-11-20T21:00:00+00:00",
   "piyasa_kapali": false,
   "degisim": {
-    "3s": -1.04,
-    "24s": -4.32,
-    "7g": -9.13,
-    "30g": -13.68,
-    "1y": 3.4
+    "3s": -0.28,
+    "24s": -2.68,
+    "7g": -8.93,
+    "30g": -13.48,
+    "1y": 3.64
   },
   "yil_ici_zirve": 7795.97,
   "yil_ici_dip": 5482.44,
   "baglam": {
     "dolar_endeksi": {
-      "son": 103.844,
-      "gunluk_degisim_yuzde": -0.05,
-      "aylik_degisim_yuzde": 2.2
+      "son": 103.896,
+      "gunluk_degisim_yuzde": -0.0,
+      "aylik_degisim_yuzde": 2.25
     },
     "abd_10y_faiz": {
-      "son": 4.944,
-      "gunluk_degisim_yuzde": -2.14,
-      "aylik_degisim_yuzde": -0.18
+      "son": 4.912,
+      "gunluk_degisim_yuzde": -2.77,
+      "aylik_degisim_yuzde": -0.83
     },
     "gumus_ons": {
-      "son": 41.01,
-      "gunluk_degisim_yuzde": -7.46,
-      "aylik_degisim_yuzde": -25.12
+      "son": 40.945,
+      "gunluk_degisim_yuzde": -7.61,
+      "aylik_degisim_yuzde": -25.23
     },
     "brent": {
-      "son": 89.3,
-      "gunluk_degisim_yuzde": -2.91,
-      "aylik_degisim_yuzde": -21.09
+      "son": 89.91,
+      "gunluk_degisim_yuzde": -2.25,
+      "aylik_degisim_yuzde": -20.55
     },
     "sp500": {
-      "son": 7014.7598,
-      "gunluk_degisim_yuzde": -2.24,
-      "aylik_degisim_yuzde": -8.46
+      "son": 6910.3901,
+      "gunluk_degisim_yuzde": -3.7,
+      "aylik_degisim_yuzde": -9.83
     },
     "vix": {
-      "son": 31.92,
-      "gunluk_degisim_yuzde": 12.24,
-      "aylik_degisim_yuzde": 67.74
+      "son": 35.89,
+      "gunluk_degisim_yuzde": 26.2,
+      "aylik_degisim_yuzde": 88.6
     }
   },
-  "kapalicarsi": null,
+  "kapalicarsi": {
+    "alis": 5730.97,
+    "satis": 5731.95,
+    "kaynak": "finans.truncgil.com"
+  },
   "teknik": {
     "kisa": {
       "yon": "asagi",
@@ -59,21 +63,20 @@
         "kısa ortalama düşüyor",
         "MACD pozitif"
       ],
-      "rsi": 27.5,
-      "macd_hist": 1.066,
-      "ema20": 5811.46,
-      "ema50": 5914.0,
+      "rsi": 28.9,
+      "macd_hist": 1.007,
+      "ema20": 5792.27,
+      "ema50": 5894.16,
       "seviyeler": {
         "destek": [
-          5648.78,
-          5582.3
+          5714.59
         ],
         "direnc": [
           5848.3,
           5993.48
         ],
         "direnc_projeksiyon": false,
-        "atr": 44.32
+        "atr": 44.17
       }
     },
     "orta": {
@@ -88,21 +91,21 @@
         "MACD negatif",
         "RSI 24: aşırı satım, tepki ihtimali"
       ],
-      "rsi": 23.6,
-      "macd_hist": -62.313,
-      "ema50": 6474.16,
-      "ema200": 6410.61,
+      "rsi": 23.9,
+      "macd_hist": -61.465,
+      "ema50": 6474.68,
+      "ema200": 6410.74,
       "seviyeler": {
         "destek": [
-          5473.59,
-          5231.92
+          5485.34,
+          5242.12
         ],
         "direnc": [
           5940.96,
           6206.26
         ],
         "direnc_projeksiyon": false,
-        "atr": 161.12
+        "atr": 162.15
       }
     },
     "uzun": {
@@ -116,30 +119,30 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 35.2,
-      "macd_hist": -103.198,
-      "ema20": 6495.66,
-      "ema50": 6288.63,
+      "rsi": 35.3,
+      "macd_hist": -102.349,
+      "ema20": 6496.93,
+      "ema50": 6289.16,
       "seviyeler": {
         "destek": [
-          5168.11,
-          4620.95
+          5179.86,
+          4631.15
         ],
         "direnc": [
           5900.11,
           7355.01
         ],
         "direnc_projeksiyon": false,
-        "atr": 364.77
+        "atr": 365.8
       }
     }
   },
   "karne": {
     "kisa": {
-      "toplam": 9,
-      "dogru": 6,
-      "son_20_dogru": 6,
-      "son_20_toplam": 9
+      "toplam": 10,
+      "dogru": 7,
+      "son_20_dogru": 7,
+      "son_20_toplam": 10
     },
     "orta": {
       "toplam": 0,
