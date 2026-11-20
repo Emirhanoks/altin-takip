@@ -34,6 +34,16 @@ def _cagri(token: str, metod: str, veri: dict | None = None, dosyalar: dict | No
     raise TelegramHata(f"Telegram {metod} basarisiz: {son}")
 
 
+def tani(token: str) -> str:
+    """Tanilama: bot kullanici adi, webhook var mi, bekleyen guncelleme sayisi (token yazmaz)."""
+    try:
+        ben = _cagri(token, "getMe").get("result", {})
+        wh = _cagri(token, "getWebhookInfo").get("result", {})
+        return f"@{ben.get('username')} webhook={'VAR' if wh.get('url') else 'yok'} bekleyen={wh.get('pending_update_count')}"
+    except Exception as e:  # noqa: BLE001
+        return f"tani hatasi: {type(e).__name__}"
+
+
 def sohbetler_bul(token: str) -> list[str]:
     """Bota yazmis (veya gruba eklemis) tum sohbetlerin kimligi. Telegram bu bilgiyi ~24 saat tutar."""
     j = _cagri(token, "getUpdates", {"timeout": 0, "allowed_updates": json.dumps(["message", "channel_post", "my_chat_member"])})
