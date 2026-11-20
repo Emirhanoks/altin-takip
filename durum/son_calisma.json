@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-20T08:55:36+00:00",
+  "zaman": "2026-11-20T09:49:48+00:00",
   "durum": "tamam",
-  "sonuc": "gonderildi (yalnizca_teknik, tetik=workflow_dispatch)"
+  "sonuc": "gonderildi (analizli, tetik=push)"
 }
