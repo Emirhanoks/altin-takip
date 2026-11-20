@@ -1,5 +1,13 @@
 {
   "chat_id": "1281278124",
-  "son_gonderim": "2026-11-20T02:22:28+00:00",
-  "son_rapor_turu": "yalnizca_teknik"
+  "son_gonderim": "2026-11-20T07:46:00+00:00",
+  "son_rapor_turu": "yalnizca_teknik",
+  "botlar": {
+    "TELEGRAM_BOT": {
+      "sohbetler": [
+        "1281278124"
+      ]
+    }
+  },
+  "uyarilar": []
 }
