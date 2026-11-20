@@ -1,13 +1,18 @@
 {
   "chat_id": "1281278124",
-  "son_gonderim": "2026-11-20T07:53:06+00:00",
+  "son_gonderim": "2026-11-20T07:54:49+00:00",
   "son_rapor_turu": "yalnizca_teknik",
   "botlar": {
     "TELEGRAM_BOT": {
       "sohbetler": [
         "1281278124"
       ]
+    },
+    "BOT": {
+      "sohbetler": []
     }
   },
-  "uyarilar": []
+  "uyarilar": [
+    "BOT: sohbet 1281278124 gonderilemedi (Telegram sendMediaGroup basarisiz: 400: Bad Request: chat not found)"
+  ]
 }
