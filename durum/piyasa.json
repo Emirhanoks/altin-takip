@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-21T03:48:36+00:00",
+  "zaman": "2026-11-21T06:56:49+00:00",
   "gram": 5745.61,
   "ons": 3539.0,
   "kur": 50.4969,
@@ -16,9 +16,9 @@
   "yil_ici_dip": 5482.44,
   "baglam": {
     "dolar_endeksi": {
-      "son": 103.84,
-      "gunluk_degisim_yuzde": -0.06,
-      "aylik_degisim_yuzde": 2.19
+      "son": 103.81,
+      "gunluk_degisim_yuzde": -0.09,
+      "aylik_degisim_yuzde": 2.17
     },
     "abd_10y_faiz": {
       "son": 4.912,
@@ -26,14 +26,14 @@
       "aylik_degisim_yuzde": -0.83
     },
     "gumus_ons": {
-      "son": 41.08,
-      "gunluk_degisim_yuzde": -7.31,
-      "aylik_degisim_yuzde": -24.99
+      "son": 41.035,
+      "gunluk_degisim_yuzde": -7.41,
+      "aylik_degisim_yuzde": -25.07
     },
     "brent": {
-      "son": 89.87,
-      "gunluk_degisim_yuzde": -2.29,
-      "aylik_degisim_yuzde": -20.59
+      "son": 92.57,
+      "gunluk_degisim_yuzde": 0.64,
+      "aylik_degisim_yuzde": -18.2
     },
     "sp500": {
       "son": 6910.3901,
@@ -97,15 +97,15 @@
       "ema200": 6410.91,
       "seviyeler": {
         "destek": [
-          5502.74,
-          5259.87
+          5502.69,
+          5259.77
         ],
         "direnc": [
           5940.96,
           6206.26
         ],
         "direnc_projeksiyon": false,
-        "atr": 161.91
+        "atr": 161.95
       }
     },
     "uzun": {
@@ -125,15 +125,15 @@
       "ema50": 6289.82,
       "seviyeler": {
         "destek": [
-          5197.26,
-          4648.91
+          5197.21,
+          4648.81
         ],
         "direnc": [
           5900.11,
           7355.01
         ],
         "direnc_projeksiyon": false,
-        "atr": 365.57
+        "atr": 365.6
       }
     }
   },

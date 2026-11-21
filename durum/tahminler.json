@@ -212,5 +212,13 @@
     "kaynak": "analiz",
     "fiyat": 5745.61,
     "sonuc": null
+  },
+  {
+    "zaman": "2026-11-21T06:56:49+00:00",
+    "vade": "kisa",
+    "yon": "yatay",
+    "kaynak": "analiz",
+    "fiyat": 5745.61,
+    "sonuc": null
   }
 ]
