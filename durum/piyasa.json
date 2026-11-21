@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-21T15:48:32+00:00",
+  "zaman": "2026-11-21T18:48:39+00:00",
   "gram": 5707.29,
   "ons": 3515.4,
   "kur": 50.4969,
@@ -140,10 +140,10 @@
   },
   "karne": {
     "kisa": {
-      "toplam": 13,
+      "toplam": 14,
       "dogru": 8,
       "son_20_dogru": 8,
-      "son_20_toplam": 13
+      "son_20_toplam": 14
     },
     "orta": {
       "toplam": 0,
