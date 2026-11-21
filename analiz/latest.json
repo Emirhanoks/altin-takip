@@ -1,6 +1,6 @@
 {
-  "olusturma": "2026-11-21T03:48:00+00:00",
-  "ozet": "Piyasalar hafta sonu kapalı; ons altın haftayı yaklaşık 3.540 dolardan, gram altın yaklaşık 5.746 TL'den kapattı (haftalık kayıp yaklaşık %9, 14 ayın dibi). Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışının getirdiği zorunlu satıştan geliyor. Kısa vadede aşırı satım tepkisi mümkün, ama eğilim hâlâ aşağı.",
+  "olusturma": "2026-11-21T09:49:11+00:00",
+  "ozet": "Piyasalar hafta sonu kapalı; ons altın haftayı yaklaşık 3.540 dolardan, gram altın yaklaşık 5.746 TL'den kapattı (haftalık kayıp yaklaşık %9, 14 ayın dibi). Son analizden bu yana yeni bir gelişme yok: baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor. Pazartesi açılışta aşırı satım tepkisi de, yeni düşüş de mümkün.",
   "vadeler": {
     "kisa": {
       "yon": "yatay",
@@ -70,11 +70,11 @@
       "yorum": "Uzun vadeli görüş destekleyici; Goldman kısa vadede artırımlar nedeniyle oynaklık görüyor."
     },
     {
-      "baslik": "Wall Street ayı tarafında, Main Street kötümserliği tatil haftası öncesi derinleşiyor (Kitco anketi)",
+      "baslik": "Altında 12 yıllık yükseliş serisi bitiyor: Gram altın 5.720 TL'ye kadar çakıldı",
       "etki": "negatif",
-      "kaynak": "Kitco",
-      "url": "http://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism",
-      "yorum": "Katılımcı beklentisi aşağı yönlü; aşırı kötümserlik ise ters yönlü tepki ihtimalini artırabilir."
+      "kaynak": "Gerçek Gündem",
+      "url": "https://www.gercekgundem.com/ekonomi/altinda-12-yillik-yukselis-serisi-bitiyor-gram-altin-5-bin-720-tlye-kadar-cakildi-582906",
+      "yorum": "Yurt içi fiyatların da onsla birlikte sert gerilediğini gösteriyor."
     }
   ],
   "trader_gorusleri": [
