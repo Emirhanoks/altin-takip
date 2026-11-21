@@ -1,19 +1,19 @@
 {
-  "olusturma": "2026-11-21T09:49:11+00:00",
-  "ozet": "Piyasalar hafta sonu kapalı; ons altın haftayı yaklaşık 3.540 dolardan, gram altın yaklaşık 5.746 TL'den kapattı (haftalık kayıp yaklaşık %9, 14 ayın dibi). Son analizden bu yana yeni bir gelişme yok: baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor. Pazartesi açılışta aşırı satım tepkisi de, yeni düşüş de mümkün.",
+  "olusturma": "2026-11-21T12:49:03+00:00",
+  "ozet": "Piyasalar hafta sonu kapalı; ons altın haftayı yaklaşık 3.515-3.545 dolar aralığında, gram altın yaklaşık 5.707 TL'den kapattı (haftalık kayıp yaklaşık %9, 14 ayın dibi). Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son analizden bu yana yeni bir veri yok. Pazartesi açılışta aşırı satım tepkisi de, yeni düşüş de mümkün.",
   "vadeler": {
     "kisa": {
       "yon": "yatay",
       "guven": 50,
-      "yorum": "Teknik tablo aşağı (fiyat EMA20 ve EMA50 altında) ama RSI 33,7 ve orta vadede 24 ile aşırı satımda; pazartesi açılışta boşluk ya da tepki olabilir. Yön net olmadığı için güven düşük.",
-      "hedef": "Gramda 5.715-5.850 TL bandı; 5.715 TL destek, onsta 3.500 dolar kritik",
-      "iptal": "Gramın 5.715 TL altında kapanışı (aşağı) veya 5.850-5.990 TL üstü (yukarı tepki)"
+      "yorum": "Teknik tablo aşağı (fiyat EMA20 ve EMA50 altında) ama kısa vadede RSI 26, orta vadede 23 ile aşırı satımda; pazartesi açılışta boşluk ya da tepki olabilir. Yön net olmadığı için güven düşük.",
+      "hedef": "Gramda 5.640-5.850 TL bandı; 5.638 TL destek, onsta 3.500 dolar kritik",
+      "iptal": "Gramın 5.638 TL altında kapanışı (aşağı) veya 5.850-5.990 TL üstü (yukarı tepki)"
     },
     "orta": {
       "yon": "asagi",
       "guven": 55,
       "yorum": "Fed artırım beklentisi yüksek, fiyat EMA50 ve EMA200 altında. RSI 24 ile aşırı satım olduğundan sert düşüş yerine tepkili bir zayıflık daha olası.",
-      "hedef": "Gramda 5.485 TL, ardından 5.242 TL destekleri",
+      "hedef": "Gramda 5.464 TL, ardından 5.221 TL destekleri",
       "iptal": "Zayıf ABD verisiyle artırım beklentisinin sönmesi veya gramın 5.940-6.200 TL direnç bölgesini geri alması"
     },
     "uzun": {
@@ -21,7 +21,7 @@
       "guven": 50,
       "yorum": "Goldman, merkez bankası alımlarının taban oluşturduğunu ve faiz indirimleri başlayınca yatırımcı talebinin döneceğini söylüyor. TL'deki değer kaybı gramı destekler; güçlü dolar ve aşağı teknik tablo nedeniyle güven düşük.",
       "hedef": "Fed gevşemeye döndüğünde gramda 6.500 TL üzeri bölgeye dönüş",
-      "iptal": "Gramın 5.180 TL ve 4.631 TL desteklerinin kalıcı kırılması veya Fed sıkılaşmasının 2027'ye uzaması"
+      "iptal": "Gramın 5.159 TL ve 4.610 TL desteklerinin kalıcı kırılması veya Fed sıkılaşmasının 2027'ye uzaması"
     }
   },
   "ana_senaryo": "Artırım beklentisi büyük ölçüde fiyatlandığı için ons 3.500-3.700 dolar bandında dalgalanır, gram 5.650-5.990 TL arasında zayıf eğilimli kalır; aşırı satım nedeniyle kısa tepki olası.",
@@ -56,11 +56,11 @@
       "yorum": "Artırım neredeyse tam fiyatlandığı için sürpriz olmayan bir karar fiyatı pek düşürmeyebilir."
     },
     {
-      "baslik": "Altında haftalık kayıp yaklaşık %9: Fed artırım korkusu ve yapay zeka hisse satışı",
+      "baslik": "Wall Street altında ayı görüşünü koruyor; ons 3.500 dolara sarktı",
       "etki": "negatif",
-      "kaynak": "IBTimes",
-      "url": "https://www.ibtimes.com/gold-weekly-loss-rate-hike-ai-stock-selloff-3810021",
-      "yorum": "Hisselerdeki satış nakit ihtiyacı doğurup altını da aşağı çekiyor."
+      "kaynak": "Kitco",
+      "url": "http://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism",
+      "yorum": "Kurumsal kesimin temkinli kalması kısa vadede toparlanmayı zorlaştırıyor."
     },
     {
       "baslik": "Goldman: Altın 2028'de 5.600 doları geri alacak",
