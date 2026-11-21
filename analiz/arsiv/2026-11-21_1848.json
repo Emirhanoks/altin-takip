@@ -1,0 +1,120 @@
+{
+  "olusturma": "2026-11-21T18:48:15+00:00",
+  "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.707 TL'de (haftalık kayıp yaklaşık %9, 14 ayın dibi), ons yaklaşık 3.515 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son analizden bu yana yeni veri veya haber bulunamadı, görüş korunuyor. Pazartesi açılışta hem aşırı satım tepkisi hem yeni düşüş mümkün.",
+  "vadeler": {
+    "kisa": {
+      "yon": "yatay",
+      "guven": 50,
+      "yorum": "Teknik tablo aşağı (fiyat EMA20 ve EMA50 altında) ama kısa vadede RSI 26, orta vadede 23 ile aşırı satımda; pazartesi açılışta boşluk ya da tepki olabilir. Yön net olmadığı için güven düşük.",
+      "hedef": "Gramda 5.640-5.850 TL bandı; 5.638 TL destek, onsta 3.500 dolar kritik",
+      "iptal": "Gramın 5.638 TL altında kapanışı (aşağı) veya 5.850-5.990 TL üstü (yukarı tepki)"
+    },
+    "orta": {
+      "yon": "asagi",
+      "guven": 55,
+      "yorum": "Fed artırım beklentisi yüksek, fiyat EMA50 ve EMA200 altında. RSI 24 ile aşırı satım olduğundan sert düşüş yerine tepkili bir zayıflık daha olası.",
+      "hedef": "Gramda 5.464 TL, ardından 5.221 TL destekleri",
+      "iptal": "Zayıf ABD verisiyle artırım beklentisinin sönmesi veya gramın 5.940-6.200 TL direnç bölgesini geri alması"
+    },
+    "uzun": {
+      "yon": "yukari",
+      "guven": 50,
+      "yorum": "Goldman, merkez bankası alımlarının taban oluşturduğunu ve faiz indirimleri başlayınca yatırımcı talebinin döneceğini söylüyor. TL'deki değer kaybı gramı destekler; güçlü dolar ve aşağı teknik tablo nedeniyle güven düşük.",
+      "hedef": "Fed gevşemeye döndüğünde gramda 6.500 TL üzeri bölgeye dönüş",
+      "iptal": "Gramın 5.159 TL ve 4.610 TL desteklerinin kalıcı kırılması veya Fed sıkılaşmasının 2027'ye uzaması"
+    }
+  },
+  "ana_senaryo": "Artırım beklentisi büyük ölçüde fiyatlandığı için ons 3.500-3.700 dolar bandında dalgalanır, gram 5.650-5.990 TL arasında zayıf eğilimli kalır; aşırı satım nedeniyle kısa tepki olası.",
+  "alternatif_senaryo": "Hisse satışı ve dolar gücü sürerse ons 3.500 doların altına sarkar, gram 5.485 TL desteğini sınar. Zayıf ABD verisi artırım beklentisini kırarsa gram 5.990 TL üzerine hızlı tepki verebilir.",
+  "haberler": [
+    {
+      "baslik": "Altın haftalık %8,71 düştü, 3.543,60 dolar: sert Fed beklentisi ve teknoloji hisselerinde satış",
+      "etki": "negatif",
+      "kaynak": "IndexBox",
+      "url": "https://www.indexbox.io/blog/gold-extends-steep-weekly-loss-as-hawkish-fed-bets-and-equity-rout-weigh/",
+      "yorum": "Hisse satışı kaynaklı nakit ihtiyacı altını da aşağı çekiyor; gramdaki düşüş TL'nin zayıflığıyla sınırlı kalıyor."
+    },
+    {
+      "baslik": "Altın, 2025 Eylül'ünden bu yana en düşük seviyeyi gördü; Fed artırım beklentisi tavan çiziyor",
+      "etki": "negatif",
+      "kaynak": "FXStreet",
+      "url": "https://www.fxstreet.com/news/gold-slumps-below-3-550-fresh-low-since-september-2025-as-fed-bets-iran-risks-lift-usd-202611200227",
+      "yorum": "Güçlü dolar ve Fed artırım bahisleri onsu baskılıyor; gram altın da aynı yönde zayıf."
+    },
+    {
+      "baslik": "Altın, Mart'tan bu yana en sert haftaya gidiyor: Fed artırım bahisleri ve zorunlu satış",
+      "etki": "negatif",
+      "kaynak": "FXStreet",
+      "url": "https://www.fxstreet.com/news/gold-set-for-steepest-weekly-drop-since-march-as-fed-hike-bets-and-forced-selling-weigh-202611201123",
+      "yorum": "Zorunlu satış baskısı sürerse düşüş uzayabilir; aşırı satım ise tepki ihtimalini artırıyor."
+    },
+    {
+      "baslik": "Altın 14 ayın en düşüğünde, Fed artırım ihtimali %99 seviyesinde",
+      "etki": "negatif",
+      "kaynak": "FinanceFeeds",
+      "url": "https://financefeeds.com/gold-price-near-3560-after-hitting-14-month-low-as-fed-hike-odds-reach-99/",
+      "yorum": "Artırım neredeyse tam fiyatlandığı için sürpriz olmayan bir karar fiyatı pek düşürmeyebilir."
+    },
+    {
+      "baslik": "Wall Street altında ayı görüşünü koruyor; ons 3.500 dolara sarktı",
+      "etki": "negatif",
+      "kaynak": "Kitco",
+      "url": "http://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism",
+      "yorum": "Kurumsal kesimin temkinli kalması kısa vadede toparlanmayı zorlaştırıyor."
+    },
+    {
+      "baslik": "Goldman: Altın 2028'de 5.600 doları geri alacak",
+      "etki": "pozitif",
+      "kaynak": "Kitco",
+      "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
+      "yorum": "Uzun vadeli görüş destekleyici; Goldman kısa vadede artırımlar nedeniyle oynaklık görüyor."
+    },
+    {
+      "baslik": "Altında 12 yıllık yükseliş serisi bitiyor: Gram altın 5.720 TL'ye kadar çakıldı",
+      "etki": "negatif",
+      "kaynak": "Gerçek Gündem",
+      "url": "https://www.gercekgundem.com/ekonomi/altinda-12-yillik-yukselis-serisi-bitiyor-gram-altin-5-bin-720-tlye-kadar-cakildi-582906",
+      "yorum": "Yurt içi fiyatların da onsla birlikte sert gerilediğini gösteriyor."
+    }
+  ],
+  "trader_gorusleri": [
+    {
+      "kim": "Goldman Sachs (Lina Thomas ve ekibi)",
+      "gorus": "2027 sonu için ons 4.650 dolar, 2028 sonuna kadar 5.600 doların üzerine dönüş öngörüyor; Aralık'ta ikinci, Mart'ta üçüncü 25 baz puanlık artırım bekliyor. Merkez bankası alımlarının ayda ortalama 60 ton olacağını varsayıyor.",
+      "kaynak": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back"
+    },
+    {
+      "kim": "Jesse Colombo (bağımsız analist)",
+      "gorus": "3.900 dolar desteğinin net kırılması halinde ons için 3.400-3.500 dolar bandını işaret etmişti; fiyat bu banda ulaştı.",
+      "kaynak": "https://www.cnbce.com/altin/analist-colombodan-altinda-3400-uyarisi-haftalik-kayip-yuzde-5e-ulasti-g41828"
+    },
+    {
+      "kim": "UBS (Ağustos 2026 görüşü)",
+      "gorus": "2027'nin ilk yarısında ons için 5.000 dolar seviyesinin zorlanabileceğini söylemişti; görüş fiyat düşüşünden önce yayımlandı, güncel olup olmadığı doğrulanamadı.",
+      "kaynak": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd"
+    }
+  ],
+  "takvim": [
+    {
+      "zaman": "Pzt sabah (İstanbul)",
+      "olay": "Asya açılışı; onsta hafta sonu boşluğu olabilir",
+      "onem": "orta"
+    },
+    {
+      "zaman": "Per 26 Kasım",
+      "olay": "ABD Şükran Günü tatili, düşük hacim",
+      "onem": "orta"
+    },
+    {
+      "zaman": "Aralık",
+      "olay": "Fed faiz kararı (piyasa 25 baz puan artırım bekliyor)",
+      "onem": "yuksek"
+    }
+  ],
+  "riskler": [
+    "Fed'in Aralık'ta beklenen 25 baz puandan sert davranması ons için 3.500 doların altını açabilir",
+    "Hisse satışı sürerse nakit ihtiyacıyla altında zorunlu satış devam edebilir",
+    "Zayıf ABD verisi artırım beklentisini bozup sert tepki yükselişi başlatabilir",
+    "Dolar/TL'de ani hareket gram altını onstan bağımsız oynatır"
+  ]
+}

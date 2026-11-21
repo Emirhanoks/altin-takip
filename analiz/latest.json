@@ -1,6 +1,6 @@
 {
-  "olusturma": "2026-11-21T15:47:55+00:00",
-  "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.707 TL'de (haftalık kayıp yaklaşık %9, 14 ayın dibi), ons yaklaşık 3.515-3.545 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son analizden bu yana yeni veri veya haber yok, görüş korunuyor. Pazartesi açılışta aşırı satım tepkisi de, yeni düşüş de mümkün.",
+  "olusturma": "2026-11-21T18:48:15+00:00",
+  "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.707 TL'de (haftalık kayıp yaklaşık %9, 14 ayın dibi), ons yaklaşık 3.515 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son analizden bu yana yeni veri veya haber bulunamadı, görüş korunuyor. Pazartesi açılışta hem aşırı satım tepkisi hem yeni düşüş mümkün.",
   "vadeler": {
     "kisa": {
       "yon": "yatay",
@@ -87,6 +87,11 @@
       "kim": "Jesse Colombo (bağımsız analist)",
       "gorus": "3.900 dolar desteğinin net kırılması halinde ons için 3.400-3.500 dolar bandını işaret etmişti; fiyat bu banda ulaştı.",
       "kaynak": "https://www.cnbce.com/altin/analist-colombodan-altinda-3400-uyarisi-haftalik-kayip-yuzde-5e-ulasti-g41828"
+    },
+    {
+      "kim": "UBS (Ağustos 2026 görüşü)",
+      "gorus": "2027'nin ilk yarısında ons için 5.000 dolar seviyesinin zorlanabileceğini söylemişti; görüş fiyat düşüşünden önce yayımlandı, güncel olup olmadığı doğrulanamadı.",
+      "kaynak": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd"
     }
   ],
   "takvim": [
