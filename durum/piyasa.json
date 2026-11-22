@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-22T18:51:30+00:00",
+  "zaman": "2026-11-22T21:48:48+00:00",
   "gram": 5707.29,
   "ons": 3515.4,
   "kur": 50.4969,
@@ -47,8 +47,8 @@
     }
   },
   "kapalicarsi": {
-    "alis": 5730.97,
-    "satis": 5731.95,
+    "alis": 5737.69,
+    "satis": 5738.55,
     "kaynak": "finans.truncgil.com"
   },
   "teknik": {
@@ -63,10 +63,10 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 26.4,
-      "macd_hist": -0.35,
-      "ema20": 5790.25,
-      "ema50": 5893.33,
+      "rsi": 26.5,
+      "macd_hist": -0.32,
+      "ema20": 5790.22,
+      "ema50": 5893.31,
       "seviyeler": {
         "destek": [
           5638.43,
