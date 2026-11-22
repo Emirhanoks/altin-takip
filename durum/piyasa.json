@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-22T06:51:31+00:00",
+  "zaman": "2026-11-22T09:50:33+00:00",
   "gram": 5707.29,
   "ons": 3515.4,
   "kur": 50.4969,
@@ -63,10 +63,10 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 26.4,
-      "macd_hist": -0.35,
-      "ema20": 5790.25,
-      "ema50": 5893.33,
+      "rsi": 26.5,
+      "macd_hist": -0.32,
+      "ema20": 5790.22,
+      "ema50": 5893.31,
       "seviyeler": {
         "destek": [
           5638.43,
@@ -140,10 +140,10 @@
   },
   "karne": {
     "kisa": {
-      "toplam": 18,
-      "dogru": 10,
-      "son_20_dogru": 10,
-      "son_20_toplam": 18
+      "toplam": 20,
+      "dogru": 11,
+      "son_20_dogru": 11,
+      "son_20_toplam": 20
     },
     "orta": {
       "toplam": 0,
