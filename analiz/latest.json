@@ -1,5 +1,5 @@
 {
-  "olusturma": "2026-11-22T09:47:00+00:00",
+  "olusturma": "2026-11-22T12:48:34+00:00",
   "ozet": "Piyasalar hafta sonu kapalı; gram altın cuma kapanışında yaklaşık 5.707 TL (haftalık kayıp yaklaşık %9), ons yaklaşık 3.515 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son üç saatte doğrulanmış yeni bir gelişme yok, görüş korunuyor. Pazartesi açılışta hem aşırı satım tepkisi hem yeni düşüş mümkün.",
   "vadeler": {
     "kisa": {
@@ -27,6 +27,13 @@
   "ana_senaryo": "Artırım beklentisi büyük ölçüde fiyatlandığı için ons 3.500-3.700 dolar bandında dalgalanır, gram 5.650-5.990 TL arasında zayıf eğilimli kalır; aşırı satım nedeniyle kısa tepki olası.",
   "alternatif_senaryo": "Hisse satışı ve dolar gücü sürerse ons 3.500 doların altına sarkar, gram 5.485 TL desteğini sınar. Zayıf ABD verisi artırım beklentisini kırarsa gram 5.990 TL üzerine hızlı tepki verebilir.",
   "haberler": [
+    {
+      "baslik": "Altın fiyatlarında sert düşüş: gram altın 5.731 TL'ye geriledi",
+      "etki": "negatif",
+      "kaynak": "Fotomaç",
+      "url": "https://www.fotomac.com.tr/haber-ozel/2026/11/22/altin-neden-dusuyor-22-kasim-gram-altin-ceyrek-altin-ne-kadar",
+      "yorum": "Yurt içi serbest piyasa fiyatı da hafta sonu düşük seviyede; Kapalıçarşı gram yaklaşık 5.731 TL ile uyumlu."
+    },
     {
       "baslik": "Altın haftalık %8,71 düştü, 3.543,60 dolar: sert Fed beklentisi ve teknoloji hisselerinde satış",
       "etki": "negatif",
@@ -68,13 +75,6 @@
       "kaynak": "Foreks",
       "url": "https://www.foreks.com/haber/detay/6af57178635b284a64306d33/PICNEWS/tr/tcmb-baskani-karahan-rezervlerdeki-49-milyar-dolarlik-dususun-28-milyar-dolari-altin-fiyatlarindan-kaynaklandi-12-11-26/",
       "yorum": "Altındaki düşüşün TCMB rezervlerine yansıdığını gösteriyor; gram altın için doğrudan yön işareti değil, TL tarafı için bağlam."
-    },
-    {
-      "baslik": "Goldman: Altın 2028'de 5.600 doları geri alacak",
-      "etki": "pozitif",
-      "kaynak": "Kitco",
-      "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
-      "yorum": "Uzun vadeli görüş destekleyici; Goldman kısa vadede artırımlar nedeniyle oynaklık görüyor."
     }
   ],
   "trader_gorusleri": [
