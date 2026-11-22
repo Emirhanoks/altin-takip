@@ -253,7 +253,9 @@
     "yon": "yatay",
     "kaynak": "analiz",
     "fiyat": 5707.29,
-    "sonuc": null
+    "sonuc": "dogru",
+    "gerceklesen_yuzde": 0.0,
+    "degerlendirme": "2026-11-22T15:50:42+00:00"
   },
   {
     "zaman": "2026-11-21T15:48:32+00:00",
@@ -261,7 +263,9 @@
     "yon": "yatay",
     "kaynak": "analiz",
     "fiyat": 5707.29,
-    "sonuc": null
+    "sonuc": "dogru",
+    "gerceklesen_yuzde": 0.0,
+    "degerlendirme": "2026-11-22T15:50:42+00:00"
   },
   {
     "zaman": "2026-11-21T18:48:39+00:00",
@@ -321,6 +325,14 @@
   },
   {
     "zaman": "2026-11-22T12:49:14+00:00",
+    "vade": "kisa",
+    "yon": "yatay",
+    "kaynak": "analiz",
+    "fiyat": 5707.29,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-22T15:50:42+00:00",
     "vade": "kisa",
     "yon": "yatay",
     "kaynak": "analiz",
