@@ -1,6 +1,6 @@
 {
-  "olusturma": "2026-11-21T21:48:35+00:00",
-  "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.707 TL'de (haftalık kayıp yaklaşık %9, 14 ayın dibi), ons yaklaşık 3.515 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son analizden bu yana yeni veri veya haber doğrulanamadı, görüş korunuyor. Pazartesi açılışta hem aşırı satım tepkisi hem yeni düşüş mümkün.",
+  "olusturma": "2026-11-22T00:48:26+00:00",
+  "ozet": "Piyasalar hafta sonu kapalı; gram altın cuma kapanışında yaklaşık 5.707 TL (haftalık kayıp yaklaşık %9), ons yaklaşık 3.515 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son analizden bu yana yeni veri veya haber doğrulanamadı, görüş korunuyor. Pazartesi açılışta hem aşırı satım tepkisi hem yeni düşüş mümkün.",
   "vadeler": {
     "kisa": {
       "yon": "yatay",
@@ -63,18 +63,18 @@
       "yorum": "Kurumsal kesimin temkinli kalması kısa vadede toparlanmayı zorlaştırıyor."
     },
     {
+      "baslik": "TCMB Başkanı Karahan: Rezervlerdeki 49 milyar dolarlık düşüşün 28 milyar doları altın fiyatlarından kaynaklandı",
+      "etki": "notr",
+      "kaynak": "Foreks",
+      "url": "https://www.foreks.com/haber/detay/6af57178635b284a64306d33/PICNEWS/tr/tcmb-baskani-karahan-rezervlerdeki-49-milyar-dolarlik-dususun-28-milyar-dolari-altin-fiyatlarindan-kaynaklandi-12-11-26/",
+      "yorum": "Altındaki düşüşün TCMB rezervlerine yansıdığını gösteriyor; gram altın için doğrudan yön işareti değil, TL tarafı için bağlam."
+    },
+    {
       "baslik": "Goldman: Altın 2028'de 5.600 doları geri alacak",
       "etki": "pozitif",
       "kaynak": "Kitco",
       "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
       "yorum": "Uzun vadeli görüş destekleyici; Goldman kısa vadede artırımlar nedeniyle oynaklık görüyor."
-    },
-    {
-      "baslik": "Altında 12 yıllık yükseliş serisi bitiyor: Gram altın 5.720 TL'ye kadar çakıldı",
-      "etki": "negatif",
-      "kaynak": "Gerçek Gündem",
-      "url": "https://www.gercekgundem.com/ekonomi/altinda-12-yillik-yukselis-serisi-bitiyor-gram-altin-5-bin-720-tlye-kadar-cakildi-582906",
-      "yorum": "Yurt içi fiyatların da onsla birlikte sert gerilediğini gösteriyor."
     }
   ],
   "trader_gorusleri": [
