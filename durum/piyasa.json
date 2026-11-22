@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-22T03:50:46+00:00",
+  "zaman": "2026-11-22T06:51:31+00:00",
   "gram": 5707.29,
   "ons": 3515.4,
   "kur": 50.4969,
@@ -26,14 +26,14 @@
       "aylik_degisim_yuzde": -0.83
     },
     "gumus_ons": {
-      "son": 41.035,
-      "gunluk_degisim_yuzde": -7.41,
-      "aylik_degisim_yuzde": -25.07
+      "son": 41.07,
+      "gunluk_degisim_yuzde": -7.33,
+      "aylik_degisim_yuzde": -25.01
     },
     "brent": {
-      "son": 92.57,
-      "gunluk_degisim_yuzde": 0.64,
-      "aylik_degisim_yuzde": -18.2
+      "son": 89.95,
+      "gunluk_degisim_yuzde": -2.21,
+      "aylik_degisim_yuzde": -20.52
     },
     "sp500": {
       "son": 6910.3901,
@@ -63,10 +63,10 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 26.5,
-      "macd_hist": -0.32,
-      "ema20": 5790.22,
-      "ema50": 5893.31,
+      "rsi": 26.4,
+      "macd_hist": -0.35,
+      "ema20": 5790.25,
+      "ema50": 5893.33,
       "seviyeler": {
         "destek": [
           5638.43,
