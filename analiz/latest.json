@@ -1,92 +1,35 @@
 {
-  "olusturma": "2026-11-23T06:51:55+00:00",
-  "ozet": "Gram altın yaklaşık 5.863 TL, ons yaklaşık 3.600 dolar civarında; geçen haftaki sert düşüşün ardından Fed artırım beklentilerinin gevşemesi ve hisse satışı sayesinde tepki sürüyor. Teknik tablo orta ve uzun vadede hâlâ aşağı, kısa vade dengeli. Çarşamba PCE ve GSYH verisi yönü belirleyecek.",
+  "olusturma": "2026-11-23T12:51:24+00:00",
+  "ozet": "Ons altın geçen haftanın 3.500 dolar civarındaki dibinden yaklaşık 3.615 dolara toparlandı; Fed'in büyük (yarım puan) artırım beklentisi geriledi, 10 yıllık faiz %5 altına indi. Gram altın yaklaşık 5.881 TL ile EMA50 (5.883 TL) hizasında. Çarşamba günü ABD PCE enflasyonu ve GSYH verisi bu tepkinin kalıcı olup olmadığını belirleyecek.",
   "vadeler": {
-    "kisa": {
-      "yon": "yatay",
-      "guven": 50,
-      "yorum": "Aşırı satımdan tepki sürüyor ama fiyat EMA50 (5.883 TL) altında ve 5.990-6.035 TL direnç bölgesine yakın. Çarşamba verisine kadar dar bantta dalgalanma daha olası.",
-      "hedef": "Gramda 5.700-5.990 TL bandı; 5.848 TL kısa destek",
-      "iptal": "5.848 TL altında kapanış (aşağı) veya 5.990 TL üstü kalıcı kapanış (yukarı)"
-    },
-    "orta": {
-      "yon": "asagi",
-      "guven": 50,
-      "yorum": "Fiyat EMA50 ve EMA200 altında, trend aşağı. Ancak artırım beklentisi geriliyor; bu nedenle düşüşün hızı yavaşlayabilir, güven düşük.",
-      "hedef": "Gramda 5.618 TL, ardından 5.372 TL destekleri",
-      "iptal": "Gramın 5.941-6.206 TL direnç bölgesini geri alması veya Fed'in artırım beklentisini belirgin şekilde sönümlemesi"
-    },
-    "uzun": {
-      "yon": "yukari",
-      "guven": 45,
-      "yorum": "Merkez bankası alımları ve olası Fed gevşemesi uzun vadede destek; TL'nin değer kaybı gramı korur. Ancak teknik görünüm zayıf ve güçlü dolar baskısı sürüyor.",
-      "hedef": "Fed sıkılaşması bittiğinde gramda 6.400-6.500 TL üzeri bölgeye dönüş",
-      "iptal": "Gramın 5.334 TL desteğinin kalıcı kırılması"
-    }
+    "kisa": {"yon": "yatay", "guven": 50, "yorum": "Tepki yükselişi sürüyor ama fiyat 5.884 TL (EMA50) ve 5.904-5.941 TL direnç bölgesinde. Çarşamba PCE verisine kadar dar bantta dalgalanma daha olası.", "hedef": "5.714-5.990 TL bandı; 5.848 TL kısa destek", "iptal": "5.848 TL altında kapanış (aşağı) veya 5.990 TL üstü kalıcı kapanış (yukarı)"},
+    "orta": {"yon": "asagi", "guven": 55, "yorum": "Fiyat EMA50 ve EMA200 altında, RSI 33 civarında (zayıf ama aşırı satım değil). Kitco anketinde 15 analistin 9'u aşağı yönlü; Fed artırım beklentisi azalsa da tamamen silinmedi.", "hedef": "Gramda 5.634 TL, ardından 5.387 TL destekleri", "iptal": "Gramın 5.941-6.206 TL direnç bölgesini kalıcı geri alması veya Fed artırım beklentisinin belirgin şekilde sönmesi"},
+    "uzun": {"yon": "yatay", "guven": 40, "yorum": "Merkez bankası alımları (Q3'te 321 ton) düşüşü yavaşlatan bir fren, ama zemin değil; faiz artırım döngüsü sürerken yön belirsiz. TL'nin değer kaybı gramı ons düşüşüne karşı kısmen korur.", "hedef": "Gramda 5.350-6.450 TL geniş bandı; kalıcı toparlanma için Fed duruşunun yumuşaması gerekir", "iptal": "Gramın 5.350 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"}
   },
-  "ana_senaryo": "Artırım beklentisinin azalması ve hisse satışı gramı 5.700-5.990 TL bandında tutar; çarşamba PCE verisi bandın hangi yöne kırılacağını belirler.",
-  "alternatif_senaryo": "PCE sıcak gelirse artırım beklentisi geri döner, ons 3.500 doların altına iner ve gram 5.618 TL desteğini sınar.",
+  "ana_senaryo": "Artırım beklentisinin gevşemesi gramı 5.714-5.990 TL bandında tutar; PCE verisi yumuşak gelirse 5.990 TL direnci denenir.",
+  "alternatif_senaryo": "PCE sıcak gelirse yarım puanlık artırım beklentisi geri döner, ons yeniden 3.500 dolar altını sınar ve gram 5.634 TL desteğine iner.",
   "haberler": [
-    {
-      "baslik": "Altın yılın dibinden toparlandı: zayıf dolar ve güvenli liman talebi",
-      "etki": "pozitif",
-      "kaynak": "FXStreet",
-      "url": "https://www.fxstreet.com/news/gold-recovers-from-september-2025-lows-retakes-3600-on-softer-usd-and-safe-haven-flows-202611230422",
-      "yorum": "Ons 3.600 doları geri aldı; dolar zayıflığı ve hisse satışı gramı kısa vadede destekliyor."
-    },
-    {
-      "baslik": "Altın 14 aylık dipten tepki verdi, teknoloji hisselerindeki satış güvenli liman talebini artırdı",
-      "etki": "pozitif",
-      "kaynak": "Investing.com",
-      "url": "https://au.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-4789124",
-      "yorum": "Hisse satışı bu kez altına talep getiriyor; zorunlu satış baskısı hafiflemiş olabilir."
-    },
-    {
-      "baslik": "Altın 14 aylık dipten sonra 3.560 dolar civarında, Fed artırım ihtimali yüksekti",
-      "etki": "negatif",
-      "kaynak": "FinanceFeeds",
-      "url": "https://financefeeds.com/gold-price-near-3560-after-hitting-14-month-low-as-fed-hike-odds-reach-99/",
-      "yorum": "Geçen haftaki baskının kaynağı artırım beklentisiydi; bu beklenti azaldıkça baskı da azalıyor."
-    },
-    {
-      "baslik": "Altın bir yıllık dibe yakın, gümüş toparlıyor; Fed artırım bahisleri sürüyor",
-      "etki": "negatif",
-      "kaynak": "Kitco",
-      "url": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
-      "yorum": "Artırım beklentisi tamamen silinmedi; sıcak veri gelirse baskı geri döner."
-    }
+    {"baslik": "Altın %2'den fazla yükseldi: yarım puanlık Fed artırım beklentisi azaldı, gözler PCE'de", "etki": "pozitif", "kaynak": "FXStreet", "url": "https://www.fxstreet.com/news/gold-jumps-over-2-as-half-point-fed-hike-bets-fade-us-pce-in-focus-202611231116", "yorum": "Başlığa göre büyük artırım ihtimali gerilemesi altını destekliyor; kalıcılık PCE verisine bağlı."},
+    {"baslik": "Altın 3.500 dolara kadar düştü; Wall Street düşüş beklentisini koruyor", "etki": "negatif", "kaynak": "Kitco", "url": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism", "yorum": "Haftalık ankette 15 analistin 9'u (%60) aşağı yönlü; tepki yükselişinin satış fırsatı olarak görülme riski var."},
+    {"baslik": "Hiking Fed altında altın: merkez bankası talebi ve reel faiz", "etki": "notr", "kaynak": "Kitco", "url": "https://www.kitco.com/opinion/2026-11-20/gold-under-hiking-fed-central-bank-demand-versus-real-rates", "yorum": "Q3'te resmi alım 321 ton; ancak yazara göre bu bir fren, zemin değil. Reel faiz yüksek kaldıkça altın baskılı."},
+    {"baslik": "XAU/USD 3.600 doların üzerine döndü, tahvil faizi %5 altına indi", "etki": "pozitif", "kaynak": "FX Leaders", "url": "https://www.fxleaders.com/news/2026/11/23/gold-price-forecast-xau-usd-rebounds-above-3600-as-yields-drop-below-5/", "yorum": "Faiz düşüşü ons altını destekliyor; gram altına da yansıyor."}
   ],
-  "trader_gorusleri": [],
+  "trader_gorusleri": [
+    {"kim": "Marc Chandler (Bannockburn Global Forex)", "gorus": "Haftalık ankette 'aşağı' dedi; 3.500 dolar kırılırsa 3.430-3.450 dolar bölgesini hedef gösterdi.", "kaynak": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism"},
+    {"kim": "Rich Checkan (Asset Strategies International)", "gorus": "Marjin çağrısı satışlarının ardından toparlanma bekliyor ('yukarı').", "kaynak": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism"},
+    {"kim": "Sean Lusk (Walsh Trading)", "gorus": "3.500 dolar (vadelide 3.573) tutmazsa yaklaşık 300 dolar daha düşüş bekliyor; sonraki destek 3.256-3.280 dolar.", "kaynak": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism"},
+    {"kim": "CPM Group", "gorus": "'Kenarda bekle' sinyali; 18 Kasım-2 Aralık için ilk hedef aralığı 3.560-4.000 dolar.", "kaynak": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism"}
+  ],
   "takvim": [
-    {
-      "zaman": "Pzt 17:05",
-      "olay": "ABD öncü hizmet ve imalat PMI (Kasım)",
-      "onem": "orta"
-    },
-    {
-      "zaman": "Sal 18:00",
-      "olay": "ABD Tüketici Güven Endeksi",
-      "onem": "orta"
-    },
-    {
-      "zaman": "Çar 16:30",
-      "olay": "ABD PCE/çekirdek PCE (Ekim), 3. çeyrek GSYH",
-      "onem": "yuksek"
-    },
-    {
-      "zaman": "Çar 22:00",
-      "olay": "Fed Beige Book",
-      "onem": "orta"
-    },
-    {
-      "zaman": "Per",
-      "olay": "ABD Şükran Günü: piyasalar kapalı",
-      "onem": "orta"
-    }
+    {"zaman": "Pzt 17:45", "olay": "ABD S&P Global öncü imalat PMI", "onem": "orta"},
+    {"zaman": "Sal 18:00", "olay": "ABD Tüketici Güven Endeksi", "onem": "orta"},
+    {"zaman": "Çar 16:30", "olay": "ABD Ekim PCE enflasyonu, 3. çeyrek GSYH, dayanıklı mal siparişleri", "onem": "yuksek"},
+    {"zaman": "Per", "olay": "ABD Şükran Günü: piyasalar kapalı", "onem": "orta"}
   ],
   "riskler": [
-    "Sıcak PCE verisi Fed artırım beklentisini geri getirebilir",
-    "Hisse satışı derinleşirse nakit ihtiyacıyla altında zorunlu satış yeniden başlayabilir",
-    "Dolar/TL'deki ani hareket gramı onstan bağımsız oynatabilir"
+    "Sıcak PCE verisi yarım puanlık Fed artırım beklentisini geri getirebilir",
+    "Hisse piyasasındaki düzeltme derinleşirse nakit ihtiyacıyla altında zorunlu satış sürebilir",
+    "USD/TL'deki ani hareket gramı onstan bağımsız oynatabilir",
+    "Şükran Günü haftasında düşük likidite fiyatları sert oynatabilir"
   ]
 }
