@@ -1,6 +1,6 @@
 {
-  "olusturma": "2026-11-23T03:49:34+00:00",
-  "ozet": "Gram altın yaklaşık 5.863 TL, ons yaklaşık 3.580-3.605 dolar; geçen haftaki %9'luk düşüşün ardından tepki geldi. Swap piyasası Aralık'ta Fed artırımını artık tam fiyatlamıyor ve Hazine Bakanı Bessent Fed'i aşırı sıkılaştırma konusunda uyardı; teknoloji hisselerindeki sert satış da güvenli liman talebini destekliyor. Teknik tablo orta ve uzun vadede hâlâ aşağı; çarşamba PCE ve GSYH verisi yönü belirleyecek.",
+  "olusturma": "2026-11-23T06:51:55+00:00",
+  "ozet": "Gram altın yaklaşık 5.863 TL, ons yaklaşık 3.600 dolar civarında; geçen haftaki sert düşüşün ardından Fed artırım beklentilerinin gevşemesi ve hisse satışı sayesinde tepki sürüyor. Teknik tablo orta ve uzun vadede hâlâ aşağı, kısa vade dengeli. Çarşamba PCE ve GSYH verisi yönü belirleyecek.",
   "vadeler": {
     "kisa": {
       "yon": "yatay",
@@ -28,52 +28,61 @@
   "alternatif_senaryo": "PCE sıcak gelirse artırım beklentisi geri döner, ons 3.500 doların altına iner ve gram 5.618 TL desteğini sınar.",
   "haberler": [
     {
-      "baslik": "Altın, Fed artırım bahisleri azalınca toparlandı",
+      "baslik": "Altın yılın dibinden toparlandı: zayıf dolar ve güvenli liman talebi",
       "etki": "pozitif",
-      "kaynak": "Bloomberg (Free Malaysia Today)",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-      "yorum": "Ons yaklaşık %1,1 artışla 3.578 dolara çıktı; swap piyasası Aralık artırımını artık tam fiyatlamıyor. Gram için kısa vadeli destek."
+      "kaynak": "FXStreet",
+      "url": "https://www.fxstreet.com/news/gold-recovers-from-september-2025-lows-retakes-3600-on-softer-usd-and-safe-haven-flows-202611230422",
+      "yorum": "Ons 3.600 doları geri aldı; dolar zayıflığı ve hisse satışı gramı kısa vadede destekliyor."
     },
     {
       "baslik": "Altın 14 aylık dipten tepki verdi, teknoloji hisselerindeki satış güvenli liman talebini artırdı",
       "etki": "pozitif",
       "kaynak": "Investing.com",
-      "url": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271",
+      "url": "https://au.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-4789124",
       "yorum": "Hisse satışı bu kez altına talep getiriyor; zorunlu satış baskısı hafiflemiş olabilir."
     },
     {
-      "baslik": "Altın 14 ayın en düşüğünde, Fed artırım ihtimali yüksekti",
+      "baslik": "Altın 14 aylık dipten sonra 3.560 dolar civarında, Fed artırım ihtimali yüksekti",
       "etki": "negatif",
       "kaynak": "FinanceFeeds",
       "url": "https://financefeeds.com/gold-price-near-3560-after-hitting-14-month-low-as-fed-hike-odds-reach-99/",
-      "yorum": "Geçen haftaki baskının kaynağı artırım beklentisiydi; beklenti azaldıkça bu baskı da azalıyor."
+      "yorum": "Geçen haftaki baskının kaynağı artırım beklentisiydi; bu beklenti azaldıkça baskı da azalıyor."
     },
     {
-      "baslik": "Altın, Mart'tan bu yana en sert haftalık düşüşe gidiyor",
+      "baslik": "Altın bir yıllık dibe yakın, gümüş toparlıyor; Fed artırım bahisleri sürüyor",
       "etki": "negatif",
-      "kaynak": "FXStreet",
-      "url": "https://www.fxstreet.com/news/gold-set-for-steepest-weekly-drop-since-march-as-fed-hike-bets-and-forced-selling-weigh-202611201123",
-      "yorum": "Teknik zayıflık orta vadede sürüyor; tepki yükselişleri direnç bölgelerinde test edilecek."
+      "kaynak": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
+      "yorum": "Artırım beklentisi tamamen silinmedi; sıcak veri gelirse baskı geri döner."
     }
   ],
-  "trader_gorusleri": [
+  "trader_gorusleri": [],
+  "takvim": [
     {
-      "kim": "Goldman Sachs (Lina Thomas ve ekibi)",
-      "gorus": "2027 sonu için ons 4.650 dolar, 2028 sonuna kadar 5.600 doların üzerine dönüş öngörüyor; merkez bankası alımlarının ayda ortalama 60 ton olacağını varsayıyor.",
-      "kaynak": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back"
+      "zaman": "Pzt 17:05",
+      "olay": "ABD öncü hizmet ve imalat PMI (Kasım)",
+      "onem": "orta"
     },
     {
-      "kim": "BMI (Fitch grubu analiz birimi)",
-      "gorus": "2027'nin ilk çeyreğinde fiyatların baskı altında kalmasını bekliyor; pandemi öncesi seviyelere dönüş görmüyor.",
-      "kaynak": "https://www.khaleejtimes.com/business/gold-inches-up-from-over-one-year-low-fed-outlook-caps-gains"
+      "zaman": "Sal 18:00",
+      "olay": "ABD Tüketici Güven Endeksi",
+      "onem": "orta"
+    },
+    {
+      "zaman": "Çar 16:30",
+      "olay": "ABD PCE/çekirdek PCE (Ekim), 3. çeyrek GSYH",
+      "onem": "yuksek"
+    },
+    {
+      "zaman": "Çar 22:00",
+      "olay": "Fed Beige Book",
+      "onem": "orta"
+    },
+    {
+      "zaman": "Per",
+      "olay": "ABD Şükran Günü: piyasalar kapalı",
+      "onem": "orta"
     }
-  ],
-  "takvim": [
-    {"zaman": "Pzt 17:05", "olay": "ABD öncü hizmet ve imalat PMI (Kasım)", "onem": "orta"},
-    {"zaman": "Sal 18:00", "olay": "ABD Tüketici Güven Endeksi", "onem": "orta"},
-    {"zaman": "Çar 16:30", "olay": "ABD PCE/çekirdek PCE (Ekim), 3. çeyrek GSYH", "onem": "yuksek"},
-    {"zaman": "Çar 22:00", "olay": "Fed Beige Book", "onem": "orta"},
-    {"zaman": "Per", "olay": "ABD Şükran Günü: piyasalar kapalı", "onem": "orta"}
   ],
   "riskler": [
     "Sıcak PCE verisi Fed artırım beklentisini geri getirebilir",
