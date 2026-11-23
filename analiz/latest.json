@@ -1,6 +1,6 @@
 {
-  "olusturma": "2026-11-22T21:48:26+00:00",
-  "ozet": "Piyasalar hafta sonu kapalı; gram altın cuma kapanışında yaklaşık 5.707 TL (haftalık kayıp yaklaşık %9), ons yaklaşık 3.515 dolar. Baskı Fed'in Aralık'ta faiz artırımı beklentisinden ve hisse satışından geliyor; son üç saatte doğrulanabilir yeni bir gelişme çıkmadı, görüş korunuyor. Pazartesi açılışta hem aşırı satım tepkisi hem yeni düşüş mümkün.",
+  "olusturma": "2026-11-23T00:49:42+00:00",
+  "ozet": "Gram altın cuma kapanışında yaklaşık 5.707 TL, ons yaklaşık 3.515 dolar; haftalık kayıp yaklaşık %9. Baskı Fed'in 8-9 Aralık'ta 25 baz puan artırım yapma ihtimalinin %97 civarında fiyatlanmasından, güçlü dolardan ve hisse satışı kaynaklı zorunlu satıştan geliyor. Son 3 saatte doğrulanabilir yeni bir gelişme yok; bu hafta Çarşamba'daki PCE ve GSYH verisi yön belirleyici.",
   "vadeler": {
     "kisa": {
       "yon": "yatay",
@@ -92,23 +92,43 @@
       "kim": "UBS (Ağustos 2026 görüşü)",
       "gorus": "2027'nin ilk yarısında ons için 5.000 dolar seviyesinin zorlanabileceğini söylemişti; görüş fiyat düşüşünden önce yayımlandı, güncel olup olmadığı doğrulanamadı.",
       "kaynak": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd"
+    },
+    {
+      "kim": "TradingNEWS (Itai Smidt)",
+      "gorus": "Ons için 3.500 dolar kilit destek, 3.442-3.474 dolar ikinci destek; 3.625 doların üstü toparlanma, 3.755 dolar yukarı hedef. 10 yıllık TIPS faizi %2,75 altı altın için olumlu, %2,95 üstü olumsuz.",
+      "kaynak": "https://www.tradingnews.com/news/gold-forecast-xau-usd-holds-3568-above-3500-after-9-weekly-rout-3755-usd-upside-target-in-play"
     }
   ],
   "takvim": [
     {
-      "zaman": "Pzt sabah (İstanbul)",
-      "olay": "Asya açılışı; onsta hafta sonu boşluğu olabilir",
+      "zaman": "Pzt 17:05",
+      "olay": "ABD öncü hizmet ve imalat PMI (Kasım)",
       "onem": "orta"
     },
     {
-      "zaman": "Per 26 Kasım",
-      "olay": "ABD Şükran Günü tatili, düşük hacim",
+      "zaman": "Sal 00:00",
+      "olay": "NY Fed Başkanı Williams konuşması",
       "onem": "orta"
     },
     {
-      "zaman": "Aralık",
-      "olay": "Fed faiz kararı (piyasa 25 baz puan artırım bekliyor)",
+      "zaman": "Sal 18:00",
+      "olay": "ABD Tüketici Güven Endeksi (Conference Board)",
+      "onem": "orta"
+    },
+    {
+      "zaman": "Çar 16:30",
+      "olay": "ABD PCE/çekirdek PCE (Ekim), 3. çeyrek GSYH, haftalık işsizlik başvuruları",
       "onem": "yuksek"
+    },
+    {
+      "zaman": "Çar 22:00",
+      "olay": "Fed Beige Book",
+      "onem": "orta"
+    },
+    {
+      "zaman": "Per",
+      "olay": "ABD Şükran Günü: piyasalar kapalı",
+      "onem": "orta"
     }
   ],
   "riskler": [
