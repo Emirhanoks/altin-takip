@@ -1,12 +1,10 @@
 {
   "chat_id": "5730266820",
-  "son_gonderim": "2026-11-23T12:52:05+00:00",
+  "son_gonderim": "2026-11-23T15:49:57+00:00",
   "son_rapor_turu": "analizli",
   "botlar": {
     "TELEGRAM_BOT": {
-      "sohbetler": [
-        "1281278124"
-      ]
+      "sohbetler": []
     },
     "BOT": {
       "sohbetler": [
@@ -15,6 +13,7 @@
     }
   },
   "uyarilar": [
+    "TELEGRAM_BOT: sohbet 1281278124 gonderilemedi (Telegram sendMediaGroup basarisiz: 400: Bad Request: file must be non-empty)",
     "TELEGRAM_BOT: sohbet 5730266820 gonderilemedi (Telegram sendMediaGroup basarisiz: 400: Bad Request: chat not found)"
   ]
 }
