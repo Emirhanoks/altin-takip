@@ -1,11 +1,11 @@
 {
- "olusturma": "2026-11-24T12:49:48+00:00",
- "ozet": "Ons altın yıllık dibin ardından yaklaşık 3.620 dolar civarında; gram altın yaklaşık 5.895 TL ile yatay seyrediyor, 7 günde yaklaşık %6 düşük. Dolar endeksi yüksek (104,2), ABD 10 yıllık faizi %4,92 ve Aralık'ta Fed artırım beklentisi sürüyor. Çarşamba 16:30'daki ABD PCE verisi yönü belirleyecek.",
+ "olusturma": "2026-11-24T15:49:00+00:00",
+ "ozet": "Ons altın 3.650 dolar civarında dirençle karşılaşıp geri çekildi; gram altın yaklaşık 5.910 TL ile yatay, 7 günde yaklaşık %5-6 düşük. Dolar güçlü, ABD 10 yıllık faizi %4,92 ve Fed artırım beklentisi sürüyor. Çarşamba 16:30'daki ABD PCE verisi yönü belirleyecek; Şükran Günü haftasında likidite ince.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Gram son saatlerde yatay; teknik tablo EMA20-EMA50 civarında sıkışık (yaklaşık 5.905 TL, RSI yaklaşık 48). PCE öncesi ve Şükran Günü haftasında likidite düşük; son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum. Bu çalışmada yeni, doğrulanabilir bir haber çıkmadı; görüş önceki analizle aynı.",
+   "yorum": "Gram EMA20-EMA50 civarında (yaklaşık 5.905 TL) sıkışık, RSI 52. Ons tarafında 3.650 dolar çevresi direnç gibi davrandı; PCE öncesi yön için kanıt zayıf. Son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
    "hedef": "5.848-5.910 TL bandı",
    "iptal": "5.910-5.994 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
   },
@@ -28,53 +28,46 @@
  "alternatif_senaryo": "PCE sıcak gelirse Aralık artırımı yeniden kesinleşir, dolar ve tahvil faizi yükselir, ons 3.500 dolar civarındaki dibi tekrar sınar ve gram 5.696 TL desteğine yaklaşır.",
  "haberler": [
   {
-   "baslik": "3.700 dolar altının toparlanmasını sınıyor, ABD enflasyon testi yaklaşıyor",
+   "baslik": "Altın 3.651 dolarda reddedildi, PCE enflasyonu öncesi",
    "etki": "notr",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/analysis/3-700-checks-golds-recovery-as-us-inflation-test-looms-202611240355",
-   "yorum": "Başlığa göre 3.700 dolar toparlanma için direnç; PCE verisi bu seviyenin aşılıp aşılmayacağını belirler."
+   "kaynak": "FX Leaders",
+   "url": "https://www.fxleaders.com/news/2026/11/24/gold-price-forecast-xau-usd-rejected-at-3651-ahead-of-pce-inflation/",
+   "yorum": "Başlığa göre ons 3.651 dolarda geri çevrildi; bu seviye toparlanma için kısa vadeli direnç, PCE öncesi gram yatay kalabilir."
   },
   {
-   "baslik": "Altın 3.650 doları geri aldı: Nvidia haberi ve PCE öncesi alım",
+   "baslik": "Altın 3.634 dolara toparlandı, yarım puanlık Fed artırımı beklentileri zayıfladı",
    "etki": "pozitif",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/news/gold-reclaims-3-650-as-nvidia-news-sparks-rally-ahead-of-us-pce-202611231916",
-   "yorum": "Başlığa göre Nvidia haberi risk iştahını toparladı ve altın PCE öncesi 3.650 doların üzerine çıktı; hisse kaynaklı satış baskısı hafiflerse altına destek olur."
+   "kaynak": "USAGold",
+   "url": "https://www.usagold.com/daily-precious-metals-market-report-november-23-2026/",
+   "yorum": "Başlığa göre altın %2,5 yükseldi ve büyük artırım beklentisi geriledi; faiz baskısı azaldıkça altına destek olur."
   },
   {
-   "baslik": "Dolar 19 ayın zirvesinde, altın kazancını koruyor",
+   "baslik": "Hisseler yükselirken Bitcoin ve altın neden geriledi: beş neden",
    "etki": "negatif",
    "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/news/gold-jumps-over-2-as-half-point-fed-hike-bets-fade-us-pce-in-focus-202611231116",
-   "yorum": "Başlığa göre dolar 19 ayın en yüksek seviyesine çıktı; güçlü dolar ons altına baskı yapar, ancak USD/TL yükselişi gramı kısmen dengeler."
+   "url": "https://www.fxstreet.com/analysis/five-reasons-stocks-soared-while-bitcoin-and-gold-slid-202611240854",
+   "yorum": "Başlığa göre risk iştahı hisselere kayarken altın gerilemiş; altının tek başına sığınak talebi görmediğini gösterir."
   },
   {
-   "baslik": "Altın ucuzdan alımla yükseldi, ons 3.600 doların üzerine döndü",
-   "etki": "pozitif",
-   "kaynak": "Kitco",
-   "url": "https://www.kitco.com/news/article/2026-11-23/gold-prices-jump-3-bargain-hunting-overshadows-slowing-us-manufacturing-and",
-   "yorum": "Başlığa göre yükselişin nedeni ucuzdan alım; zayıflayan ABD imalat ve hizmet aktivitesi altına tek başına destek olmadı. Bu yüzden toparlanmanın kalıcılığı belirsiz."
+   "baslik": "Altın PCE verisi öncesi geriliyor",
+   "etki": "negatif",
+   "kaynak": "ANC Stock Investments",
+   "url": "https://ancstockinvestments.com/blog/2026/11/24/gold-price-slips-ahead-of-us-pce-data/",
+   "yorum": "Başlığa göre altın PCE öncesi hafif düştü; veri öncesi temkinli pozisyonlanma görünüyor."
   },
   {
    "baslik": "Natixis: Toparlanma kısa sürebilir, ons için 3.340 dolar riski",
    "etki": "negatif",
    "kaynak": "Kitco",
    "url": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340",
-   "yorum": "Natixis toparlanmanın kısa ömürlü olabileceği ve 3.340 dolara düşüş riski olduğu uyarısını yapıyor; bu gram için aşağı yönlü risk anlamına gelir."
-  },
-  {
-   "baslik": "Altın 3.600 doları geri aldı, piyasa Aralık artırım beklentisini biraz azalttı",
-   "etki": "pozitif",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/news/gold-rebounds-above-3-600-as-ceo-nvidia-returns-markets-trim-fed-hike-202611232326",
-   "yorum": "Başlığa göre piyasalar Fed artırım beklentisini azalttı ve teknoloji hisselerindeki toparlanma risk iştahını destekledi; faiz artışı baskısı hafiflerse altına destek olur."
+   "yorum": "Natixis toparlanmanın kısa ömürlü olabileceğini söylüyor; gram için aşağı yönlü risk."
   },
   {
    "baslik": "Haftaya bakış: Aralık artırım ihtimali ve Şükran Günü likiditesi",
    "etki": "negatif",
    "kaynak": "FinanceFeeds (Kitco anketi)",
    "url": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430",
-   "yorum": "Kitco anketinde 15 Wall Street analistinin 9'u düşüş, 4'ü yükseliş bekliyor; CME verisine göre 20 Kasım'da Aralık'ta 25 baz puan artırım ihtimali yaklaşık %99'du. Bu ihtimal sonradan bir miktar azaldı."
+   "yorum": "Kitco anketinde analistlerin çoğunluğu düşüş bekliyor; Aralık artırım ihtimali sonradan bir miktar azaldı."
   }
  ],
  "trader_gorusleri": [
