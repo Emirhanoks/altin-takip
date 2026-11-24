@@ -42,7 +42,7 @@
    "yorum": "Güçlü dolar ve Fed sıkılaşma beklentisiyle altın düşerken ABD tüketici güveni beklentinin çok üzerinde geldi (103,3); güçlü veri artırım beklentisini destekliyor."
   },
   {
-   "baslik": "Kesin Fed'den sonra Şükran Günü haftası: Çarşamba PCE ve GSYH",
+   "baslik": "Değerli metaller için gün sonu özeti (24 Kasım 2026)",
    "etki": "notr",
    "kaynak": "GoldStock Canada",
    "url": "https://goldstockcanada.com/news/post-market-summary-for-precious-metals-november-24-2026-3443",
@@ -86,10 +86,26 @@
   }
  ],
  "takvim": [
-  {"zaman": "Çar 16:30", "olay": "ABD Ekim PCE enflasyonu ve GSYH revizyonu (Aralık Fed toplantısı öncesi son büyük enflasyon verisi)", "onem": "yuksek"},
-  {"zaman": "Per", "olay": "ABD Şükran Günü: düşük likidite", "onem": "orta"},
-  {"zaman": "Cum", "olay": "ABD dış ticaret dengesi ve Fed bilançosu verileri", "onem": "orta"},
-  {"zaman": "8-9 Aralık", "olay": "Fed faiz kararı toplantısı", "onem": "yuksek"}
+  {
+   "zaman": "Çar 16:30",
+   "olay": "ABD Ekim PCE enflasyonu ve GSYH revizyonu (Aralık Fed toplantısı öncesi son büyük enflasyon verisi)",
+   "onem": "yuksek"
+  },
+  {
+   "zaman": "Per",
+   "olay": "ABD Şükran Günü: düşük likidite",
+   "onem": "orta"
+  },
+  {
+   "zaman": "Cum",
+   "olay": "ABD dış ticaret dengesi ve Fed bilançosu verileri",
+   "onem": "orta"
+  },
+  {
+   "zaman": "8-9 Aralık",
+   "olay": "Fed faiz kararı toplantısı",
+   "onem": "yuksek"
+  }
  ],
  "riskler": [
   "Sıcak PCE Aralık artırımını kesinleştirip altını yeniden baskılayabilir",
