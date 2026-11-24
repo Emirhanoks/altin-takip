@@ -1,18 +1,18 @@
 {
- "olusturma": "2026-11-24T03:48:37+00:00",
- "ozet": "Ons altın geçen haftaki sert düşüşten sonra yaklaşık 3.650 dolara toparlandı; gram altın yaklaşık 5.946 TL ile 5.999 TL direncine yaklaştı. Toparlanmanın arkasında ucuzdan alım ve Fed'in büyük (yarım puanlık) faiz artırımı beklentisinin sönmesi var, ancak dolar 19 ayın zirvesinde ve Aralık'ta çeyrek puanlık artırım hâlâ ana beklenti. Çarşamba 16:30'daki ABD PCE enflasyonu yönü belirleyecek.",
+ "olusturma": "2026-11-24T06:50:19+00:00",
+ "ozet": "Ons altın geçen haftaki sert düşüşten sonra yaklaşık 3.634 dolara toparlandı; gram altın yaklaşık 5.913 TL ile 5.848-5.999 TL bandında, son 3 saatte yaklaşık %0,9 geri çekildi. Dolar endeksi yüksek (104,3), ABD 10 yıllık faizi %4,92 ve Aralık'ta çeyrek puanlık Fed artırımı hâlâ ana beklenti. Çarşamba 16:30'daki ABD PCE enflasyonu yönü belirleyecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Gram 24 saatte yaklaşık %2,3 yükseldi ve kısa vade teknik tablo yukarı gösteriyor; fiyat 5.999 TL direncine yakın. PCE öncesi ve Şükran Günü haftasında likidite düşük, son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
+   "yorum": "Gram 24 saatte yaklaşık %0,8 yükseldi ama son 3 saatte %0,9 geri verdi; kısa vade teknik tablo yatay (RSI yaklaşık 52, EMA20 civarında). PCE öncesi ve Şükran Günü haftasında likidite düşük, son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
    "hedef": "5.848-5.999 TL bandı",
    "iptal": "5.999-6.035 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 (yaklaşık 6.453 TL) ve EMA200 (yaklaşık 6.406 TL) altında, RSI 36 ve MACD negatif. Güçlü dolar ve faiz artırımı beklentisi baskı yaratıyor; son toparlanma bu tabloyu henüz değiştirmedi.",
+   "yorum": "Fiyat EMA50 (yaklaşık 6.452 TL) ve EMA200 (yaklaşık 6.406 TL) altında, RSI 34 ve MACD negatif. Güçlü dolar ve faiz artırımı beklentisi baskı yaratıyor; son toparlanma bu tabloyu henüz değiştirmedi.",
    "hedef": "Gramda 5.696 TL, ardından 5.446 TL destekleri",
    "iptal": "Gramın 6.206 TL direncini kalıcı geri alması veya Fed artırım beklentisinin belirgin sönmesi"
   },
