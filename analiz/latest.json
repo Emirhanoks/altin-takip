@@ -1,32 +1,46 @@
 {
- "olusturma": "2026-11-24T00:49:21+00:00",
- "ozet": "Ons altın geçen haftaki %9'a yakın düşüşün ardından ucuzdan alımla 3.600 doların üzerine döndü; gram altın yaklaşık 5.908 TL'de, 5.999 TL direncinin altında. Piyasa Aralık'taki Fed faiz artırımı konusundaki kesinliği biraz azalttı ama artırım hâlâ ana beklenti. Çarşamba 16:30'daki ABD PCE enflasyon verisi yönü belirleyecek.",
+ "olusturma": "2026-11-24T03:48:37+00:00",
+ "ozet": "Ons altın geçen haftaki sert düşüşten sonra yaklaşık 3.650 dolara toparlandı; gram altın yaklaşık 5.946 TL ile 5.999 TL direncine yaklaştı. Toparlanmanın arkasında ucuzdan alım ve Fed'in büyük (yarım puanlık) faiz artırımı beklentisinin sönmesi var, ancak dolar 19 ayın zirvesinde ve Aralık'ta çeyrek puanlık artırım hâlâ ana beklenti. Çarşamba 16:30'daki ABD PCE enflasyonu yönü belirleyecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Gram bir günde yaklaşık %3,5 yükseldi ve kısa vade teknik tablo yukarı gösteriyor, ancak PCE öncesi ve Şükran Günü haftasında likidite düşük. Son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
+   "yorum": "Gram 24 saatte yaklaşık %2,3 yükseldi ve kısa vade teknik tablo yukarı gösteriyor; fiyat 5.999 TL direncine yakın. PCE öncesi ve Şükran Günü haftasında likidite düşük, son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
    "hedef": "5.848-5.999 TL bandı",
-   "iptal": "5.999 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
+   "iptal": "5.999-6.035 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 (yaklaşık 6.452 TL) ve EMA200 (yaklaşık 6.406 TL) altında, RSI 34 ve MACD negatif. Fed artırım beklentisi ve güçlü dolar baskı yaratıyor; ucuzdan alım bu tabloyu henüz değiştirmedi.",
-   "hedef": "Gramda 5.651 TL, ardından 5.395 TL destekleri",
+   "yorum": "Fiyat EMA50 (yaklaşık 6.453 TL) ve EMA200 (yaklaşık 6.406 TL) altında, RSI 36 ve MACD negatif. Güçlü dolar ve faiz artırımı beklentisi baskı yaratıyor; son toparlanma bu tabloyu henüz değiştirmedi.",
+   "hedef": "Gramda 5.696 TL, ardından 5.446 TL destekleri",
    "iptal": "Gramın 6.206 TL direncini kalıcı geri alması veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
    "yon": "yatay",
    "guven": 40,
-   "yorum": "Goldman 2027 sonu için ons 4.650 dolar baz senaryosunu koruyor ve faiz indirimleriyle 2028 sonuna kadar 5.600 doları geri alacağını söylüyor; yön Fed döngüsünün dönüşüne bağlı. O zamana kadar gram yıl içi dip (5.482 TL) ile tepe (7.796 TL) arasında net trend vermiyor.",
-   "hedef": "Gramda yaklaşık 5.370-6.450 TL geniş bandı",
-   "iptal": "5.367 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
+   "yorum": "Goldman 2027 sonu için ons 4.650 dolar baz senaryosunu koruyor ve faiz indirimleriyle 2028 sonuna kadar 5.600 doları geri alacağını söylüyor; yön Fed döngüsünün dönüşüne bağlı. Gram yıl içi dip (5.482 TL) ile tepe (7.796 TL) arasında net trend vermiyor.",
+   "hedef": "Gramda yaklaşık 5.400-6.450 TL geniş bandı",
+   "iptal": "5.412 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
   }
  },
- "ana_senaryo": "PCE beklentiye yakın gelirse ons 3.600 dolar çevresinde tutunur, gram 5.850-6.000 TL bandında dalgalanır; likidite düşük olduğu için hareketler sert olabilir.",
- "alternatif_senaryo": "PCE sıcak gelirse Aralık artırımı yeniden kesinleşir, dolar ve tahvil faizi yükselir, ons 3.500 dolar civarındaki dibi tekrar sınar ve gram 5.651 TL desteğine yaklaşır.",
+ "ana_senaryo": "PCE beklentiye yakın gelirse ons 3.600-3.700 dolar bandında tutunur, gram 5.850-6.000 TL arasında dalgalanır; düşük likidite nedeniyle hareketler sert olabilir.",
+ "alternatif_senaryo": "PCE sıcak gelirse Aralık artırımı yeniden kesinleşir, dolar ve tahvil faizi yükselir, ons 3.500 dolar civarındaki dibi tekrar sınar ve gram 5.696 TL desteğine yaklaşır.",
  "haberler": [
+  {
+   "baslik": "Altın 3.650 doları geri aldı: Nvidia haberi ve PCE öncesi alım",
+   "etki": "pozitif",
+   "kaynak": "FXStreet",
+   "url": "https://www.fxstreet.com/news/gold-reclaims-3-650-as-nvidia-news-sparks-rally-ahead-of-us-pce-202611231916",
+   "yorum": "Başlığa göre Nvidia haberi risk iştahını toparladı ve altın PCE öncesi 3.650 doların üzerine çıktı; hisse kaynaklı satış baskısı hafiflerse altına destek olur."
+  },
+  {
+   "baslik": "Dolar 19 ayın zirvesinde, altın kazancını koruyor",
+   "etki": "negatif",
+   "kaynak": "FXStreet",
+   "url": "https://www.fxstreet.com/news/gold-jumps-over-2-as-half-point-fed-hike-bets-fade-us-pce-in-focus-202611231116",
+   "yorum": "Başlığa göre dolar 19 ayın en yüksek seviyesine çıktı; güçlü dolar ons altına baskı yapar, ancak USD/TL yükselişi gramı kısmen dengeler."
+  },
   {
    "baslik": "Altın ucuzdan alımla yükseldi, ons 3.600 doların üzerine döndü",
    "etki": "pozitif",
