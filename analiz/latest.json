@@ -1,11 +1,11 @@
 {
- "olusturma": "2026-11-24T09:48:57+00:00",
- "ozet": "Ons altın yıllık dibin ardından yaklaşık 3.620 dolara toparlandı; gram altın yaklaşık 5.895 TL ile son 3 saatte neredeyse yatay, 7 günde yaklaşık %6 düşük. Dolar endeksi yüksek (104,2), ABD 10 yıllık faizi %4,92 ve Aralık'ta Fed artırım beklentisi sürüyor. Çarşamba 16:30'daki ABD PCE verisi yönü belirleyecek.",
+ "olusturma": "2026-11-24T12:49:48+00:00",
+ "ozet": "Ons altın yıllık dibin ardından yaklaşık 3.620 dolar civarında; gram altın yaklaşık 5.895 TL ile yatay seyrediyor, 7 günde yaklaşık %6 düşük. Dolar endeksi yüksek (104,2), ABD 10 yıllık faizi %4,92 ve Aralık'ta Fed artırım beklentisi sürüyor. Çarşamba 16:30'daki ABD PCE verisi yönü belirleyecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Gram son 3 saatte neredeyse yatay (24 saatte yaklaşık %0,2 artı); teknik tablo EMA20-EMA50 civarında sıkışık (EMA20 yaklaşık 5.906 TL, RSI yaklaşık 48). PCE öncesi ve Şükran Günü haftasında likidite düşük; son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
+   "yorum": "Gram son saatlerde yatay; teknik tablo EMA20-EMA50 civarında sıkışık (yaklaşık 5.905 TL, RSI yaklaşık 48). PCE öncesi ve Şükran Günü haftasında likidite düşük; son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum. Bu çalışmada yeni, doğrulanabilir bir haber çıkmadı; görüş önceki analizle aynı.",
    "hedef": "5.848-5.910 TL bandı",
    "iptal": "5.910-5.994 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
   },
