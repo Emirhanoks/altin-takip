@@ -1,19 +1,19 @@
 {
- "olusturma": "2026-11-24T06:50:19+00:00",
- "ozet": "Ons altın geçen haftaki sert düşüşten sonra yaklaşık 3.634 dolara toparlandı; gram altın yaklaşık 5.913 TL ile 5.848-5.999 TL bandında, son 3 saatte yaklaşık %0,9 geri çekildi. Dolar endeksi yüksek (104,3), ABD 10 yıllık faizi %4,92 ve Aralık'ta çeyrek puanlık Fed artırımı hâlâ ana beklenti. Çarşamba 16:30'daki ABD PCE enflasyonu yönü belirleyecek.",
+ "olusturma": "2026-11-24T09:48:57+00:00",
+ "ozet": "Ons altın yıllık dibin ardından yaklaşık 3.620 dolara toparlandı; gram altın yaklaşık 5.895 TL ile son 3 saatte neredeyse yatay, 7 günde yaklaşık %6 düşük. Dolar endeksi yüksek (104,2), ABD 10 yıllık faizi %4,92 ve Aralık'ta Fed artırım beklentisi sürüyor. Çarşamba 16:30'daki ABD PCE verisi yönü belirleyecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Gram 24 saatte yaklaşık %0,8 yükseldi ama son 3 saatte %0,9 geri verdi; kısa vade teknik tablo yatay (RSI yaklaşık 52, EMA20 civarında). PCE öncesi ve Şükran Günü haftasında likidite düşük, son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
-   "hedef": "5.848-5.999 TL bandı",
-   "iptal": "5.999-6.035 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
+   "yorum": "Gram son 3 saatte neredeyse yatay (24 saatte yaklaşık %0,2 artı); teknik tablo EMA20-EMA50 civarında sıkışık (EMA20 yaklaşık 5.906 TL, RSI yaklaşık 48). PCE öncesi ve Şükran Günü haftasında likidite düşük; son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
+   "hedef": "5.848-5.910 TL bandı",
+   "iptal": "5.910-5.994 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 (yaklaşık 6.452 TL) ve EMA200 (yaklaşık 6.406 TL) altında, RSI 34 ve MACD negatif. Güçlü dolar ve faiz artırımı beklentisi baskı yaratıyor; son toparlanma bu tabloyu henüz değiştirmedi.",
-   "hedef": "Gramda 5.696 TL, ardından 5.446 TL destekleri",
+   "yorum": "Fiyat EMA50 (yaklaşık 6.431 TL) ve EMA200 (yaklaşık 6.401 TL) altında, RSI 34 ve MACD negatif. Güçlü dolar ve Fed artırım beklentisi baskı yaratıyor; son toparlanma bu tabloyu henüz değiştirmedi.",
+   "hedef": "Gramda 5.644 TL, ardından 5.394 TL destekleri",
    "iptal": "Gramın 6.206 TL direncini kalıcı geri alması veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
@@ -24,9 +24,16 @@
    "iptal": "5.412 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
   }
  },
- "ana_senaryo": "PCE beklentiye yakın gelirse ons 3.600-3.700 dolar bandında tutunur, gram 5.850-6.000 TL arasında dalgalanır; düşük likidite nedeniyle hareketler sert olabilir.",
+ "ana_senaryo": "PCE beklentiye yakın gelirse ons 3.600-3.700 dolar bandında tutunur, gram 5.850-5.950 TL arasında dalgalanır; düşük likidite nedeniyle hareketler sert olabilir.",
  "alternatif_senaryo": "PCE sıcak gelirse Aralık artırımı yeniden kesinleşir, dolar ve tahvil faizi yükselir, ons 3.500 dolar civarındaki dibi tekrar sınar ve gram 5.696 TL desteğine yaklaşır.",
  "haberler": [
+  {
+   "baslik": "3.700 dolar altının toparlanmasını sınıyor, ABD enflasyon testi yaklaşıyor",
+   "etki": "notr",
+   "kaynak": "FXStreet",
+   "url": "https://www.fxstreet.com/analysis/3-700-checks-golds-recovery-as-us-inflation-test-looms-202611240355",
+   "yorum": "Başlığa göre 3.700 dolar toparlanma için direnç; PCE verisi bu seviyenin aşılıp aşılmayacağını belirler."
+  },
   {
    "baslik": "Altın 3.650 doları geri aldı: Nvidia haberi ve PCE öncesi alım",
    "etki": "pozitif",
@@ -68,13 +75,6 @@
    "kaynak": "FinanceFeeds (Kitco anketi)",
    "url": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430",
    "yorum": "Kitco anketinde 15 Wall Street analistinin 9'u düşüş, 4'ü yükseliş bekliyor; CME verisine göre 20 Kasım'da Aralık'ta 25 baz puan artırım ihtimali yaklaşık %99'du. Bu ihtimal sonradan bir miktar azaldı."
-  },
-  {
-   "baslik": "Goldman: Altın 2028 sonuna kadar 5.600 doları geri alacak",
-   "etki": "notr",
-   "kaynak": "Kitco",
-   "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
-   "yorum": "Uzun vade görünüm faiz indirimlerine bağlı; yakın vadede Fed artırım riski fiyatı baskılıyor."
   }
  ],
  "trader_gorusleri": [
