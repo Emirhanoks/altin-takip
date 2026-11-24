@@ -532,5 +532,21 @@
     "kaynak": "analiz",
     "fiyat": 5785.66,
     "sonuc": null
+  },
+  {
+    "zaman": "2026-11-24T21:49:17+00:00",
+    "vade": "kisa",
+    "yon": "asagi",
+    "kaynak": "analiz",
+    "fiyat": 5776.95,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-24T21:49:17+00:00",
+    "vade": "orta",
+    "yon": "asagi",
+    "kaynak": "analiz",
+    "fiyat": 5776.95,
+    "sonuc": null
   }
 ]
