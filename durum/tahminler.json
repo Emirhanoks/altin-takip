@@ -409,7 +409,9 @@
     "yon": "yatay",
     "kaynak": "analiz",
     "fiyat": 5897.12,
-    "sonuc": null
+    "sonuc": "dogru",
+    "gerceklesen_yuzde": 0.01,
+    "degerlendirme": "2026-11-24T06:53:31+00:00"
   },
   {
     "zaman": "2026-11-23T09:46:26+00:00",
@@ -481,6 +483,14 @@
     "yon": "yatay",
     "kaynak": "analiz",
     "fiyat": 5913.47,
+    "sonuc": null
+  },
+  {
+    "zaman": "2026-11-24T06:53:31+00:00",
+    "vade": "kisa",
+    "yon": "yatay",
+    "kaynak": "analiz",
+    "fiyat": 5897.42,
     "sonuc": null
   }
 ]
