@@ -1,133 +1,100 @@
 {
- "olusturma": "2026-11-24T15:49:00+00:00",
- "ozet": "Ons altın 3.650 dolar civarında dirençle karşılaşıp geri çekildi; gram altın yaklaşık 5.910 TL ile yatay, 7 günde yaklaşık %5-6 düşük. Dolar güçlü, ABD 10 yıllık faizi %4,92 ve Fed artırım beklentisi sürüyor. Çarşamba 16:30'daki ABD PCE verisi yönü belirleyecek; Şükran Günü haftasında likidite ince.",
+ "olusturma": "2026-11-24T21:48:47+00:00",
+ "ozet": "Ons altın bugün sert satıldı (yaklaşık 3.555-3.620 dolar bandı), gümüş günlük yaklaşık %6 düştü; gram altın 5.786 TL ile 24 saatte %2,5, 7 günde %7 geriledi. Neden: güçlü dolar, yüksek tahvil faizi ve Fed'in Aralık'ta faiz artıracağı beklentisi (CME FedWatch'ta yaklaşık %93,5). Yarın 16:30'daki ABD PCE enflasyonu yönü belirleyecek; fiyat aşırı satım bölgesinde, tepki yükselişi de olabilir.",
  "vadeler": {
   "kisa": {
-   "yon": "yatay",
-   "guven": 45,
-   "yorum": "Gram EMA20-EMA50 civarında (yaklaşık 5.905 TL) sıkışık, RSI 52. Ons tarafında 3.650 dolar çevresi direnç gibi davrandı; PCE öncesi yön için kanıt zayıf. Son 20 kısa vade tahminimizin sadece 6'sı tuttuğu için güveni düşük tutuyorum.",
-   "hedef": "5.848-5.910 TL bandı",
-   "iptal": "5.910-5.994 TL üstünde kalıcılık (yukarı) veya 5.848 TL altında kapanış (aşağı)"
+   "yon": "asagi",
+   "guven": 50,
+   "yorum": "Gram 5.848 TL desteğinin altına indi; EMA20/EMA50 (yaklaşık 5.870-5.890 TL) altında, RSI 31 ve MACD negatif. Aşırı satım nedeniyle sert tepki yükselişi mümkün, ama direnç 5.848-5.877 TL. Son 20 kısa vade tahminimizin yalnızca 6'sı tuttuğu için güveni düşük tutuyorum.",
+   "hedef": "5.714 TL, sonra 5.691 TL destekleri",
+   "iptal": "5.877 TL üstünde kalıcı kapanış"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 (yaklaşık 6.431 TL) ve EMA200 (yaklaşık 6.401 TL) altında, RSI 34 ve MACD negatif. Güçlü dolar ve Fed artırım beklentisi baskı yaratıyor; son toparlanma bu tabloyu henüz değiştirmedi.",
-   "hedef": "Gramda 5.644 TL, ardından 5.394 TL destekleri",
-   "iptal": "Gramın 6.206 TL direncini kalıcı geri alması veya Fed artırım beklentisinin belirgin sönmesi"
+   "yorum": "Fiyat EMA50 (yaklaşık 6.427 TL) ve EMA200 (yaklaşık 6.400 TL) altında; RSI 32, MACD negatif. Güçlü dolar ve Aralık artırım beklentisi baskıyı sürdürüyor; sıcak PCE bunu pekiştirir.",
+   "hedef": "5.526 TL, ardından 5.266 TL destekleri",
+   "iptal": "5.941 TL ve 6.206 TL dirençlerinin kalıcı geri alınması veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
    "yon": "yatay",
    "guven": 40,
-   "yorum": "Goldman 2027 sonu için ons 4.650 dolar baz senaryosunu koruyor ve faiz indirimleriyle 2028 sonuna kadar 5.600 doları geri alacağını söylüyor; yön Fed döngüsünün dönüşüne bağlı. Gram yıl içi dip (5.482 TL) ile tepe (7.796 TL) arasında net trend vermiyor.",
-   "hedef": "Gramda yaklaşık 5.400-6.450 TL geniş bandı",
-   "iptal": "5.412 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
+   "yorum": "Kurumlar uzun vadede iyimser: Goldman faiz indirimleriyle altının 2028'de 5.600 doları geri alacağını söylüyor, UBS 2027'nin ilk yarısında 5.000 dolara yaklaşım öngörüyor. Ancak yakın dönemde Fed döngüsü ters yönde ve teknik tablo zayıf; yön Fed'in dönüşüne bağlı.",
+   "hedef": "Gramda yaklaşık 5.250-6.400 TL geniş bandı",
+   "iptal": "5.246 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
   }
  },
- "ana_senaryo": "PCE beklentiye yakın gelirse ons 3.600-3.700 dolar bandında tutunur, gram 5.850-5.950 TL arasında dalgalanır; düşük likidite nedeniyle hareketler sert olabilir.",
- "alternatif_senaryo": "PCE sıcak gelirse Aralık artırımı yeniden kesinleşir, dolar ve tahvil faizi yükselir, ons 3.500 dolar civarındaki dibi tekrar sınar ve gram 5.696 TL desteğine yaklaşır.",
+ "ana_senaryo": "PCE beklentiye yakın veya sıcak gelirse Aralık artırımı fiyatlanmaya devam eder, ons 3.500 dolar çevresini (Cuma günkü dip yaklaşık 3.514 dolar) yeniden sınar, gram 5.700 TL civarına iner. Şükran Günü likidite ince olduğundan hareketler sert olabilir.",
+ "alternatif_senaryo": "PCE beklentinin altında kalırsa artırım beklentisi gevşer, dolar ve tahvil faizi geriler; aşırı satımın etkisiyle ons 3.700 dolar direncine doğru toparlanır, gram 5.850-5.900 TL'yi yeniden dener.",
  "haberler": [
   {
-   "baslik": "Altın 3.651 dolarda reddedildi, PCE enflasyonu öncesi",
-   "etki": "notr",
-   "kaynak": "FX Leaders",
-   "url": "https://www.fxleaders.com/news/2026/11/24/gold-price-forecast-xau-usd-rejected-at-3651-ahead-of-pce-inflation/",
-   "yorum": "Başlığa göre ons 3.651 dolarda geri çevrildi; bu seviye toparlanma için kısa vadeli direnç, PCE öncesi gram yatay kalabilir."
-  },
-  {
-   "baslik": "Altın 3.634 dolara toparlandı, yarım puanlık Fed artırımı beklentileri zayıfladı",
-   "etki": "pozitif",
-   "kaynak": "USAGold",
-   "url": "https://www.usagold.com/daily-precious-metals-market-report-november-23-2026/",
-   "yorum": "Başlığa göre altın %2,5 yükseldi ve büyük artırım beklentisi geriledi; faiz baskısı azaldıkça altına destek olur."
-  },
-  {
-   "baslik": "Hisseler yükselirken Bitcoin ve altın neden geriledi: beş neden",
+   "baslik": "Altın ABD PCE enflasyon verisi öncesi geriliyor",
    "etki": "negatif",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/analysis/five-reasons-stocks-soared-while-bitcoin-and-gold-slid-202611240854",
-   "yorum": "Başlığa göre risk iştahı hisselere kayarken altın gerilemiş; altının tek başına sığınak talebi görmediğini gösterir."
-  },
-  {
-   "baslik": "Altın PCE verisi öncesi geriliyor",
-   "etki": "negatif",
-   "kaynak": "ANC Stock Investments",
+   "kaynak": "ANC Stock Investments (Reuters aktarımı)",
    "url": "https://ancstockinvestments.com/blog/2026/11/24/gold-price-slips-ahead-of-us-pce-data/",
-   "yorum": "Başlığa göre altın PCE öncesi hafif düştü; veri öncesi temkinli pozisyonlanma görünüyor."
+   "yorum": "Güçlü dolar ve sıkılaşma beklentisi altını baskılıyor; Aralık'ta 25 baz puan artırım ihtimali yaklaşık %93,5 (CME FedWatch)."
   },
   {
-   "baslik": "Natixis: Toparlanma kısa sürebilir, ons için 3.340 dolar riski",
+   "baslik": "Piyasa özeti: Nasdaq düştü, petrol 89 dolar, altın 3.620 dolara geriledi",
    "etki": "negatif",
+   "kaynak": "Eurasia Business News",
+   "url": "https://eurasiabusinessnews.com/2026/11/24/stock-market-today-november-24-2026-nasdaq-falls-as-nvidia-and-anthropic-slide-oil-price-at-89-gold-drops-to-3620/",
+   "yorum": "Güçlü dolar ve Fed sıkılaşma beklentisiyle altın düşerken ABD tüketici güveni beklentinin çok üzerinde geldi (103,3); güçlü veri artırım beklentisini destekliyor."
+  },
+  {
+   "baslik": "Kesin Fed'den sonra Şükran Günü haftası: Çarşamba PCE ve GSYH",
+   "etki": "notr",
+   "kaynak": "GoldStock Canada",
+   "url": "https://goldstockcanada.com/news/post-market-summary-for-precious-metals-november-24-2026-3443",
+   "yorum": "Sayfaya göre değerli metaller gün sonunda sert düştü (gümüş yaklaşık %5,7); Fed'den Williams'ın faizlerin zamanla yükselebileceği mesajı baskı yarattı."
+  },
+  {
+   "baslik": "Goldman: Altın faiz indirimleriyle 2028'de 5.600 doları geri alacak",
+   "etki": "pozitif",
    "kaynak": "Kitco",
-   "url": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340",
-   "yorum": "Natixis toparlanmanın kısa ömürlü olabileceğini söylüyor; gram için aşağı yönlü risk."
+   "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
+   "yorum": "Uzun vadeli bakış olumlu; ancak faiz indirimleri başlayana kadar yakın vadeli baskıyı hafifletmez."
   },
   {
-   "baslik": "Haftaya bakış: Aralık artırım ihtimali ve Şükran Günü likiditesi",
-   "etki": "negatif",
-   "kaynak": "FinanceFeeds (Kitco anketi)",
-   "url": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430",
-   "yorum": "Kitco anketinde analistlerin çoğunluğu düşüş bekliyor; Aralık artırım ihtimali sonradan bir miktar azaldı."
+   "baslik": "UBS altında 2027'nin ilk yarısında 5.000 dolara yaklaşım bekliyor",
+   "etki": "pozitif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd",
+   "yorum": "Ağustos tarihli kurum hedefi; mevcut fiyatın epey üstünde olduğundan uzun vadeli destekleyici ama yakın vadeli yön göstermiyor."
   }
  ],
  "trader_gorusleri": [
   {
-   "kim": "Marc Chandler (Bannockburn Global Forex)",
-   "gorus": "Altın 3.500 dolar hedefine yaklaştı; kırılırsa 3.430-3.450 dolara uzanabilir, önce dönüş formasyonu görmek istiyor.",
-   "kaynak": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430"
+   "kim": "Bas Kooijman (DHF Capital)",
+   "gorus": "Baskının bir kısmı hafiflese de para politikasında sıkılaşma beklentisi sürdüğü için altın baskı altında kalabilir; geçen haftaki Fed şahinliği ve yapay zekâ hisselerindeki satış yatırımcıları kayıpları kapatmak için altın satmaya itti.",
+   "kaynak": "https://ancstockinvestments.com/blog/2026/11/24/gold-price-slips-ahead-of-us-pce-data/"
   },
   {
-   "kim": "Sean Lusk (Walsh Trading)",
-   "gorus": "3.500 dolar kırılırsa 300 dolarlık ek düşüş mümkün; destek 3.256-3.280 dolar, alıcıların Aralık'tan önce dönmesini beklemiyor.",
-   "kaynak": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430"
-  },
-  {
-   "kim": "Colin Cieszynski (SIA Wealth Management)",
-   "gorus": "Düşük likidite haftası için nötr ile ayı arası; sıradaki gerçek destek 3.200-3.400 dolar.",
-   "kaynak": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430"
-  },
-  {
-   "kim": "Bernard Dahdah (Natixis)",
-   "gorus": "Ocak'a kadar ons için 3.340 dolar düşüş riski görüyor.",
-   "kaynak": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340"
+   "kim": "John Williams (New York Fed Başkanı)",
+   "gorus": "Enflasyon yüksek kalırsa Fed sıkılaşmaya yönelir; artırımlar verilere bağlı.",
+   "kaynak": "https://ancstockinvestments.com/blog/2026/11/24/gold-price-slips-ahead-of-us-pce-data/"
   },
   {
    "kim": "Goldman Sachs",
-   "gorus": "2027 sonu için ons 4.650 dolar baz senaryo; 2028 sonuna kadar 5.600 dolar.",
+   "gorus": "Faiz indirimleri Batılı yatırımcıları geri getirdikçe altın 2028'de 5.600 doları yeniden görecek.",
    "kaynak": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back"
+  },
+  {
+   "kim": "UBS",
+   "gorus": "Düşen reel faiz, zayıflayan dolar ve güçlü resmi kurum talebiyle altın 2027'nin ilk yarısında 5.000 doları zorlayabilir.",
+   "kaynak": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd"
   }
  ],
  "takvim": [
-  {
-   "zaman": "Sal 18:00",
-   "olay": "ABD Tüketici Güven Endeksi (Kasım)",
-   "onem": "orta"
-  },
-  {
-   "zaman": "Çar 16:30",
-   "olay": "ABD Ekim PCE enflasyonu, 3. çeyrek GSYH revizyonu",
-   "onem": "yuksek"
-  },
-  {
-   "zaman": "Çar 22:00",
-   "olay": "Fed Bej Kitap",
-   "onem": "orta"
-  },
-  {
-   "zaman": "Per",
-   "olay": "ABD Şükran Günü: ABD hisse piyasaları kapalı",
-   "onem": "orta"
-  },
-  {
-   "zaman": "Cum",
-   "olay": "NYSE erken kapanış (düşük likidite)",
-   "onem": "orta"
-  }
+  {"zaman": "Çar 16:30", "olay": "ABD Ekim PCE enflasyonu ve GSYH revizyonu (Aralık Fed toplantısı öncesi son büyük enflasyon verisi)", "onem": "yuksek"},
+  {"zaman": "Per", "olay": "ABD Şükran Günü: düşük likidite", "onem": "orta"},
+  {"zaman": "Cum", "olay": "ABD dış ticaret dengesi ve Fed bilançosu verileri", "onem": "orta"},
+  {"zaman": "8-9 Aralık", "olay": "Fed faiz kararı toplantısı", "onem": "yuksek"}
  ],
  "riskler": [
-  "Sıcak PCE verisi Aralık artırımını kesinleştirip altını yeniden baskılayabilir",
-  "Hisselerde yeni satış dalgası nakit ihtiyacıyla altının da satılmasına yol açabilir",
+  "Sıcak PCE Aralık artırımını kesinleştirip altını yeniden baskılayabilir",
+  "Teknoloji hisselerindeki satış, kayıpları kapatmak için altının da satılmasına yol açabilir",
   "Şükran Günü haftasında düşük likidite fiyatları sert oynatabilir",
-  "USD/TL'deki ani hareket gramı onstan bağımsız oynatabilir"
+  "Aşırı satım nedeniyle ani tepki yükselişi aşağı yönlü görüşü bozabilir"
  ]
 }
