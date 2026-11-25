@@ -1,0 +1,106 @@
+{
+ "olusturma": "2026-11-25T18:54:38+00:00",
+ "ozet": "ABD Ekim PCE enflasyonu manşette %3,8'e, çekirdekte %3,3'e çıktı; Q3 GDP %4,3'e revize edildi ve Kitco'ya göre Aralık'ta 25 baz puanlık Fed artırımı ihtimali yaklaşık %96. Ons altın 3.480 dolar civarına (günlük yaklaşık -%2), gram altın piyasa verisine göre yaklaşık 5.670 TL'ye geriledi. Faiz ve dolar baskısı sürüyor; aşırı satım nedeniyle sert tepki yükselişleri de mümkün.",
+ "vadeler": {
+  "kisa": {
+   "yon": "asagi",
+   "guven": 50,
+   "yorum": "Gram EMA20 (5.764) ve EMA50 (5.816) altında, RSI 32,7 ile aşırı satıma yakın; teknik tablo zayıf. Kitco'ya göre onsta ilk destek 3.431 ve 3.400 dolar. Son 20 kısa vade tahminimizin yalnızca 2'si tuttuğu için güveni düşük tutuyorum.",
+   "hedef": "5.598 ve 5.529 TL destekleri; tepkide 5.709-5.817 TL direnç bölgesi",
+   "iptal": "5.817 TL üzerinde kalıcı kapanış"
+  },
+  "orta": {
+   "yon": "asagi",
+   "guven": 55,
+   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.390 TL) çok altında, MACD negatif. Fed artırım beklentisi, yüksek tahvil faizi (10 yıllık yaklaşık %4,84) ve güçlü dolar baskı yaratıyor. Aşırı satım nedeniyle dalgalı bir düşüş bekliyorum.",
+   "hedef": "5.400 TL civarı, ardından 5.131 TL",
+   "iptal": "5.941 TL üzerinde kalıcı kapanış veya Fed artırım beklentisinin belirgin sönmesi"
+  },
+  "uzun": {
+   "yon": "yatay",
+   "guven": 40,
+   "yorum": "Goldman, 2026 sonu hedefini 4.150 dolara, 2027 sonu hedefini 4.800 dolara indirdi (13 Kasım); ETF akışı ve merkez bankası alımı yapısal destek veriyor ama yüksek faiz tavan çiziyor. Görüşler dağınık, yön Fed'in dönüşüne bağlı.",
+   "hedef": "Gramda yaklaşık 5.100-6.400 TL geniş bant",
+   "iptal": "5.119 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üzeri (yukarı)"
+  }
+ },
+ "ana_senaryo": "Sıcak enflasyon ve Aralık artırımının fiyatlanması altın üzerindeki baskıyı sürdürür; ons 3.431-3.400 dolar desteğini test ederken gram 5.598-5.529 TL bölgesine iner.",
+ "alternatif_senaryo": "Aşırı satım, hisse piyasasındaki dalgalanma veya Fed tonunun yumuşaması ons altını 3.503-3.595 dolara toparlar; gram 5.709-5.817 TL direncini dener.",
+ "haberler": [
+  {
+   "baslik": "Altın ve gümüş baskı altında: güçlü GDP ve yapışkan enflasyon Fed artırım beklentisini pekiştirdi",
+   "etki": "negatif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-remain-under-pressure-strong-gdp-sticky-inflation-reinforce-fed",
+   "yorum": "Ekim PCE manşet %3,8, çekirdek %3,3 (beklenti %3,2); Aralık 8-9 toplantısında artırım ihtimali yaklaşık %96. Gram altın için negatif."
+  },
+  {
+   "baslik": "Altın bir %1 daha düştü: ABD Q3 GDP %4,3'e revize edildi",
+   "etki": "negatif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation",
+   "yorum": "GDP beklentinin (%3,5) üzerinde; güçlü büyüme faiz indirimi beklentisini zayıflatıyor."
+  },
+  {
+   "baslik": "Altın 3.500 dolara yaklaştı: haftalık işsizlik başvuruları 189 bine düştü",
+   "etki": "negatif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-25/gold-price-approaches-3500oz-after-us-weekly-jobless-claims-fall-189k",
+   "yorum": "Başvurular beklentinin (200 bin) altında; sıkı işgücü piyasası Fed'i sıkı tutar, altına olumsuz."
+  },
+  {
+   "baslik": "Goldman, altın hedeflerini düşürdü: 2026 sonu 4.150, 2027 sonu 4.800 dolar",
+   "etki": "negatif",
+   "kaynak": "Kitco",
+   "url": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
+   "yorum": "Gerekçe Fed'in şahin duruşu ve Aralık artırımı; merkez bankası alımı (ayda ortalama 60 ton varsayımı) destek sağlıyor."
+  },
+  {
+   "baslik": "WGC: Ekim'de altın ETF'lerine 2,7 milyar dolar giriş, dördüncü ay üst üste",
+   "etki": "pozitif",
+   "kaynak": "World Gold Council",
+   "url": "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/11",
+   "yorum": "Avrupa ve Asya girişleri sürüyor, Kuzey Amerika çıkışta; fiyat düşse de fiziki ETF talebi tamamen çökmedi. COMEX net uzun pozisyonları ise 94 ton azaldı."
+  }
+ ],
+ "trader_gorusleri": [
+  {
+   "kim": "Goldman Sachs",
+   "gorus": "2026 sonu hedefi 4.150 dolar, 2027 sonu 4.800 dolar; 2022'ye benzer bir kurulum görüyor, Fed indirimleri 2027 ikinci yarıda bekleniyor.",
+   "kaynak": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz"
+  },
+  {
+   "kim": "Goldman Sachs (Lina Thomas notu, 17 Kasım)",
+   "gorus": "Altın rekorunu 2028 sonuna doğru 5.600 doların üzerinde yeniden görebilir; bu yazıda 2027 sonu hedefi 4.650 dolar olarak geçiyor (13 Kasım yazısındaki 4.800'den farklı).",
+   "kaynak": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back"
+  },
+  {
+   "kim": "Nidal Abdel Hadi (Finoro CEO)",
+   "gorus": "Verilerin geriye dönük olduğunu, hizmet anketi ve işsizlik başvurularındaki eğilimin ivmenin zayıfladığını gösterdiğini söylüyor.",
+   "kaynak": "https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation"
+  }
+ ],
+ "takvim": [
+  {
+   "zaman": "Per 26 Kas (tüm gün)",
+   "olay": "ABD Şükran Günü: ABD piyasaları kapalı, likidite düşük",
+   "onem": "orta"
+  },
+  {
+   "zaman": "Cum 27 Kas 21:00",
+   "olay": "NYSE yarım gün kapanış",
+   "onem": "orta"
+  },
+  {
+   "zaman": "8-9 Aralık",
+   "olay": "Fed toplantısı (25 baz puan artırım yaklaşık %96 fiyatlanıyor)",
+   "onem": "yuksek"
+  }
+ ],
+ "riskler": [
+  "Hisse satışı sürerse (VIX 30 üzeri) marj çağrıları altını da aşağı çekebilir",
+  "Şükran Günü haftasında düşük likidite nedeniyle sert dalgalanma",
+  "Aşırı satımdan ani tepki yükselişi aşağı yönlü görüşü bozabilir",
+  "USD/TRY'deki hareket gram altını ons'tan bağımsız etkileyebilir"
+ ]
+}
