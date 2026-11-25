@@ -570,5 +570,13 @@
     "kaynak": "analiz",
     "fiyat": 5782.46,
     "sonuc": null
+  },
+  {
+    "zaman": "2026-11-25T06:50:51+00:00",
+    "vade": "kisa",
+    "yon": "asagi",
+    "kaynak": "analiz",
+    "fiyat": 5730.74,
+    "sonuc": null
   }
 ]
