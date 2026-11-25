@@ -1,105 +1,86 @@
 {
- "olusturma": "2026-11-25T03:49:23+00:00",
- "ozet": "Gram altın yaklaşık 5.773 TL (ons yaklaşık 3.544 dolar, USD/TRY 50,66); 7 günde %6,7, 30 günde %10,6 geriledi ve ons 14 ayın dibine yakın. Yapay zekâ/teknoloji hisselerindeki satış ve Fed'in Aralık'ta faiz artıracağı beklentisi (yaklaşık %95) altını zayıf dolara rağmen aşağı çekiyor. Bugün ABD PCE enflasyon verisi yön belirleyecek; RSI aşırı satımda olduğundan tepki yükselişi de mümkün.",
+ "olusturma": "2026-11-25T06:50:15+00:00",
+ "ozet": "Gram altın yaklaşık 5.740-5.780 TL'de (ons yaklaşık 3.525-3.550 dolar, USD/TRY 50,67); 7 günde yaklaşık %6, 30 günde %10 geriledi. Fed'in Aralık'ta 25 baz puan faiz artıracağı ihtimali yaklaşık %96 fiyatlanıyor ve ABD tüketici güveninin beklentiyi aşması bu beklentiyi pekiştirdi. Bugün 16:30 (İstanbul) ABD PCE enflasyon verisi yön belirleyecek; RSI aşırı satıma yakın olduğundan tepki yükselişi de mümkün.",
  "vadeler": {
   "kisa": {
    "yon": "asagi",
    "guven": 50,
-   "yorum": "Gram EMA20 (5.835 TL) ve EMA50 (5.869 TL) altında, RSI 30, MACD negatif; teknik tablo aşağı. Aşırı satım nedeniyle PCE sonrası sert tepki olabilir; direnç 5.848-5.877 TL. Son 20 kısa vade tahminimizin yalnızca 5'i tuttuğundan güveni düşük tutuyorum.",
+   "yorum": "Gram EMA20 (5.821 TL) ve EMA50 (5.859 TL) altında, RSI 34, MACD negatif; teknik tablo aşağı. Ons tarafında 3.595 dolar altında kaldığı sürece baskı sürüyor (FXEmpire). Son 20 kısa vade tahminimizin yalnızca 3'ü tuttuğundan güveni düşük tutuyorum.",
    "hedef": "5.715 TL, sonra 5.691 TL destekleri",
    "iptal": "5.877 TL üstünde kalıcı kapanış"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 (6.426 TL) ve EMA200 (6.400 TL) altında; RSI 31, MACD negatif. Fed artırım beklentisi sürdükçe baskı devam eder; sıcak PCE bunu pekiştirir. BCA Research da altındaki uzun pozisyonunu kapatıp nötr görüşe geçti.",
-   "hedef": "5.515 TL, ardından 5.258 TL destekleri",
+   "yorum": "Fiyat EMA50 (6.427 TL) ve EMA200 (6.400 TL) altında; RSI 32, MACD negatif. Aralık artırım beklentisi sürdükçe baskı devam eder. Tahvil faizi yüksek (ABD 10 yıllık yaklaşık %4,90).",
+   "hedef": "5.524 TL, ardından 5.266 TL destekleri",
    "iptal": "5.941 TL ve 6.206 TL dirençlerinin kalıcı geri alınması veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
    "yon": "yatay",
    "guven": 40,
-   "yorum": "Goldman faiz indirimleriyle altının 2028'de 5.600 doları geri alacağını, UBS 2027'nin ilk yarısında 5.000 dolara yaklaşım öngörüyor; BCA da dolar tepe yapıp enflasyon baskısı hafifleyince uzun vadede olumlu. Ancak yakın dönemde Fed döngüsü ters yönde ve teknik tablo zayıf; yön Fed'in dönüşüne bağlı.",
+   "yorum": "Faruk Erdem 2027'de yükseliş eğilimi bekliyor ve merkez bankalarının bu yıl yaklaşık 700 ton aldığını söylüyor. Ancak Fed döngüsü şu an ters yönde ve teknik tablo zayıf; yön Fed'in dönüşüne bağlı.",
    "hedef": "Gramda yaklaşık 5.250-6.400 TL geniş bandı",
-   "iptal": "5.233 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
+   "iptal": "5.242 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
   }
  },
- "ana_senaryo": "PCE beklentiye yakın veya sıcak gelirse Aralık artırımı fiyatlanmaya devam eder, ons 3.500-3.520 dolar desteğini sınar, gram 5.700 TL civarına iner. Şükran Günü haftasında likidite ince olduğundan hareketler sert olabilir.",
- "alternatif_senaryo": "PCE beklentinin altında kalırsa artırım beklentisi gevşer, tahvil faizi geriler; aşırı satımın etkisiyle ons 3.583-3.600 dolar direncine doğru toparlanır, gram 5.850-5.900 TL'yi yeniden dener.",
+ "ana_senaryo": "PCE beklentiye yakın veya sıcak gelirse Aralık artırımı fiyatlanmaya devam eder, ons 3.500-3.505 dolar desteğini sınar, gram 5.700 TL ve altına iner. Perşembe ABD Şükran Günü nedeniyle likidite ince olacak, hareketler sert olabilir.",
+ "alternatif_senaryo": "PCE beklentinin altında kalırsa artırım beklentisi gevşer, tahvil faizi geriler; aşırı satımın etkisiyle ons 3.595-3.600 dolar direncine doğru toparlanır, gram 5.850-5.880 TL'yi yeniden dener.",
  "haberler": [
   {
-   "baslik": "Altın 14 ayın dibine yakın: teknoloji satışı PCE öncesi riski azalttırdı",
+   "baslik": "Altın Fed artırım beklentisiyle geriliyor; Aralık artırım ihtimali yaklaşık %96",
+   "etki": "negatif",
+   "kaynak": "FXEmpire",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-slips-again-as-fed-hike-bets-firm-can-3503-hold-1647067",
+   "yorum": "CME FedWatch'a göre Aralık'ta 25 baz puan artırım ihtimali %96,4; ons bir önceki seansta %2'den fazla düştü. Faiz getirisi olmayan altın için olumsuz."
+  },
+  {
+   "baslik": "Altın ve gümüş Fed faiz artırım beklentileriyle düşüşte",
+   "etki": "negatif",
+   "kaynak": "Business Standard",
+   "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-trade-lower-as-fed-rate-hike-expectations-strengthen-126112500260_1.html",
+   "yorum": "Şahin Fed açıklamaları ve güçlü tüketici güveni artırım beklentisini destekliyor; Comex altın yaklaşık 3.552 dolar."
+  },
+  {
+   "baslik": "Altın 3.600 doların altına indi; çip hisselerinde satış ve tarife endişesi",
    "etki": "negatif",
    "kaynak": "Mitrade",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-tumbles-bca-exits-before-pce",
-   "yorum": "Sayfaya göre satış doğrudan dolardan değil, yapay zekâ hisselerindeki düşüşle gelen risk azaltımından kaynaklanıyor; Aralık artırım ihtimali yaklaşık %95, ABD 10 yıllık faiz yaklaşık %4,90."
+   "url": "https://mitrade.com/au/insights/daily-market-outlook/news-today/market-news-today-australia-25-nov-2026",
+   "yorum": "Sayfaya göre ABD tüketici güveni 91,9'dan 103,3'e çıktı; geniş çaplı pozisyon kapatma altına da baskı yapıyor. Referans seviyeler 3.550, 3.500 ve 3.600 dolar."
   },
   {
-   "baslik": "Altın zayıf dolara rağmen düşüyor: Fed artırım beklentisi baskın",
-   "etki": "negatif",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/news/gold-slides-despite-weaker-us-dollar-as-fed-hike-bets-dominate-202611241748",
-   "yorum": "Dolar zayıflasa bile altının düşmesi, fiyatı sürükleyenin faiz artırım beklentisi olduğunu gösteriyor."
-  },
-  {
-   "baslik": "Altın PCE enflasyon verisi öncesi geriliyor",
-   "etki": "negatif",
-   "kaynak": "ANC Stock Investments",
-   "url": "https://ancstockinvestments.com/blog/2026/11/24/gold-price-slips-ahead-of-us-pce-data/",
-   "yorum": "Sıkılaşma beklentisi ve yatırımcıların kayıpları kapatmak için altın satması baskıyı sürdürüyor."
-  },
-  {
-   "baslik": "ABD tüketici güveni beklentinin çok üzerinde geldi",
-   "etki": "negatif",
-   "kaynak": "Mitrade",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-tumbles-bca-exits-before-pce",
-   "yorum": "Güven endeksi 103,3 ile beklentiyi (yaklaşık 92,4) aştı; güçlü veri faiz artırım beklentisini destekliyor."
-  },
-  {
-   "baslik": "Goldman: Altın faiz indirimleriyle 2028'de 5.600 doları geri alacak",
-   "etki": "pozitif",
-   "kaynak": "Kitco",
-   "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
-   "yorum": "Uzun vadeli bakış olumlu; ancak faiz indirimleri başlayana kadar yakın vadeli baskıyı hafifletmez."
-  },
-  {
-   "baslik": "UBS altında 2027'nin ilk yarısında 5.000 dolara yaklaşım bekliyor",
-   "etki": "pozitif",
-   "kaynak": "Kitco",
-   "url": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd",
-   "yorum": "Ağustos tarihli hedef; mevcut fiyatın epey üstünde olduğundan uzun vadeli destekleyici ama yakın vadeli yön göstermiyor."
+   "baslik": "ABD PCE ve GSYH verisi haftanın ana olayı",
+   "etki": "notr",
+   "kaynak": "HeyGoTrade",
+   "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/",
+   "yorum": "Ekim çekirdek PCE beklentisi aylık %0,3, 3. çeyrek GSYH ikinci tahmin beklentisi %3,5. Sıcak gelirse altına baskı artar, zayıf gelirse tepki yükselişi beklenir."
   }
  ],
  "trader_gorusleri": [
   {
-   "kim": "Roukaya Ibrahim (BCA Research)",
-   "gorus": "Altındaki 4 yıllık uzun pozisyonu 3.700 dolar altında stop olunca kapattı ve nötre geçti; dolar tepe yapıp geçici enflasyon baskıları hafifleyince uzun vadede yeniden olumlu.",
-   "kaynak": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-tumbles-bca-exits-before-pce"
+   "kim": "Arslan Ali (FXEmpire teknik analist)",
+   "gorus": "Ons için destek 3.503 ve 3.431 dolar, direnç 3.595 ve 3.651 dolar; 'Altın 3.595 doların altında işlem gördükçe ayı görüşümü koruyorum.'",
+   "kaynak": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-slips-again-as-fed-hike-bets-firm-can-3503-hold-1647067"
   },
   {
-   "kim": "Mitrade teknik analizi",
-   "gorus": "Ons destekleri 3.500-3.520 ve 3.440-3.460 dolar; dirençler 3.583-3.600 ve 3.679-3.694 dolar; saatlik RSI yaklaşık 28 (aşırı satım).",
-   "kaynak": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-tumbles-bca-exits-before-pce"
+   "kim": "Faruk Erdem (Takvim, 23 Kasım)",
+   "gorus": "Onsta 3.500 doları güçlü destek olarak görüyor, kırılırsa tablonun değişeceğini söylüyor; Fed'in faizi artıracağını bekliyor, 2027'de yükseliş eğilimi öngörüyor. Gram için 6.000 TL hedefini dile getiriyor.",
+   "kaynak": "https://www.takvim.com.tr/ekonomi/2026/11/23/altin-fiyatlarinda-yukselis-beklentisi"
   },
   {
-   "kim": "Goldman Sachs",
-   "gorus": "Faiz indirimleri Batılı yatırımcıları geri getirdikçe altın 2028'de 5.600 doları yeniden görecek.",
-   "kaynak": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back"
-  },
-  {
-   "kim": "UBS",
-   "gorus": "Düşen reel faiz, zayıflayan dolar ve güçlü resmi kurum talebiyle altın 2027'nin ilk yarısında 5.000 doları zorlayabilir.",
-   "kaynak": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd"
+   "kim": "Vikram Subburaj (Giottus CEO)",
+   "gorus": "Beklentiden güçlü enflasyon doları destekleyip altına ek baskı yapabilir.",
+   "kaynak": "https://www.business-standard.com/markets/commodities/gold-silver-prices-trade-lower-as-fed-rate-hike-expectations-strengthen-126112500260_1.html"
   }
  ],
  "takvim": [
-  {"zaman": "Çar akşam", "olay": "ABD Ekim PCE enflasyonu (beklenti %3,8) ve GSYH revizyonu; Aralık Fed toplantısı öncesi son büyük enflasyon verisi", "onem": "yuksek"},
-  {"zaman": "Per", "olay": "ABD Şükran Günü: düşük likidite", "onem": "orta"},
-  {"zaman": "8-9 Aralık", "olay": "Fed faiz kararı toplantısı", "onem": "yuksek"}
+  {"zaman": "Çar 16:30", "olay": "ABD Ekim PCE enflasyonu (çekirdek beklenti aylık %0,3) ve gelir/harcama raporu", "onem": "yuksek"},
+  {"zaman": "Çar 16:30", "olay": "ABD 3. çeyrek GSYH ikinci tahmin (beklenti %3,5)", "onem": "orta"},
+  {"zaman": "Per", "olay": "ABD Şükran Günü: düşük likidite", "onem": "orta"}
  ],
  "riskler": [
   "Sıcak PCE Aralık artırımını kesinleştirip altını yeniden baskılayabilir",
-  "Teknoloji hisselerindeki satış sürerse kayıpları kapatmak için altın da satılmaya devam edebilir",
+  "Hisse ve çip satışı sürerse kayıpları kapatmak için altın da satılabilir",
   "Şükran Günü haftasında düşük likidite fiyatları sert oynatabilir",
   "Aşırı satım nedeniyle ani tepki yükselişi aşağı yönlü görüşü bozabilir"
  ]
