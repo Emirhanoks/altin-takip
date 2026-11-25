@@ -1,18 +1,18 @@
 {
- "olusturma": "2026-11-24T21:48:47+00:00",
- "ozet": "Ons altın bugün sert satıldı (yaklaşık 3.555-3.620 dolar bandı), gümüş günlük yaklaşık %6 düştü; gram altın 5.786 TL ile 24 saatte %2,5, 7 günde %7 geriledi. Neden: güçlü dolar, yüksek tahvil faizi ve Fed'in Aralık'ta faiz artıracağı beklentisi (CME FedWatch'ta yaklaşık %93,5). Yarın 16:30'daki ABD PCE enflasyonu yönü belirleyecek; fiyat aşırı satım bölgesinde, tepki yükselişi de olabilir.",
+ "olusturma": "2026-11-25T00:48:47+00:00",
+ "ozet": "Gram altın 5.777 TL (ons yaklaşık 3.551 dolar, USD/TRY 50,6); 24 saatte %2,3, 7 günde %7,5 geriledi ve 14 ayın dibine yakın. Baskının nedeni Fed'in Aralık'ta faiz artıracağı beklentisi; dolar endeksi gün içinde zayıflasa da altın toparlanamadı. Bugün 16:30'daki ABD PCE enflasyon verisi yön belirleyecek; RSI aşırı satım bölgesinde olduğundan tepki yükselişi de mümkün.",
  "vadeler": {
   "kisa": {
    "yon": "asagi",
    "guven": 50,
-   "yorum": "Gram 5.848 TL desteğinin altına indi; EMA20/EMA50 (yaklaşık 5.870-5.890 TL) altında, RSI 31 ve MACD negatif. Aşırı satım nedeniyle sert tepki yükselişi mümkün, ama direnç 5.848-5.877 TL. Son 20 kısa vade tahminimizin yalnızca 6'sı tuttuğu için güveni düşük tutuyorum.",
+   "yorum": "Gram EMA20 (5.847 TL) ve EMA50 (5.877 TL) altında, RSI 30, MACD negatif; teknik tablo aşağı. Aşırı satım nedeniyle PCE sonrası sert tepki olabilir, direnç 5.848-5.877 TL. Son 20 kısa vade tahminimizin yalnızca 6'sı tuttuğundan güveni düşük tutuyorum.",
    "hedef": "5.714 TL, sonra 5.691 TL destekleri",
    "iptal": "5.877 TL üstünde kalıcı kapanış"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 (yaklaşık 6.427 TL) ve EMA200 (yaklaşık 6.400 TL) altında; RSI 32, MACD negatif. Güçlü dolar ve Aralık artırım beklentisi baskıyı sürdürüyor; sıcak PCE bunu pekiştirir.",
+   "yorum": "Fiyat EMA50 (6.427 TL) ve EMA200 (6.400 TL) altında; RSI 32, MACD negatif. Fed artırım beklentisi sürdükçe baskı devam eder; sıcak PCE bunu pekiştirir.",
    "hedef": "5.526 TL, ardından 5.266 TL destekleri",
    "iptal": "5.941 TL ve 6.206 TL dirençlerinin kalıcı geri alınması veya Fed artırım beklentisinin belirgin sönmesi"
   },
@@ -61,6 +61,20 @@
    "kaynak": "Kitco",
    "url": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd",
    "yorum": "Ağustos tarihli kurum hedefi; mevcut fiyatın epey üstünde olduğundan uzun vadeli destekleyici ama yakın vadeli yön göstermiyor."
+  },
+  {
+   "baslik": "Altın zayıf dolara rağmen düşüyor: Fed artırım beklentisi baskın",
+   "etki": "negatif",
+   "kaynak": "FXStreet",
+   "url": "https://www.fxstreet.com/news/gold-slides-despite-weaker-us-dollar-as-fed-hike-bets-dominate-202611241748",
+   "yorum": "Dolar zayıflasa bile altının düşmesi, fiyatı sürükleyenin artırım beklentisi olduğunu gösteriyor."
+  },
+  {
+   "baslik": "Altın 14 ayın dibinden toparlandı, ABD enflasyon verisi bekleniyor",
+   "etki": "notr",
+   "kaynak": "Profit by Pakistan Today",
+   "url": "https://profit.pakistantoday.com.pk/2026/11/24/gold-prices-recover-from-14-month-low-as-investors-await-us-inflation-data",
+   "yorum": "Tepki alımı kısa süreli kaldı; PCE sonrası kalıcılığı belli olacak."
   }
  ],
  "trader_gorusleri": [
