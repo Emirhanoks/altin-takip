@@ -1,0 +1,109 @@
+{
+ "olusturma": "2026-11-25T09:48:22+00:00",
+ "ozet": "Gram altın yaklaşık 5.745 TL'de (ons yaklaşık 3.525 dolar, USD/TRY 50,67); ons 14-15 ayın dibine yakın ve Kasım'da yaklaşık %8 düştü. Aralık'ta 25 baz puan Fed faiz artırımı ihtimali yaklaşık %96 fiyatlanıyor, dolar endeksi 104 civarında güçlü. Bugün 16:30'daki ABD PCE enflasyonu yönü belirleyecek; RSI aşırı satımda olduğundan tepki yükselişi de mümkün.",
+ "vadeler": {
+  "kisa": {
+   "yon": "asagi",
+   "guven": 45,
+   "yorum": "Gram EMA20 (5.802 TL) ve EMA50 (5.847 TL) altında, MACD negatif; teknik tablo aşağı. Ancak RSI 26 ile aşırı satımda ve son 20 kısa vade tahminimizin yalnızca 3'ü tuttu; PCE ikili sonuç yaratabileceği için güveni düşük tutuyorum.",
+   "hedef": "5.715 TL, sonra 5.691 TL destekleri",
+   "iptal": "5.877 TL üstünde kalıcı kapanış"
+  },
+  "orta": {
+   "yon": "asagi",
+   "guven": 55,
+   "yorum": "Fiyat EMA50 ve EMA200 (yaklaşık 6.400 TL) altında, RSI 30, MACD negatif. Aralık artırımı fiyatlandığı sürece ve dolar güçlüyken baskı sürer; Ons için 3.500 dolar kritik destek.",
+   "hedef": "5.478 TL, ardından 5.226 TL destekleri",
+   "iptal": "5.941 TL ve 6.206 TL dirençlerinin kalıcı geri alınması veya Fed artırım beklentisinin belirgin sönmesi"
+  },
+  "uzun": {
+   "yon": "yatay",
+   "guven": 40,
+   "yorum": "JPMorgan 2027 sonu için 4.500 dolar, Commerzbank 4.100 dolar hedefliyor (FinanceFeeds, CNBC'ye atıfla); OCBC toparlanmanın 2027 başına kadar sınırlı kalabileceğini söylüyor. Fed döngüsü şu an ters yönde, teknik tablo zayıf; yön Fed'in dönüşüne bağlı.",
+   "hedef": "Gramda yaklaşık 5.200-6.400 TL geniş bandı",
+   "iptal": "5.191 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üstü (yukarı)"
+  }
+ },
+ "ana_senaryo": "PCE beklentiye yakın veya sıcak gelirse Aralık artırımı kesinleşir, ons 3.500 dolar desteğini sınar, gram 5.700 TL ve altına iner. Perşembe ABD Şükran Günü nedeniyle likidite ince olacak, hareketler sert olabilir.",
+ "alternatif_senaryo": "Çekirdek PCE aylık %0,2'ye inerse (beklenti %0,3) artırım beklentisi gevşer; aşırı satımın etkisiyle ons 3.600 dolar direncine doğru toparlanır, gram 5.850-5.880 TL'yi yeniden dener.",
+ "haberler": [
+  {
+   "baslik": "Altın %2 düştükten sonra PCE testinde; 3.500 dolar ayı, 3.680 dolar boğa seviyesi",
+   "etki": "negatif",
+   "kaynak": "FinanceFeeds",
+   "url": "https://financefeeds.com/gold-price-today-3559-wednesday-pce-test-after-2-percent-slide-bull-3680-bear-3500/",
+   "yorum": "CME FedWatch'a göre Aralık'ta 25 baz puan artırım ihtimali %96,4; hisse satışı nedeniyle marj çağrıları altını da aşağı çekiyor."
+  },
+  {
+   "baslik": "Gram altın 5.744 TL, ons altın 3.525 dolar: Altın neden düşüyor?",
+   "etki": "negatif",
+   "kaynak": "Forbes Türkiye",
+   "url": "https://www.forbes.com.tr/ekonomi/gram-altin-5-bin-744-liradan-ons-altin-3-bin-525-dolardan-islem-goruyor",
+   "yorum": "Fed artırım beklentisi, güçlü dolar, küresel hisse satışı ve ABD'nin yeni tarife planları baskı yaratıyor; ons Kasım'da yaklaşık %8 düştü."
+  },
+  {
+   "baslik": "Altın 15 ayın dibine yakın; ABD PCE öncesi 3.500 dolar desteği test edilecek",
+   "etki": "negatif",
+   "kaynak": "TradingKey",
+   "url": "https://www.tradingkey.com/analysis/commodities/metal/262321662-gold-hovers-near-15-month-low-ahead-us-pce-3500-test-tradingkey",
+   "yorum": "Sayfaya göre RSI 29 ile aşırı satımda; çekirdek PCE aylık %0,4 gelirse 3.500 dolar yeniden sınanır, %0,2 gelirse rahatlama yükselişi olabilir."
+  },
+  {
+   "baslik": "Altın ve gümüş Fed faiz artırım beklentileriyle düşüşte",
+   "etki": "negatif",
+   "kaynak": "Business Standard",
+   "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-trade-lower-as-fed-rate-hike-expectations-strengthen-126112500260_1.html",
+   "yorum": "Şahin Fed açıklamaları ve güçlü tüketici güveni artırım beklentisini destekliyor; faiz getirisi olmayan altın için olumsuz."
+  }
+ ],
+ "trader_gorusleri": [
+  {
+   "kim": "Dilin Wu (Pepperstone)",
+   "gorus": "Ons için kritik teknik seviye 3.500 dolar; üzerinde kalırsa zemin oluşabilir, kalıcı kırılırsa yeni düşüş açılır.",
+   "kaynak": "https://www.forbes.com.tr/ekonomi/gram-altin-5-bin-744-liradan-ons-altin-3-bin-525-dolardan-islem-goruyor"
+  },
+  {
+   "kim": "Soni Kumari (ANZ)",
+   "gorus": "Düşüş esas olarak marj çağrıları için nakit ihtiyacından kaynaklanan hisse satışı; yeni sinyallere kadar piyasa konsolidasyonda.",
+   "kaynak": "https://www.forbes.com.tr/ekonomi/gram-altin-5-bin-744-liradan-ons-altin-3-bin-525-dolardan-islem-goruyor"
+  },
+  {
+   "kim": "JPMorgan ve Commerzbank",
+   "gorus": "JPMorgan 2027 sonu için 4.500 dolar, Commerzbank 4.100 dolar hedefliyor.",
+   "kaynak": "https://financefeeds.com/gold-price-today-3559-wednesday-pce-test-after-2-percent-slide-bull-3680-bear-3500/"
+  },
+  {
+   "kim": "OCBC",
+   "gorus": "Aşağı yönlü baskı sonunda tersine dönebilir ama toparlanma 2027 başına kadar sınırlı kalabilir.",
+   "kaynak": "https://www.forbes.com.tr/ekonomi/gram-altin-5-bin-744-liradan-ons-altin-3-bin-525-dolardan-islem-goruyor"
+  }
+ ],
+ "takvim": [
+  {
+   "zaman": "Çar 16:30",
+   "olay": "ABD Ekim PCE enflasyonu (çekirdek beklenti aylık %0,3) ve 3. çeyrek GSYH revizyonu",
+   "onem": "yuksek"
+  },
+  {
+   "zaman": "Per",
+   "olay": "ABD Şükran Günü: borsalar kapalı, düşük likidite",
+   "onem": "orta"
+  },
+  {
+   "zaman": "Cum 21:00",
+   "olay": "NYSE yarım gün kapanış (13:00 ET)",
+   "onem": "orta"
+  },
+  {
+   "zaman": "8-9 Aralık",
+   "olay": "Fed toplantısı (artırım beklentisi %96)",
+   "onem": "yuksek"
+  }
+ ],
+ "riskler": [
+  "Sıcak PCE Aralık artırımını kesinleştirip altını yeniden baskılayabilir",
+  "Hisse ve çip satışı sürerse marj çağrıları nedeniyle altın da satılabilir",
+  "Şükran Günü haftasında düşük likidite fiyatları sert oynatabilir",
+  "Aşırı satım nedeniyle ani tepki yükselişi aşağı yönlü görüşü bozabilir"
+ ]
+}
