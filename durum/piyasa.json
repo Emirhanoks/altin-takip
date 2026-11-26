@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-26T09:49:46+00:00",
+  "zaman": "2026-11-26T12:50:19+00:00",
   "gram": 5898.36,
   "ons": 3620.4,
   "kur": 50.6738,
@@ -8,7 +8,7 @@
   "degisim": {
     "3s": 0.63,
     "24s": 2.04,
-    "7g": -2.46,
+    "7g": -2.31,
     "30g": -9.55,
     "1y": 3.73
   },
@@ -16,9 +16,9 @@
   "yil_ici_dip": 5579.58,
   "baglam": {
     "dolar_endeksi": {
-      "son": 103.722,
-      "gunluk_degisim_yuzde": 0.05,
-      "aylik_degisim_yuzde": 1.5
+      "son": 103.741,
+      "gunluk_degisim_yuzde": 0.07,
+      "aylik_degisim_yuzde": 1.52
     },
     "abd_10y_faiz": {
       "son": 4.848,
@@ -26,14 +26,14 @@
       "aylik_degisim_yuzde": -2.9
     },
     "gumus_ons": {
-      "son": 41.91,
-      "gunluk_degisim_yuzde": 4.64,
-      "aylik_degisim_yuzde": -21.6
+      "son": 41.795,
+      "gunluk_degisim_yuzde": 4.35,
+      "aylik_degisim_yuzde": -21.82
     },
     "brent": {
-      "son": 89.89,
-      "gunluk_degisim_yuzde": -4.99,
-      "aylik_degisim_yuzde": -22.05
+      "son": 91.1,
+      "gunluk_degisim_yuzde": -3.71,
+      "aylik_degisim_yuzde": -21.0
     },
     "sp500": {
       "son": 7182.7798,
@@ -41,14 +41,14 @@
       "aylik_degisim_yuzde": -6.99
     },
     "vix": {
-      "son": 27.17,
-      "gunluk_degisim_yuzde": -3.96,
-      "aylik_degisim_yuzde": 60.67
+      "son": 26.99,
+      "gunluk_degisim_yuzde": -4.6,
+      "aylik_degisim_yuzde": 59.61
     }
   },
   "kapalicarsi": {
-    "alis": 5823.56,
-    "satis": 5824.26,
+    "alis": 5811.2,
+    "satis": 5811.97,
     "kaynak": "finans.truncgil.com"
   },
   "teknik": {
@@ -97,15 +97,15 @@
       "ema200": 6388.52,
       "seviyeler": {
         "destek": [
-          5629.54,
-          5360.72
+          5629.56,
+          5360.76
         ],
         "direnc": [
           6206.26,
           6332.41
         ],
         "direnc_projeksiyon": false,
-        "atr": 179.21
+        "atr": 179.2
       }
     },
     "uzun": {
