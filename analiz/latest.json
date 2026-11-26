@@ -1,6 +1,6 @@
 {
- "olusturma": "2026-11-26T15:48:29+00:00",
- "ozet": "Gram altın yaklaşık 5.898 TL'de; ons 3.600 dolar civarında, ABD Şükran Günü nedeniyle ince likiditede tutunuyor. Ana baskı Fed'in artırım beklentisi; 24 saatlik toparlanma düşük hacimli ve henüz kanıtlanmadı. ABD piyasaları açılınca yön netleşecek.",
+ "olusturma": "2026-11-26T18:48:07+00:00",
+ "ozet": "Gram altın yaklaşık 5.900 TL civarında; ons 3.600 dolar çevresinde, ABD Şükran Günü nedeniyle ince likiditede. Ana baskı Fed'in faiz artırım beklentisinin sürmesi; tatildeki toparlanma henüz kalıcı değil. ABD piyasaları normale dönünce yön netleşecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
@@ -28,18 +28,25 @@
  "alternatif_senaryo": "Hisselerdeki oynaklık sürer, tahvil faizleri gerilemeye devam eder ve ons toparlanmayı sürdürür; gram 5.994 TL direncini geçip 6.200 TL'ye yönelir.",
  "haberler": [
   {
+   "baslik": "Altın hafif geriledi, gümüş yatay: Fed artırım beklentileri tatil işlemlerinde sürüyor",
+   "etki": "negatif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-steadies-fed-rate-hike-expectations-persist-holiday",
+   "yorum": "Artırım beklentisi altına talebi sınırlıyor; gram altın için baskı sürüyor."
+  },
+  {
+   "baslik": "Altının Şükran Günü desteği yaralı boğalara umut veriyor (analist yorumları)",
+   "etki": "pozitif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-26/golds-thanksgiving-support-offers-glimmer-hope-battered-bulls-analysts",
+   "yorum": "Tepki alımı ihtimali var; ancak tatil likiditesinde kalıcılığı kanıtlanmadı."
+  },
+  {
    "baslik": "Altın ons 3.600 dolar altında zorlanıyor, Şükran Günü'nde ince işlem",
    "etki": "notr",
    "kaynak": "FXStreet",
    "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-struggles-below-3-600-amid-thanksgiving-light-trading-202611260426",
    "yorum": "Düşük likidite nedeniyle hareketler güvenilir yön sinyali vermiyor; gram altın için nötr."
-  },
-  {
-   "baslik": "Altın ve gümüş sabah kayıplarını silip Şükran Günü öncesi toparlandı",
-   "etki": "pozitif",
-   "kaynak": "Kitco",
-   "url": "https://www.kitco.com/news/article/2026-11-25/gold-silver-reverse-early-losses-wall-street-rebounds-ahead-thanksgiving",
-   "yorum": "Faizlerin gerilemesi ve hisse toparlanması destek verdi; tepkinin kalıcılığı henüz kanıtlanmadı."
   },
   {
    "baslik": "Altın bir günde yaklaşık %1 daha düştü: ABD 3. çeyrek büyümesi %4,3'e revize edildi",
@@ -54,13 +61,6 @@
    "kaynak": "Kitco",
    "url": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
    "yorum": "Goldman 'şahin Fed' nedeniyle hedefi indirdi ve Aralık'ta bir artırım daha bekliyor; ancak merkez bankası alımlarının güçlü kalacağını söylüyor."
-  },
-  {
-   "baslik": "Goldman: Altın 2028 sonuna kadar 5.600 doları yeniden görebilir",
-   "etki": "pozitif",
-   "kaynak": "Kitco",
-   "url": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
-   "yorum": "Fed'in Kasım 2027'den itibaren faiz indirmesi beklentisi uzun vadede Batılı yatırımcıyı geri getirebilir; kısa vadeli etkisi sınırlı."
   },
   {
    "baslik": "Merkez bankası alımları 3. çeyrekte %42 arttı, altın talebi rekora yakın (WGC)",
@@ -84,7 +84,7 @@
  ],
  "takvim": [
   {
-   "zaman": "Per 26 Kas (tüm gün)",
+   "zaman": "Per 26 Kas",
    "olay": "ABD Şükran Günü: borsa ve tahvil piyasaları kapalı, likidite düşük",
    "onem": "orta"
   },
