@@ -1,11 +1,11 @@
 {
- "olusturma": "2026-11-26T12:49:34+00:00",
- "ozet": "Gram altın yaklaşık 5.898 TL'de (24 saatte %2 yukarı, 30 günde yaklaşık %9,5 aşağı); ons 3.620 dolar civarında toparlanıyor. ABD piyasaları Şükran Günü nedeniyle kapalı olduğundan yeni veri yok ve likidite düşük; ana baskı Fed'in Aralık'ta bir artırım daha yapma beklentisi. Toparlanmanın kalıcılığı ABD piyasaları açılınca sınanacak.",
+ "olusturma": "2026-11-26T15:48:29+00:00",
+ "ozet": "Gram altın yaklaşık 5.898 TL'de; ons 3.600 dolar civarında, ABD Şükran Günü nedeniyle ince likiditede tutunuyor. Ana baskı Fed'in artırım beklentisi; 24 saatlik toparlanma düşük hacimli ve henüz kanıtlanmadı. ABD piyasaları açılınca yön netleşecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 ve EMA50 üstünde, RSI 60,6), ancak toparlanma düşük likiditeli tatil gününde geldi ve yaklaşık 5.943 TL direncine yakın. Son 20 kısa vade tahmininin yalnızca 3'ü tuttuğu için güveni düşük tutuyorum.",
+   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 ve EMA50 üstünde, RSI 60,6), ancak hareket tatil günü düşük likiditede geldi ve 5.943 TL direncine yakın. Son 20 kısa vade tahmininin yalnızca 3'ü tuttuğu için güveni düşük tutuyorum.",
    "hedef": "5.817-5.943 TL bandı; 5.943 TL üstü kalıcılıkta 5.994 TL",
    "iptal": "5.817 TL altında kapanış (aşağı) veya 5.994 TL üstünde kapanış (yukarı)"
   },
@@ -27,6 +27,13 @@
  "ana_senaryo": "Aralık artırım beklentisi baskıyı korur; toparlanma 5.943-5.994 TL direncinde tıkanır ve gram yeniden 5.817 TL, ardından 5.630 TL desteklerine döner.",
  "alternatif_senaryo": "Hisselerdeki oynaklık sürer, tahvil faizleri gerilemeye devam eder ve ons toparlanmayı sürdürür; gram 5.994 TL direncini geçip 6.200 TL'ye yönelir.",
  "haberler": [
+  {
+   "baslik": "Altın ons 3.600 dolar altında zorlanıyor, Şükran Günü'nde ince işlem",
+   "etki": "notr",
+   "kaynak": "FXStreet",
+   "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-struggles-below-3-600-amid-thanksgiving-light-trading-202611260426",
+   "yorum": "Düşük likidite nedeniyle hareketler güvenilir yön sinyali vermiyor; gram altın için nötr."
+  },
   {
    "baslik": "Altın ve gümüş sabah kayıplarını silip Şükran Günü öncesi toparlandı",
    "etki": "pozitif",
