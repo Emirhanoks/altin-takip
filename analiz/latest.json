@@ -1,20 +1,20 @@
 {
- "olusturma": "2026-11-26T09:48:59+00:00",
- "ozet": "Ons altın Şükran Günü'nde kısa vadeli toparlanmayla 3.600 dolar çevresine çıktı; gram altın yaklaşık 5.870 TL (24 saatte %1,6 yukarı, 30 günde yaklaşık %10 aşağı). Fed'in Aralık'ta bir 25 baz puanlık artırım daha yapma beklentisi altın üzerindeki ana baskı; Goldman da bu nedenle hedeflerini düşürdü. ABD piyasaları kapalı olduğundan likidite düşük, bu toparlanmanın kalıcılığı henüz sınanmadı.",
+ "olusturma": "2026-11-26T12:49:34+00:00",
+ "ozet": "Gram altın yaklaşık 5.898 TL'de (24 saatte %2 yukarı, 30 günde yaklaşık %9,5 aşağı); ons 3.620 dolar civarında toparlanıyor. ABD piyasaları Şükran Günü nedeniyle kapalı olduğundan yeni veri yok ve likidite düşük; ana baskı Fed'in Aralık'ta bir artırım daha yapma beklentisi. Toparlanmanın kalıcılığı ABD piyasaları açılınca sınanacak.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 üstünde, RSI 58), ancak toparlanma düşük likiditeli bir tatil gününde geldi. Gram 5.817-5.884 TL bandında kalabilir. Son 20 kısa vade tahminimizin yalnızca 3'ü tuttuğu için güveni düşük tutuyorum.",
-   "hedef": "5.817-5.884 TL bandı; 5.884 TL üstü kalıcılıkta 5.943 TL",
-   "iptal": "5.817 TL altında kapanış (aşağı) veya 5.943 TL üstünde kapanış (yukarı)"
+   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 ve EMA50 üstünde, RSI 60,6), ancak toparlanma düşük likiditeli tatil gününde geldi ve yaklaşık 5.943 TL direncine yakın. Son 20 kısa vade tahmininin yalnızca 3'ü tuttuğu için güveni düşük tutuyorum.",
+   "hedef": "5.817-5.943 TL bandı; 5.943 TL üstü kalıcılıkta 5.994 TL",
+   "iptal": "5.817 TL altında kapanış (aşağı) veya 5.994 TL üstünde kapanış (yukarı)"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.400 TL) belirgin altında, MACD negatif. Fed Aralık'ta artırım yaparsa ve Mart'ta yeni artış sinyali verirse baskı sürebilir. RSI 35 ile aşırı satıma yakın olduğundan 5.941 TL'ye doğru tepki yükselişleri normal.",
-   "hedef": "5.614 TL desteği, kırılırsa 5.358 TL",
-   "iptal": "5.941 TL üzerinde kalıcı kapanış veya Fed artırım beklentisinin belirgin sönmesi"
+   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.380 TL) belirgin altında, MACD negatif. Fed Aralık'ta artırım yapıp Mart'ta yeni artış sinyali verirse baskı sürebilir. RSI 37,7 ile aşırı satıma yakın olduğundan 6.200 TL'ye doğru tepki yükselişleri normal.",
+   "hedef": "5.630 TL desteği, kırılırsa 5.361 TL",
+   "iptal": "6.206 TL üzerinde kalıcı kapanış veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
    "yon": "yatay",
@@ -24,8 +24,8 @@
    "iptal": "5.330 TL desteğinin kalıcı kırılması (aşağı) veya 7.355 TL üzeri (yukarı)"
   }
  },
- "ana_senaryo": "Aralık artırım beklentisi baskıyı korur; toparlanma 5.884-5.943 TL direncinde tıkanır ve gram yeniden 5.817 TL, ardından 5.614 TL desteklerine döner.",
- "alternatif_senaryo": "Hisselerdeki oynaklık sürer, tahvil faizleri gerilemeye devam eder ve ons 3.637 dolar direncini aşar; gram 5.943 TL direncini geçip 6.200 TL'ye yönelir.",
+ "ana_senaryo": "Aralık artırım beklentisi baskıyı korur; toparlanma 5.943-5.994 TL direncinde tıkanır ve gram yeniden 5.817 TL, ardından 5.630 TL desteklerine döner.",
+ "alternatif_senaryo": "Hisselerdeki oynaklık sürer, tahvil faizleri gerilemeye devam eder ve ons toparlanmayı sürdürür; gram 5.994 TL direncini geçip 6.200 TL'ye yönelir.",
  "haberler": [
   {
    "baslik": "Altın ve gümüş sabah kayıplarını silip Şükran Günü öncesi toparlandı",
