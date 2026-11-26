@@ -1,6 +1,6 @@
 {
- "olusturma": "2026-11-26T18:48:07+00:00",
- "ozet": "Gram altın yaklaşık 5.900 TL civarında; ons 3.600 dolar çevresinde, ABD Şükran Günü nedeniyle ince likiditede. Ana baskı Fed'in faiz artırım beklentisinin sürmesi; tatildeki toparlanma henüz kalıcı değil. ABD piyasaları normale dönünce yön netleşecek.",
+ "olusturma": "2026-11-26T21:48:03+00:00",
+ "ozet": "Gram altın yaklaşık 5.900 TL civarında; ABD Şükran Günü tatili nedeniyle piyasalar kapalı/ince likiditede, fiyat 5.817-5.943 TL bandında. Fed'in Aralık artırım beklentisi baskı yaratırken, durgunluk endişesi ve Fed'in artırımı sürdürüp sürdüremeyeceğine dair kuşku toparlanmayı destekliyor. ABD piyasaları normale dönünce yön netleşecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
@@ -27,6 +27,13 @@
  "ana_senaryo": "Aralık artırım beklentisi baskıyı korur; toparlanma 5.943-5.994 TL direncinde tıkanır ve gram yeniden 5.817 TL, ardından 5.630 TL desteklerine döner.",
  "alternatif_senaryo": "Hisselerdeki oynaklık sürer, tahvil faizleri gerilemeye devam eder ve ons toparlanmayı sürdürür; gram 5.994 TL direncini geçip 6.200 TL'ye yönelir.",
  "haberler": [
+  {
+   "baslik": "Altındaki toparlanma, piyasaların durgunluktan korktuğunu ve Fed'in artırım sürdürmesinden kuşku duyduğunu gösteriyor",
+   "etki": "pozitif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-26/golds-rebound-shows-markets-fear-recession-and-doubt-fed-rate-follow",
+   "yorum": "Başlığa göre toparlanma faiz artırım beklentisinin sorgulanmasından geliyor; kalıcı olması için tatil sonrası likiditede doğrulanmalı."
+  },
   {
    "baslik": "Altın hafif geriledi, gümüş yatay: Fed artırım beklentileri tatil işlemlerinde sürüyor",
    "etki": "negatif",
