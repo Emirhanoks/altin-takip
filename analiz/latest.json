@@ -1,6 +1,6 @@
 {
- "olusturma": "2026-11-27T00:48:06+00:00",
- "ozet": "Gram altın yaklaşık 5.900 TL'de; ABD Şükran Günü tatili sonrası ince likidite sürüyor ve son 3 saatte yeni bir veri akışı yok. Fed'in Aralık'ta faiz artırımı beklentisi baskı yaratırken durgunluk endişesi toparlanmayı destekliyor. ABD piyasaları tam seansa dönene kadar yön net değil.",
+ "olusturma": "2026-11-27T03:48:09+00:00",
+ "ozet": "Gram altın yaklaşık 5.900 TL'de; ABD Şükran Günü sonrası ince likidite sürüyor ve son 3 saatte fiyatı değiştirecek yeni bir gelişme doğrulanamadı. Fed'in Aralık'ta faiz artırımı beklentisi baskı yaratırken durgunluk endişesi toparlanmayı destekliyor. ABD piyasaları tam seansa dönene kadar yön net değil.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
@@ -42,18 +42,18 @@
    "yorum": "Başlığa göre toparlanma faiz artırım beklentisinin sorgulanmasından geliyor; kalıcı olması için tatil sonrası likiditede doğrulanmalı."
   },
   {
-   "baslik": "Altın hafif geriledi, gümüş yatay: Fed artırım beklentileri tatil işlemlerinde sürüyor",
-   "etki": "negatif",
-   "kaynak": "Kitco",
-   "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-steadies-fed-rate-hike-expectations-persist-holiday",
-   "yorum": "Artırım beklentisi altına talebi sınırlıyor; gram altın için baskı sürüyor."
-  },
-  {
    "baslik": "Altının Şükran Günü desteği yaralı boğalara umut veriyor (analist yorumları)",
    "etki": "pozitif",
    "kaynak": "Kitco",
    "url": "https://www.kitco.com/news/article/2026-11-26/golds-thanksgiving-support-offers-glimmer-hope-battered-bulls-analysts",
    "yorum": "Tepki alımı ihtimali var; ancak tatil likiditesinde kalıcılığı kanıtlanmadı."
+  },
+  {
+   "baslik": "Altında dip oluştu mu? (Kitco görüş yazısı)",
+   "etki": "notr",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/opinion/2026-11-26/did-we-get-bottom-gold-and-silver-prices",
+   "yorum": "Başlık dipten dönüş tartışmasına işaret ediyor; içeriği doğrulayamadığım için görüşe ağırlık vermiyorum, gram altın için nötr."
   },
   {
    "baslik": "Altın ons 3.600 dolar altında zorlanıyor, Şükran Günü'nde ince işlem",
