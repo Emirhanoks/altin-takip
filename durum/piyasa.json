@@ -1,14 +1,14 @@
 {
-  "zaman": "2026-11-27T18:49:07+00:00",
-  "gram": 5998.84,
-  "ons": 3674.6,
+  "zaman": "2026-11-27T21:48:29+00:00",
+  "gram": 5999.0,
+  "ons": 3674.7,
   "kur": 50.7769,
   "son_veri_zamani": "2026-11-27T17:30:00+00:00",
-  "piyasa_kapali": false,
+  "piyasa_kapali": true,
   "degisim": {
     "3s": 0.51,
-    "24s": 1.7,
-    "7g": 4.43,
+    "24s": 1.71,
+    "7g": 5.11,
     "30g": -7.52,
     "1y": 5.5
   },
@@ -16,9 +16,9 @@
   "yil_ici_dip": 5579.58,
   "baglam": {
     "dolar_endeksi": {
-      "son": 104.04,
-      "gunluk_degisim_yuzde": 0.36,
-      "aylik_degisim_yuzde": 1.81
+      "son": 104.014,
+      "gunluk_degisim_yuzde": 0.33,
+      "aylik_degisim_yuzde": 1.78
     },
     "abd_10y_faiz": {
       "son": 4.936,
@@ -31,9 +31,9 @@
       "aylik_degisim_yuzde": -18.25
     },
     "brent": {
-      "son": 90.3,
-      "gunluk_degisim_yuzde": -4.56,
-      "aylik_degisim_yuzde": -21.7
+      "son": 90.84,
+      "gunluk_degisim_yuzde": -3.98,
+      "aylik_degisim_yuzde": -21.23
     },
     "sp500": {
       "son": 7297.4902,
@@ -46,7 +46,11 @@
       "aylik_degisim_yuzde": 38.43
     }
   },
-  "kapalicarsi": null,
+  "kapalicarsi": {
+    "alis": 5963.87,
+    "satis": 5964.82,
+    "kaynak": "finans.truncgil.com"
+  },
   "teknik": {
     "kisa": {
       "yon": "yukari",
@@ -60,9 +64,9 @@
         "MACD pozitif"
       ],
       "rsi": 69.3,
-      "macd_hist": 19.685,
-      "ema20": 5878.07,
-      "ema50": 5849.92,
+      "macd_hist": 19.686,
+      "ema20": 5878.11,
+      "ema50": 5849.94,
       "seviyeler": {
         "destek": [
           5943.0,
@@ -88,8 +92,8 @@
         "MACD negatif"
       ],
       "rsi": 41.7,
-      "macd_hist": -37.849,
-      "ema50": 6385.31,
+      "macd_hist": -37.839,
+      "ema50": 6385.32,
       "ema200": 6389.52,
       "seviyeler": {
         "destek": [
@@ -100,7 +104,7 @@
           6534.76
         ],
         "direnc_projeksiyon": false,
-        "atr": 189.19
+        "atr": 188.52
       }
     },
     "uzun": {
@@ -115,8 +119,8 @@
         "MACD negatif"
       ],
       "rsi": 41.5,
-      "macd_hist": -105.136,
-      "ema20": 6448.3,
+      "macd_hist": -105.126,
+      "ema20": 6448.31,
       "ema50": 6277.25,
       "seviyeler": {
         "destek": [
@@ -127,7 +131,7 @@
           7795.97
         ],
         "direnc_projeksiyon": false,
-        "atr": 373.88
+        "atr": 373.21
       }
     }
   },
