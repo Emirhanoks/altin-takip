@@ -1,6 +1,6 @@
 {
- "olusturma": "2026-11-26T21:48:03+00:00",
- "ozet": "Gram altın yaklaşık 5.900 TL civarında; ABD Şükran Günü tatili nedeniyle piyasalar kapalı/ince likiditede, fiyat 5.817-5.943 TL bandında. Fed'in Aralık artırım beklentisi baskı yaratırken, durgunluk endişesi ve Fed'in artırımı sürdürüp sürdüremeyeceğine dair kuşku toparlanmayı destekliyor. ABD piyasaları normale dönünce yön netleşecek.",
+ "olusturma": "2026-11-27T00:48:06+00:00",
+ "ozet": "Gram altın yaklaşık 5.900 TL'de; ABD Şükran Günü tatili sonrası ince likidite sürüyor ve son 3 saatte yeni bir veri akışı yok. Fed'in Aralık'ta faiz artırımı beklentisi baskı yaratırken durgunluk endişesi toparlanmayı destekliyor. ABD piyasaları tam seansa dönene kadar yön net değil.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
@@ -27,6 +27,13 @@
  "ana_senaryo": "Aralık artırım beklentisi baskıyı korur; toparlanma 5.943-5.994 TL direncinde tıkanır ve gram yeniden 5.817 TL, ardından 5.630 TL desteklerine döner.",
  "alternatif_senaryo": "Hisselerdeki oynaklık sürer, tahvil faizleri gerilemeye devam eder ve ons toparlanmayı sürdürür; gram 5.994 TL direncini geçip 6.200 TL'ye yönelir.",
  "haberler": [
+  {
+   "baslik": "Altın hafif geriledi, gümüş yükseldi: Fed artırım beklentileri tatil işlemlerinde sürüyor (PM raporu)",
+   "etki": "negatif",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/article/2026-11-26/gold-slips-silver-gains-fed-rate-hike-expectations-persist-holiday-trading",
+   "yorum": "Başlığa göre artırım beklentisi altına talebi sınırlıyor; gram altın için baskı sürüyor."
+  },
   {
    "baslik": "Altındaki toparlanma, piyasaların durgunluktan korktuğunu ve Fed'in artırım sürdürmesinden kuşku duyduğunu gösteriyor",
    "etki": "pozitif",
@@ -68,13 +75,6 @@
    "kaynak": "Kitco",
    "url": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
    "yorum": "Goldman 'şahin Fed' nedeniyle hedefi indirdi ve Aralık'ta bir artırım daha bekliyor; ancak merkez bankası alımlarının güçlü kalacağını söylüyor."
-  },
-  {
-   "baslik": "Merkez bankası alımları 3. çeyrekte %42 arttı, altın talebi rekora yakın (WGC)",
-   "etki": "pozitif",
-   "kaynak": "Kitco",
-   "url": "https://www.kitco.com/news/article/2026-11-03/gold-demand-remains-near-record-highs-central-bank-buying-surges-42-wgc",
-   "yorum": "Resmi sektör talebi orta-uzun vadede fiyata taban oluşturabilir; kısa vadeli faiz baskısını tek başına dengelemez."
   }
  ],
  "trader_gorusleri": [
@@ -97,7 +97,7 @@
   },
   {
    "zaman": "Cum 27 Kas",
-   "olay": "ABD hisse piyasaları kısa seans",
+   "olay": "ABD hisse piyasaları kısa seans (tatil sonrası likidite yeniden başlıyor)",
    "onem": "orta"
   },
   {
