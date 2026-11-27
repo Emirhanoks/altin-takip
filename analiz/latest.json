@@ -1,11 +1,11 @@
 {
- "olusturma": "2026-11-27T03:48:09+00:00",
- "ozet": "Gram altın yaklaşık 5.900 TL'de; ABD Şükran Günü sonrası ince likidite sürüyor ve son 3 saatte fiyatı değiştirecek yeni bir gelişme doğrulanamadı. Fed'in Aralık'ta faiz artırımı beklentisi baskı yaratırken durgunluk endişesi toparlanmayı destekliyor. ABD piyasaları tam seansa dönene kadar yön net değil.",
+ "olusturma": "2026-11-27T06:49:13+00:00",
+ "ozet": "Gram altın yaklaşık 5.900 TL'de; Şükran Günü sonrası ince likidite sürüyor, ons altın 3.575-3.620 dolar bandında tutunuyor. Fed'in Aralık'ta faiz artırımı beklentisi baskı yaratırken durgunluk endişesi toparlanmayı destekliyor. Yeni bir kırılma doğrulanamadı; ABD piyasaları tam seansa dönünce yön netleşebilir.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 ve EMA50 üstünde, RSI 60,6), ancak hareket tatil günü düşük likiditede geldi ve 5.943 TL direncine yakın. Son 20 kısa vade tahmininin yalnızca 3'ü tuttuğu için güveni düşük tutuyorum.",
+   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 ve EMA50 üstünde, RSI 60,7), ancak hareket tatil günü düşük likiditede geldi ve 5.943 TL direncine yakın. Kısa vade tahminlerinin son 20'sinde yalnızca 3'ü tuttuğu için güveni düşük tutuyorum.",
    "hedef": "5.817-5.943 TL bandı; 5.943 TL üstü kalıcılıkta 5.994 TL",
    "iptal": "5.817 TL altında kapanış (aşağı) veya 5.994 TL üstünde kapanış (yukarı)"
   },
@@ -91,13 +91,13 @@
  ],
  "takvim": [
   {
-   "zaman": "Per 26 Kas",
-   "olay": "ABD Şükran Günü: borsa ve tahvil piyasaları kapalı, likidite düşük",
+   "zaman": "Cum 27 Kas",
+   "olay": "ABD hisse piyasaları kısa seans; tatil sonrası likidite dönüyor",
    "onem": "orta"
   },
   {
    "zaman": "Cum 27 Kas",
-   "olay": "ABD hisse piyasaları kısa seans (tatil sonrası likidite yeniden başlıyor)",
+   "olay": "ABD tahvil piyasası erken kapanış; hacim düşük",
    "onem": "orta"
   },
   {
