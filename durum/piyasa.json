@@ -1,24 +1,24 @@
 {
-  "zaman": "2026-11-26T21:48:31+00:00",
+  "zaman": "2026-11-27T00:48:33+00:00",
   "gram": 5898.36,
   "ons": 3620.4,
   "kur": 50.6738,
   "son_veri_zamani": "2026-11-26T04:00:00+00:00",
   "piyasa_kapali": true,
   "degisim": {
-    "3s": 0.63,
+    "3s": 0.64,
     "24s": 2.04,
-    "7g": 0.21,
-    "30g": -9.55,
+    "7g": 0.87,
+    "30g": -9.07,
     "1y": 3.73
   },
   "yil_ici_zirve": 7795.97,
   "yil_ici_dip": 5579.58,
   "baglam": {
     "dolar_endeksi": {
-      "son": 103.785,
-      "gunluk_degisim_yuzde": 0.11,
-      "aylik_degisim_yuzde": 1.56
+      "son": 103.777,
+      "gunluk_degisim_yuzde": 0.1,
+      "aylik_degisim_yuzde": 1.55
     },
     "abd_10y_faiz": {
       "son": 4.848,
@@ -26,14 +26,14 @@
       "aylik_degisim_yuzde": -2.9
     },
     "gumus_ons": {
-      "son": 41.75,
-      "gunluk_degisim_yuzde": 4.24,
-      "aylik_degisim_yuzde": -21.9
+      "son": 41.78,
+      "gunluk_degisim_yuzde": 4.31,
+      "aylik_degisim_yuzde": -21.84
     },
     "brent": {
-      "son": 91.73,
-      "gunluk_degisim_yuzde": -3.04,
-      "aylik_degisim_yuzde": -20.46
+      "son": 91.96,
+      "gunluk_degisim_yuzde": -2.8,
+      "aylik_degisim_yuzde": -20.26
     },
     "sp500": {
       "son": 7182.7798,
@@ -46,11 +46,7 @@
       "aylik_degisim_yuzde": 58.49
     }
   },
-  "kapalicarsi": {
-    "alis": 5805.64,
-    "satis": 5814.84,
-    "kaynak": "finans.truncgil.com"
-  },
+  "kapalicarsi": null,
   "teknik": {
     "kisa": {
       "yon": "yukari",
@@ -63,10 +59,10 @@
         "kısa ortalama yükseliyor",
         "MACD pozitif"
       ],
-      "rsi": 60.6,
-      "macd_hist": 15.057,
-      "ema20": 5827.84,
-      "ema50": 5827.48,
+      "rsi": 60.7,
+      "macd_hist": 15.052,
+      "ema20": 5827.8,
+      "ema50": 5827.47,
       "seviyeler": {
         "destek": [
           5884.36,
@@ -97,15 +93,15 @@
       "ema200": 6388.52,
       "seviyeler": {
         "destek": [
-          5629.69,
-          5361.02
+          5629.49,
+          5360.62
         ],
         "direnc": [
           6206.26,
           6332.41
         ],
         "direnc_projeksiyon": false,
-        "atr": 179.11
+        "atr": 179.25
       }
     },
     "uzun": {
@@ -139,9 +135,9 @@
   },
   "karne": {
     "kisa": {
-      "toplam": 55,
-      "dogru": 17,
-      "son_20_dogru": 2,
+      "toplam": 57,
+      "dogru": 19,
+      "son_20_dogru": 3,
       "son_20_toplam": 20
     },
     "orta": {
