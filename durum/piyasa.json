@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-27T06:49:39+00:00",
+  "zaman": "2026-11-27T09:49:29+00:00",
   "gram": 5898.36,
   "ons": 3620.4,
   "kur": 50.6738,
@@ -8,7 +8,7 @@
   "degisim": {
     "3s": 0.63,
     "24s": 2.04,
-    "7g": 1.95,
+    "7g": 1.65,
     "30g": -9.07,
     "1y": 3.73
   },
@@ -16,9 +16,9 @@
   "yil_ici_dip": 5579.58,
   "baglam": {
     "dolar_endeksi": {
-      "son": 103.711,
-      "gunluk_degisim_yuzde": 0.04,
-      "aylik_degisim_yuzde": 1.49
+      "son": 103.83,
+      "gunluk_degisim_yuzde": 0.15,
+      "aylik_degisim_yuzde": 1.6
     },
     "abd_10y_faiz": {
       "son": 4.848,
@@ -26,13 +26,13 @@
       "aylik_degisim_yuzde": -2.9
     },
     "gumus_ons": {
-      "son": 44.375,
-      "gunluk_degisim_yuzde": 10.79,
-      "aylik_degisim_yuzde": -16.99
+      "son": 44.705,
+      "gunluk_degisim_yuzde": 11.62,
+      "aylik_degisim_yuzde": -16.37
     },
     "brent": {
-      "son": 92.39,
-      "gunluk_degisim_yuzde": -2.35,
+      "son": 92.4,
+      "gunluk_degisim_yuzde": -2.34,
       "aylik_degisim_yuzde": -19.88
     },
     "sp500": {
@@ -41,14 +41,14 @@
       "aylik_degisim_yuzde": -6.99
     },
     "vix": {
-      "son": 26.8,
-      "gunluk_degisim_yuzde": -5.27,
-      "aylik_degisim_yuzde": 58.49
+      "son": 24.59,
+      "gunluk_degisim_yuzde": -8.25,
+      "aylik_degisim_yuzde": 42.97
     }
   },
   "kapalicarsi": {
-    "alis": 5962.28,
-    "satis": 5963.02,
+    "alis": 6006.82,
+    "satis": 6007.71,
     "kaynak": "finans.truncgil.com"
   },
   "teknik": {
@@ -91,10 +91,10 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 41.6,
-      "macd_hist": -38.037,
-      "ema50": 6385.2,
-      "ema200": 6389.49,
+      "rsi": 43.7,
+      "macd_hist": -34.308,
+      "ema50": 6387.49,
+      "ema200": 6390.07,
       "seviyeler": {
         "destek": [
           5940.96
@@ -104,7 +104,7 @@
           6534.76
         ],
         "direnc_projeksiyon": false,
-        "atr": 186.93
+        "atr": 189.16
       }
     },
     "uzun": {
@@ -118,10 +118,10 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 41.4,
-      "macd_hist": -105.324,
-      "ema20": 6448.02,
-      "ema50": 6277.13,
+      "rsi": 42.6,
+      "macd_hist": -101.595,
+      "ema20": 6453.58,
+      "ema50": 6279.42,
       "seviyeler": {
         "destek": [
           5900.11
@@ -131,7 +131,7 @@
           7795.97
         ],
         "direnc_projeksiyon": false,
-        "atr": 371.63
+        "atr": 373.85
       }
     }
   },
