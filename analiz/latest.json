@@ -1,52 +1,59 @@
 {
- "olusturma": "2026-11-27T18:48:31+00:00",
- "ozet": "Gram altın yaklaşık 5.970 TL'de (ons yaklaşık 3.658 dolar, USD/TRY yaklaşık 50,78); ons bir yıl dibinden toparlanıp haftalık artıya gidiyor. Fed'in aralıkta faiz artırabileceği beklentisi yükselişleri sınırlıyor; ince tatil haftası hareketleri abartıyor olabilir. Gram 5.994 TL direncine çok yakın, aşağıda 5.884-5.943 TL destek bandı belirleyici.",
+ "olusturma": "2026-11-27T21:48:00+00:00",
+ "ozet": "Gram altın yaklaşık 5.999 TL'de (ons yaklaşık 3.675 dolar, USD/TRY yaklaşık 50,78); ons bir yıl dibinden dönüp üç haftada ilk haftalık artışa gidiyor. Fed'in aralıkta faiz artırabileceği riski yükselişleri sınırlıyor. Gram 6.035 TL direncine yakın; aşağıda 5.884-5.943 TL destek bandı belirleyici.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20/EMA50 üstünde, RSI 67) ama fiyat 5.994 TL direncine yakın ve RSI ısınıyor. Kısa vade karnemiz zayıf (son 20 tahminde 6 doğru), tepki yükselişi ince tatil işleminde geldiği için güveni düşük tutuyorum.",
-   "hedef": "5.884-5.994 TL bandı; 5.994 TL üstünde kalıcılık olursa 6.035 TL",
-   "iptal": "5.884 TL altında kapanış (aşağı) veya 6.035 TL üstünde kapanış (yukarı)"
+   "yorum": "Teknik tablo kısa vadede olumlu (EMA20/EMA50 üstü, MACD pozitif) ama RSI 69'a çıkıp ısındı ve fiyat 6.035 TL direncine yakın. Kısa vade karnemiz zayıf (son 20 tahminde 6 doğru) ve hafta sonu öncesi ince işlem hareketleri abartabilir; bu yüzden güveni düşük tutuyorum.",
+   "hedef": "5.943-6.035 TL bandı; 6.035 TL üstünde kalıcılık olursa 6.099 TL",
+   "iptal": "5.884 TL altında kapanış (aşağı) veya 6.099 TL üstünde kapanış (yukarı)"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.385 TL) altında, MACD negatif, son 30 günde yaklaşık yüzde 8 düşüş var. Fed artırım beklentisi sürdükçe baskı devam edebilir; ancak tepki yükselişlerinin 6.200-6.270 TL'ye uzanması olağan.",
-   "hedef": "5.689 TL desteği, kırılırsa 5.405 TL; tepki tavanı 6.269 TL",
+   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.385 TL) altında, MACD negatif, son 30 günde yaklaşık yüzde 7,5 düşüş var. Fed artırım riski sürdükçe baskı devam edebilir; tepki yükselişlerinin 6.270 TL'ye kadar uzanması olağan.",
+   "hedef": "5.941 TL desteği, kırılırsa 5.689 TL; tepki tavanı 6.269 TL",
    "iptal": "6.269 TL üzerinde kalıcı kapanış veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
    "yon": "yatay",
    "guven": 40,
-   "yorum": "Yıl içi zirveden (7.796 TL) belirgin düşüş var; teknik görünüm aşağı eğilimli. Goldman 2027 sonu için 4.800 dolar hedefliyor ve merkez bankası alımlarının taban oluşturduğunu söylüyor (başlığa göre). Türkiye'de yüksek enflasyon beklentisi TL cinsinden gramı destekleyen yapısal unsur.",
-   "hedef": "Yaklaşık 5.412-7.355 TL geniş bant (teknik destek ve direnç)",
-   "iptal": "5.412 TL altı kalıcı kırılma (aşağı) veya 7.355 TL üzeri (yukarı)"
+   "yorum": "Yıl içi zirveden (7.796 TL) belirgin düşüş ve aşağı eğilimli teknik görünüm var. Buna karşılık merkez bankası alımları güçlü (WGC'ye göre 3. çeyrekte yüzde 42 artış, başlığa göre) ve Türkiye'de yüksek enflasyon beklentisi TL cinsinden gramı destekleyen yapısal unsur.",
+   "hedef": "Yaklaşık 5.900-7.355 TL geniş bant (teknik destek ve direnç)",
+   "iptal": "5.900 TL altı kalıcı kırılma (aşağı) veya 7.355 TL üzeri (yukarı)"
   }
  },
- "ana_senaryo": "Fed artırım beklentisi yükselişleri sınırlar; gram 5.994 TL direncinde tıkanıp 5.884-5.943 TL desteklerine döner.",
- "alternatif_senaryo": "Dolar zayıflığı ve tahvil faizi gerilemesi sürer, ons 3.650 doların üzerinde tutunur; gram 5.994 TL'yi geçip 6.035 TL ve üstüne yönelir.",
+ "ana_senaryo": "Fed artırım riski yükselişleri sınırlar; gram 6.035 TL direncinde tıkanıp 5.884-5.943 TL desteklerine geri döner.",
+ "alternatif_senaryo": "Dolar zayıflığı ve tahvil faizi gerilemesi sürer, ons 3.700 doların üzerine yerleşir; gram 6.035 TL'yi geçip 6.099 TL ve üstüne yönelir.",
  "haberler": [
   {
-   "baslik": "Altın 3.600 doların üzerinde toparlanmasını sürdürdü: dolar zayıf, Fed beklentileri temkin gerektiriyor",
-   "etki": "pozitif",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/news/gold-extends-recovery-above-3-600-on-weaker-usd-fed-bets-warrant-caution-for-bulls-202611270432",
-   "yorum": "Başlığa göre zayıf dolar ons altını destekliyor; gram altın için pozitif. İçeriği doğrulayamadım."
+   "baslik": "Altın, Fed artırım riskleri sürerken kazançlarının bir kısmını geri verdi; üç haftada ilk haftalık artışa yöneldi",
+   "etki": "notr",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-11-27/gold-pares-gains-fed-hike-risks-linger-eyes-first-weekly-rise-three",
+   "yorum": "Başlığa göre haftalık toparlanma var ama Fed artırım riski tepkiyi sınırlıyor; gram için dengeli. İçeriği doğrulayamadım."
   },
   {
-   "baslik": "Altının 3.750 dolar tavanı: Analist, şahin Fed'in yükselişleri sınırlayacağını söylüyor",
-   "etki": "negatif",
-   "kaynak": "FXStreet",
-   "url": "https://www.fxstreet.com/analysis/golds-3-750-ceiling-analyst-says-a-hawkish-fed-would-cap-gold-rallies-202611271242",
-   "yorum": "Başlığa göre ons için 3.750 dolar direnç olarak görülüyor; içeriği doğrulayamadım."
+   "baslik": "Altın fiyatı artırım testinde: Külçe yüzde 1 haftalık artışa yöneliyor",
+   "etki": "pozitif",
+   "kaynak": "Trading and Investment News",
+   "url": "https://www.tradingandinvestmentnews.co.uk/gold-price-rate-hike-weekly-gain/",
+   "yorum": "Başlığa göre ons haftalık yaklaşık yüzde 1 artışta; gram altın için olumlu ama faiz artırım riski belirleyici. İçeriği doğrulayamadım."
   },
   {
-   "baslik": "Merkez Bankası Kasım 2026 anketi: Yıl sonu enflasyon beklentisi yüzde 30,04'e çıktı",
+   "baslik": "Altın, bir yıllık dipten toparlanarak haftalık artışa gidiyor",
    "etki": "pozitif",
-   "kaynak": "Kamudan Haber",
-   "url": "https://www.kamudanhaber.net/merkez-bankasi-acikladi-2026-yil-sonu-enflasyon-beklentisi-yuzde-3004e-cikti",
-   "yorum": "Yüksek enflasyon beklentisi TL'nin değer kaybı beklentisini canlı tutuyor; TL cinsinden altın için destekleyici. İçeriği doğrulayamadım."
+   "kaynak": "ANC Stock Investments",
+   "url": "https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/",
+   "yorum": "Başlığa göre dipten dönüş sürüyor; teknik tepki yükselişini destekler. İçeriği doğrulayamadım."
+  },
+  {
+   "baslik": "Merkez bankası alımı ve ETF girişleri 3. çeyrek altın talebini destekledi",
+   "etki": "pozitif",
+   "kaynak": "Kitco (WGC)",
+   "url": "https://www.kitco.com/news/article/2026-11-03/gold-demand-remains-near-record-highs-central-bank-buying-surges-42-wgc",
+   "yorum": "Başlığa göre merkez bankası alımları yüzde 42 arttı; orta-uzun vadede fiyata taban oluşturan unsur."
   },
   {
    "baslik": "Goldman Sachs altın hedeflerini düşürdü: 2026 sonu 4.150 dolar, 2027 sonu 4.800 dolar",
@@ -56,24 +63,17 @@
    "yorum": "Goldman 'şahin Fed' nedeniyle hedefi indirdi; merkez bankası alımlarının güçlü kalacağını söylüyor."
   },
   {
-   "baslik": "Altın, şahin Fed işaretleriyle dolar güçlenince yüzde 2 düşüp bir yılın dibine indi",
-   "etki": "negatif",
-   "kaynak": "NST",
-   "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580594/gold-drops-2pct-over-one-year-low-hawkish-fed-signals-boost-dollar",
-   "yorum": "Başlığa göre şahin Fed işaretleri doları güçlendirip altını dibe itti; son toparlanmanın kırılgan olduğunu gösteriyor. İçeriği doğrulayamadım."
-  },
-  {
-   "baslik": "ABD istihdam verisi altını aşağı itti, aralık faiz beklentileri yükseldi",
-   "etki": "negatif",
-   "kaynak": "Nation Thailand",
-   "url": "https://www.nationthailand.com/business/40073208",
-   "yorum": "Başlığa göre güçlü veri aralık ayı faiz beklentisini artırıyor; gram altın için baskı unsuru. İçeriği doğrulayamadım."
+   "baslik": "Merkez Bankası toplam rezervleri 13 Kasım haftasında 158,9 milyar dolara geriledi",
+   "etki": "notr",
+   "kaynak": "Forbes Türkiye",
+   "url": "https://www.forbes.com.tr/ekonomi/merkez-bankasi-toplam-rezervleri-13-kasim-haftasinda-158-9-milyar-dolara-geriledi",
+   "yorum": "Başlığa göre rezervler geriledi; kur tarafında belirgin bir baskı olup olmadığını doğrulayamadım, USD/TRY'yi izlemek gerekir."
   }
  ],
  "trader_gorusleri": [
   {
    "kim": "Goldman Sachs Research",
-   "gorus": "Fed artırımlarının özel yatırımcı talebini baskıladığını, merkez bankası talebinin taban oluşturduğunu söylüyor; hedefleri 2026 sonu 4.150, 2027 sonu 4.800 dolar (başlıklara göre).",
+   "gorus": "Hedefler 2026 sonu 4.150, 2027 sonu 4.800 dolar; şahin Fed nedeniyle düşürüldü, merkez bankası talebinin güçlü kalacağı belirtiliyor (başlıklara göre).",
    "kaynak": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz"
   },
   {
@@ -83,26 +83,13 @@
   }
  ],
  "takvim": [
-  {
-   "zaman": "Cum 27 Kas (ABD seansı)",
-   "olay": "ABD hisse piyasası kısa seans; tatil sonrası likidite dönüyor",
-   "onem": "orta"
-  },
-  {
-   "zaman": "Cum 4 Ara 16:30 (beklenen)",
-   "olay": "ABD istihdam raporu (NFP); tarihi doğrulamadım",
-   "onem": "yuksek"
-  },
-  {
-   "zaman": "8-9 Aralık",
-   "olay": "Fed faiz kararı (artırım beklentisi yüksek)",
-   "onem": "yuksek"
-  }
+  {"zaman": "Cum 4 Ara (beklenen)", "olay": "ABD istihdam raporu (NFP); tarih ve saati doğrulamadım", "onem": "yuksek"},
+  {"zaman": "8-9 Aralık", "olay": "Fed faiz kararı (artırım riski gündemde)", "onem": "yuksek"}
  ],
  "riskler": [
-  "Tatil haftasında düşük likidite sert ve yönsüz dalgalanma yaratabilir",
-  "Hisse satışı ve VIX yüksek kalırsa altın likidite ihtiyacıyla da satılabilir",
-  "Aşırı satımdan gelen tepki yükselişi aşağı yönlü orta vade görüşünü bozabilir",
+  "Hafta sonu öncesi düşük likidite sert ve yönsüz dalgalanma yaratabilir",
+  "Hisse piyasasında satış ve yüksek VIX, altının likidite ihtiyacıyla da satılmasına yol açabilir",
+  "RSI 69 ile kısa vadede aşırı alım bölgesine yakınız; geri çekilme olasılığı var",
   "USD/TRY hareketi gram altını onstan bağımsız etkileyebilir"
  ]
 }
