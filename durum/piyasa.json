@@ -1,14 +1,14 @@
 {
-  "zaman": "2026-11-27T03:48:46+00:00",
+  "zaman": "2026-11-27T06:49:39+00:00",
   "gram": 5898.36,
   "ons": 3620.4,
   "kur": 50.6738,
   "son_veri_zamani": "2026-11-26T04:00:00+00:00",
   "piyasa_kapali": true,
   "degisim": {
-    "3s": 0.64,
+    "3s": 0.63,
     "24s": 2.04,
-    "7g": 2.27,
+    "7g": 1.95,
     "30g": -9.07,
     "1y": 3.73
   },
@@ -16,9 +16,9 @@
   "yil_ici_dip": 5579.58,
   "baglam": {
     "dolar_endeksi": {
-      "son": 103.683,
-      "gunluk_degisim_yuzde": 0.01,
-      "aylik_degisim_yuzde": 1.46
+      "son": 103.711,
+      "gunluk_degisim_yuzde": 0.04,
+      "aylik_degisim_yuzde": 1.49
     },
     "abd_10y_faiz": {
       "son": 4.848,
@@ -26,14 +26,14 @@
       "aylik_degisim_yuzde": -2.9
     },
     "gumus_ons": {
-      "son": 43.84,
-      "gunluk_degisim_yuzde": 9.46,
-      "aylik_degisim_yuzde": -17.99
+      "son": 44.375,
+      "gunluk_degisim_yuzde": 10.79,
+      "aylik_degisim_yuzde": -16.99
     },
     "brent": {
-      "son": 92.24,
-      "gunluk_degisim_yuzde": -2.51,
-      "aylik_degisim_yuzde": -20.01
+      "son": 92.39,
+      "gunluk_degisim_yuzde": -2.35,
+      "aylik_degisim_yuzde": -19.88
     },
     "sp500": {
       "son": 7182.7798,
@@ -47,8 +47,8 @@
     }
   },
   "kapalicarsi": {
-    "alis": 5924.76,
-    "satis": 5925.49,
+    "alis": 5962.28,
+    "satis": 5963.02,
     "kaynak": "finans.truncgil.com"
   },
   "teknik": {
@@ -63,10 +63,10 @@
         "kısa ortalama yükseliyor",
         "MACD pozitif"
       ],
-      "rsi": 60.7,
-      "macd_hist": 15.052,
-      "ema20": 5827.8,
-      "ema50": 5827.47,
+      "rsi": 60.6,
+      "macd_hist": 15.057,
+      "ema20": 5827.84,
+      "ema50": 5827.48,
       "seviyeler": {
         "destek": [
           5884.36,
@@ -91,21 +91,20 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 37.7,
-      "macd_hist": -44.262,
-      "ema50": 6381.37,
-      "ema200": 6388.52,
+      "rsi": 41.6,
+      "macd_hist": -38.037,
+      "ema50": 6385.2,
+      "ema200": 6389.49,
       "seviyeler": {
         "destek": [
-          5624.27,
-          5350.18
+          5940.96
         ],
         "direnc": [
           6269.33,
           6534.76
         ],
         "direnc_projeksiyon": false,
-        "atr": 182.73
+        "atr": 186.93
       }
     },
     "uzun": {
@@ -119,29 +118,28 @@
         "kısa ortalama düşüyor",
         "MACD negatif"
       ],
-      "rsi": 39.4,
-      "macd_hist": -111.549,
-      "ema20": 6438.73,
-      "ema50": 6273.31,
+      "rsi": 41.4,
+      "macd_hist": -105.324,
+      "ema20": 6448.02,
+      "ema50": 6277.13,
       "seviyeler": {
         "destek": [
-          5343.89,
-          4789.43
+          5900.11
         ],
         "direnc": [
           7355.01,
           7795.97
         ],
         "direnc_projeksiyon": false,
-        "atr": 369.64
+        "atr": 371.63
       }
     }
   },
   "karne": {
     "kisa": {
-      "toplam": 57,
-      "dogru": 19,
-      "son_20_dogru": 3,
+      "toplam": 58,
+      "dogru": 20,
+      "son_20_dogru": 4,
       "son_20_toplam": 20
     },
     "orta": {
