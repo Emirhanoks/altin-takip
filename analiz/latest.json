@@ -1,41 +1,43 @@
 {
- "olusturma": "2026-11-27T12:50:06+00:00",
- "ozet": "Gram altın yaklaşık 5.900 TL'de; ons altın 3.600 dolar çevresinde, 15 aylık dipten toparlanıp haftalık artıya yöneliyor. Başlıklara göre dolar zayıflıyor ama Fed artırım beklentisi yükselişleri sınırlıyor. Kısa vadede 5.943-5.994 TL direnci belirleyici.",
+ "olusturma": "2026-11-27T15:48:50+00:00",
+ "ozet": "Gram altın yaklaşık 5.900 TL'de; ons altın 15 aylık dipten toparlanıp 3.600-3.660 dolar bandında haftalık artıya gidiyor. Fed'in aralıkta faiz artırabileceği beklentisi yükselişleri sınırlıyor, tatil haftasındaki ince işlem hacmi hareketleri abartıyor olabilir. Kısa vadede 5.943-5.994 TL direnci, aşağıda 5.817-5.884 TL destek bandı belirleyici.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
    "guven": 45,
-   "yorum": "Teknik tablo kısa vadede olumlu (EMA20 ve EMA50 üstü, RSI 60,6) ancak fiyat 5.943 TL direncine yakın. Kısa vade tahminlerinin son 20'sinde yalnızca 4'ü tuttuğu için güveni düşük tutuyorum.",
-   "hedef": "5.817-5.943 TL bandı; 5.943 TL üstü kalıcılıkta 5.994 TL",
+   "yorum": "Teknik tablo kısa vadede olumlu (fiyat EMA20 ve EMA50 üstünde, RSI 60,7) ama fiyat 5.943 TL direncine çok yakın. Kısa vade tahmin karnesi zayıf (son 20'de 6 doğru) olduğu için güveni düşük tutuyorum; toparlanmanın ince tatil işleminde olması da kalıcılığı belirsiz kılıyor.",
+   "hedef": "5.817-5.943 TL bandı; 5.943 TL üstünde kalıcılık olursa 5.994 TL",
    "iptal": "5.817 TL altında kapanış (aşağı) veya 5.994 TL üstünde kapanış (yukarı)"
   },
   "orta": {
    "yon": "asagi",
    "guven": 55,
-   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.390 TL) altında, MACD negatif. Fed artırım beklentisi sürdükçe baskı devam edebilir; ancak ons toparlanması nedeniyle 6.200 TL'ye kadar tepki yükselişleri normal.",
-   "hedef": "5.941 TL desteği, kırılırsa 5.900 TL altı bölge; tepki tavanı 6.269 TL",
+   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.390 TL) altında, MACD negatif; son 30 günde yaklaşık yüzde 9 düşüş var. Fed artırım beklentisi sürdükçe baskı devam edebilir, ancak ons toparlanması nedeniyle 6.200-6.270 TL'ye kadar tepki yükselişleri normal.",
+   "hedef": "5.941 TL desteği, kırılırsa 5.900 TL altı ve yıl içi dip 5.580 TL; tepki tavanı 6.269 TL",
    "iptal": "6.269 TL üzerinde kalıcı kapanış veya Fed artırım beklentisinin belirgin sönmesi"
   },
   "uzun": {
    "yon": "yatay",
    "guven": 40,
-   "yorum": "Yıl içi zirveden (7.796 TL) belirgin düşüş var; Goldman 2027 sonu için 4.800 dolar hedefliyor ve merkez bankası alımlarının taban oluşturduğunu söylüyor. Faiz artırım döngüsünün süresi belirsiz olduğundan geniş bant görünümü koruyorum.",
+   "yorum": "Yıl içi zirveden (7.796 TL) belirgin düşüş var. Goldman 2027 sonu için 4.800 dolar hedefliyor ve merkez bankası alımlarının taban oluşturduğunu söylüyor; öte yandan artırım döngüsünün süresi belirsiz. Türkiye'de yüksek enflasyon beklentisi TL cinsinden gramı destekleyen yapısal bir unsur.",
    "hedef": "Yaklaşık 5.580-7.355 TL geniş bant (yıl içi dip ve teknik direnç)",
    "iptal": "5.580 TL (yıl içi dip) altı kalıcı kırılma (aşağı) veya 7.355 TL üzeri (yukarı)"
   }
  },
  "ana_senaryo": "Fed artırım beklentisi yükselişleri sınırlar; gram 5.943-5.994 TL direncinde tıkanıp 5.817-5.884 TL desteklerine döner.",
- "alternatif_senaryo": "Dolar zayıflığı sürer, tahvil faizleri geriler ve ons 3.600 doları koruyarak yükselir; gram 5.994 TL'yi geçip 6.200 TL'ye yönelir.",
+ "alternatif_senaryo": "Dolar zayıflığı ve tahvil faizlerindeki gerileme sürer, ons 3.650 doların üzerinde tutunur; gram 5.994 TL'yi geçip 6.200 TL'ye yönelir.",
  "haberler": [
+  {"baslik": "Altın haftalık artışa gidiyor, bir yıllık dipten toparlanma sürüyor", "etki": "pozitif", "kaynak": "ANC Stock Investments", "url": "https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/", "yorum": "Başlığa göre ons dipten dönüp haftayı artıda kapatmaya yakın; gram için kısa vadede pozitif. İçeriği doğrulayamadım."},
+  {"baslik": "Altın, Fed artırım riskleri sürerken kazançlarını bir kısmını geri verdi ama üç hafta sonra ilk haftalık artışa gidiyor", "etki": "notr", "kaynak": "IUX24", "url": "https://www.iux24.com/news/gold-pares-gains-as-fed-hike-risks-linger-but-heads-for-first-weekly-rise-in-three-weeks-20261127/", "yorum": "Başlığa göre artırım riski yükselişi sınırlıyor; tepki hareketinin kalıcılığı belirsiz."},
+  {"baslik": "Altın 3.660 doların üzerine çıktı; piyasa aralık Fed kararını ve istihdam verisini yeniden değerlendiriyor", "etki": "pozitif", "kaynak": "FX Broker Trust", "url": "https://www.fxbrokertrust.com/insights/gold-rebounds-above-3660-as-markets-reassess-december-fed-decision-and-payrolls", "yorum": "Başlığa göre Fed beklentileri yeniden fiyatlanıyor; istihdam verisi yön belirleyici olabilir. İçeriği doğrulayamadım."},
   {"baslik": "Altın 3.600 doların üzerinde toparlanmasını sürdürdü: dolar zayıf, Fed beklentileri temkin gerektiriyor", "etki": "pozitif", "kaynak": "FXStreet", "url": "https://www.fxstreet.com/news/gold-extends-recovery-above-3-600-on-weaker-usd-fed-bets-warrant-caution-for-bulls-202611270432", "yorum": "Başlığa göre zayıf dolar ons altını destekliyor; gram altın için pozitif. İçeriği doğrulayamadım."},
-  {"baslik": "Altın 3.570 dolar civarında duruyor: Fed artırım beklentisi alıcıları sınırlıyor", "etki": "negatif", "kaynak": "FXStreet", "url": "https://www.fxstreet.com/news/gold-price-stalls-near-3-570-as-fed-hike-bets-keep-bulls-at-bay-202611261801", "yorum": "Başlığa göre artırım beklentisi yükselişi frenliyor. İçeriği doğrulayamadım."},
-  {"baslik": "XAU/USD 15 aylık dip sonrası haftalık kazanca yöneliyor", "etki": "pozitif", "kaynak": "FXStreet", "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-eyes-weekly-gain-after-hitting-15-month-lows-202611270348", "yorum": "Başlığa göre ons haftalık artıya yöneliyor; kalıcılığı tatil sonrası likiditede sınanacak."},
   {"baslik": "Altının 3.750 dolar tavanı: Analist, şahin Fed'in yükselişleri sınırlayacağını söylüyor", "etki": "negatif", "kaynak": "FXStreet", "url": "https://www.fxstreet.com/analysis/golds-3-750-ceiling-analyst-says-a-hawkish-fed-would-cap-gold-rallies-202611271242", "yorum": "Başlığa göre ons için 3.750 dolar direnç olarak görülüyor; içeriği doğrulayamadım."},
-  {"baslik": "Altındaki toparlanma, piyasaların durgunluktan korktuğunu gösteriyor", "etki": "pozitif", "kaynak": "Kitco", "url": "https://www.kitco.com/news/article/2026-11-26/golds-rebound-shows-markets-fear-recession-and-doubt-fed-rate-follow", "yorum": "Başlığa göre toparlanma artırım beklentisinin sorgulanmasından geliyor; tatil sonrası doğrulanmalı."},
+  {"baslik": "Merkez Bankası Kasım 2026 anketi: Yıl sonu enflasyon beklentisi yüzde 30,04'e çıktı", "etki": "pozitif", "kaynak": "Kamudan Haber", "url": "https://www.kamudanhaber.net/merkez-bankasi-acikladi-2026-yil-sonu-enflasyon-beklentisi-yuzde-3004e-cikti", "yorum": "Yüksek enflasyon beklentisi TL'nin değer kaybı beklentisini canlı tutuyor; TL cinsinden altın için destekleyici. İçeriği doğrulayamadım."},
   {"baslik": "Goldman Sachs altın hedeflerini düşürdü: 2026 sonu 4.150 dolar, 2027 sonu 4.800 dolar", "etki": "negatif", "kaynak": "Kitco", "url": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz", "yorum": "Goldman 'şahin Fed' nedeniyle hedefi indirdi; merkez bankası alımlarının güçlü kalacağını söylüyor."}
  ],
  "trader_gorusleri": [
-  {"kim": "Goldman Sachs Research", "gorus": "Fed artırımlarının özel yatırımcı talebini baskıladığını, merkez bankası talebinin taban oluşturduğunu; faiz indirimleriyle Batılı yatırımcının 2028'e doğru döneceğini söylüyor (başlığa göre 2028'de 5.600 dolar).", "kaynak": "https://kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back"}
+  {"kim": "Goldman Sachs Research", "gorus": "Fed artırımlarının özel yatırımcı talebini baskıladığını, merkez bankası talebinin taban oluşturduğunu söylüyor; hedefleri 2026 sonu 4.150, 2027 sonu 4.800 dolar (başlıklara göre).", "kaynak": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz"},
+  {"kim": "FXStreet'te bir analist", "gorus": "Şahin bir Fed'in altın yükselişlerini sınırlayacağını, ons için 3.750 doların tavan olabileceğini söylüyor (başlığa göre).", "kaynak": "https://www.fxstreet.com/analysis/golds-3-750-ceiling-analyst-says-a-hawkish-fed-would-cap-gold-rallies-202611271242"}
  ],
  "takvim": [
   {"zaman": "Cum 27 Kas (ABD seansı)", "olay": "ABD hisse piyasası kısa seans; tatil sonrası likidite dönüyor", "onem": "orta"},
