@@ -1,5 +1,5 @@
 {
-  "zaman": "2026-11-28T03:54:20+00:00",
+  "zaman": "2026-11-28T06:49:19+00:00",
   "gram": 5998.84,
   "ons": 3674.6,
   "kur": 50.7769,
@@ -16,7 +16,7 @@
   "yil_ici_dip": 5579.58,
   "baglam": {
     "dolar_endeksi": {
-      "son": 104.014,
+      "son": 104.01,
       "gunluk_degisim_yuzde": 0.33,
       "aylik_degisim_yuzde": 1.78
     },
@@ -26,14 +26,14 @@
       "aylik_degisim_yuzde": -2.16
     },
     "gumus_ons": {
-      "son": 43.702,
-      "gunluk_degisim_yuzde": 9.11,
-      "aylik_degisim_yuzde": -18.25
+      "son": 43.167,
+      "gunluk_degisim_yuzde": 7.78,
+      "aylik_degisim_yuzde": -19.25
     },
     "brent": {
-      "son": 90.84,
-      "gunluk_degisim_yuzde": -3.98,
-      "aylik_degisim_yuzde": -21.23
+      "son": 95.44,
+      "gunluk_degisim_yuzde": 0.88,
+      "aylik_degisim_yuzde": -17.24
     },
     "sp500": {
       "son": 7297.4902,
@@ -104,7 +104,7 @@
           6534.76
         ],
         "direnc_projeksiyon": false,
-        "atr": 189.17
+        "atr": 185.75
       }
     },
     "uzun": {
@@ -131,7 +131,7 @@
           7795.97
         ],
         "direnc_projeksiyon": false,
-        "atr": 373.86
+        "atr": 370.45
       }
     }
   },
