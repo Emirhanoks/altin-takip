@@ -1,6 +1,6 @@
 {
- "olusturma": "2026-11-28T06:48:48+00:00",
- "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.999 TL'de (ons yaklaşık 3.675 dolar, USD/TRY yaklaşık 50,78) haftayı yükselişle kapattı. Fed'in aralıkta faiz artırabileceği endişesi yükselişleri sınırlıyor. Kapanıştan beri yeni bir veri yok; pazartesi açılışında 6.035 TL direnci ve 5.884-5.943 TL destek bandı izlenecek.",
+ "olusturma": "2026-11-28T09:48:35+00:00",
+ "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.999 TL'de (ons yaklaşık 3.675 dolar, USD/TRY yaklaşık 50,78) haftayı yükselişle kapattı. Fed'in aralıkta faiz artırabileceği endişesi yükselişleri sınırlıyor. Son analizden bu yana doğrulanabilir yeni gelişme yok; pazartesi açılışında 6.035 TL direnci ve 5.884-5.943 TL destek bandı izlenecek.",
  "vadeler": {
   "kisa": {
    "yon": "yatay",
@@ -32,7 +32,7 @@
    "etki": "notr",
    "kaynak": "Kitco",
    "url": "https://www.kitco.com/news/off-the-wire/2026-11-27/gold-pares-gains-fed-hike-risks-linger-eyes-first-weekly-rise-three",
-   "yorum": "Başlığa göre haftalık toparlanma var ama Fed artırım riski tepkiyi sınırlıyor. İçeriği doğrulayamadım; bu çalışmada yeni haber bulunamadı."
+   "yorum": "Başlığa göre haftalık toparlanma var ama Fed artırım riski tepkiyi sınırlıyor. İçeriği doğrulayamadım."
   },
   {
    "baslik": "Altın haftalık tahmin: Şahin Fed beklentisi nedeniyle satıcılar baskın",

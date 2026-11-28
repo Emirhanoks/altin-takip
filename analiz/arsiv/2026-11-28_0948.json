@@ -1,0 +1,87 @@
+{
+ "olusturma": "2026-11-28T09:48:35+00:00",
+ "ozet": "Piyasalar hafta sonu kapalı; gram altın yaklaşık 5.999 TL'de (ons yaklaşık 3.675 dolar, USD/TRY yaklaşık 50,78) haftayı yükselişle kapattı. Fed'in aralıkta faiz artırabileceği endişesi yükselişleri sınırlıyor. Son analizden bu yana doğrulanabilir yeni gelişme yok; pazartesi açılışında 6.035 TL direnci ve 5.884-5.943 TL destek bandı izlenecek.",
+ "vadeler": {
+  "kisa": {
+   "yon": "yatay",
+   "guven": 40,
+   "yorum": "Teknik tablo kısa vadede olumlu (EMA20/EMA50 üstü, MACD pozitif) ama RSI 68 ile ısınmış ve fiyat 6.035 TL direncine yakın. Kısa vade karnemiz zayıf (son 20 tahminde 6 doğru) ve hafta sonu boşluk riski var; güveni düşük tutuyorum.",
+   "hedef": "5.943-6.035 TL bandı; 6.035 TL üstünde kalıcılık olursa 6.099 TL",
+   "iptal": "5.884 TL altında kapanış (aşağı) veya 6.099 TL üstünde kapanış (yukarı)"
+  },
+  "orta": {
+   "yon": "asagi",
+   "guven": 55,
+   "yorum": "Fiyat EMA50 ve EMA200'ün (yaklaşık 6.385 TL) altında, MACD negatif, 30 günde yaklaşık yüzde 7 düşüş var. Fed artırım riski sürdükçe baskı devam edebilir; tepki yükselişlerinin 6.270 TL'ye uzanması olağan.",
+   "hedef": "5.941 TL desteği, kırılırsa daha aşağısı; tepki tavanı 6.269 TL",
+   "iptal": "6.269 TL üzerinde kalıcı kapanış veya Fed artırım beklentisinin belirgin sönmesi"
+  },
+  "uzun": {
+   "yon": "yatay",
+   "guven": 40,
+   "yorum": "Yıl içi zirveden (7.796 TL) belirgin düşüş ve aşağı eğilimli teknik görünüm var. Merkez bankası alımları ve TL'deki değer kaybı ise gramı destekleyen unsurlar.",
+   "hedef": "Yaklaşık 5.900-7.355 TL geniş bant",
+   "iptal": "5.900 TL altı kalıcı kırılma (aşağı) veya 7.355 TL üzeri (yukarı)"
+  }
+ },
+ "ana_senaryo": "Fed artırım riski yükselişleri sınırlar; gram 6.035 TL direncinde tıkanıp 5.884-5.943 TL desteklerine geri döner.",
+ "alternatif_senaryo": "Dolar ve tahvil faizi gevşer, ons 3.700 doların üzerine yerleşir; gram 6.035 TL'yi geçip 6.099 TL ve üstüne yönelir.",
+ "haberler": [
+  {
+   "baslik": "Altın, Fed artırım riskleri sürerken kazançlarının bir kısmını geri verdi; üç haftada ilk haftalık artışa yöneldi",
+   "etki": "notr",
+   "kaynak": "Kitco",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-11-27/gold-pares-gains-fed-hike-risks-linger-eyes-first-weekly-rise-three",
+   "yorum": "Başlığa göre haftalık toparlanma var ama Fed artırım riski tepkiyi sınırlıyor. İçeriği doğrulayamadım."
+  },
+  {
+   "baslik": "Altın haftalık tahmin: Şahin Fed beklentisi nedeniyle satıcılar baskın",
+   "etki": "negatif",
+   "kaynak": "FXStreet",
+   "url": "https://fxstreet.com/analysis/gold-weekly-forecast-sellers-dominate-on-hawkish-repricing-of-fed-interest-rate-outlook-202611131441",
+   "yorum": "13 Kasım tarihli başlığa göre faiz beklentileri şahinleşti; yükselişlerin kalıcılığı için engel. İçeriği doğrulayamadım."
+  },
+  {
+   "baslik": "Merkez bankası alımı ve ETF girişleri 3. çeyrek altın talebini destekledi",
+   "etki": "pozitif",
+   "kaynak": "Kitco (WGC)",
+   "url": "https://www.kitco.com/news/article/2026-11-03/gold-demand-remains-near-record-highs-central-bank-buying-surges-42-wgc",
+   "yorum": "Başlığa göre merkez bankası alımları yüzde 42 arttı; orta-uzun vadede fiyata taban oluşturan unsur."
+  }
+ ],
+ "trader_gorusleri": [
+  {
+   "kim": "Goldman Sachs Research",
+   "gorus": "Hedefler 2026 sonu 4.150, 2027 sonu 4.800 dolar; şahin Fed nedeniyle düşürüldü (başlığa göre).",
+   "kaynak": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz"
+  },
+  {
+   "kim": "FXStreet'te bir analist",
+   "gorus": "Şahin bir Fed'in altın yükselişlerini sınırlayacağını, ons için 3.750 doların tavan olabileceğini söylüyor (başlığa göre).",
+   "kaynak": "https://www.fxstreet.com/analysis/golds-3-750-ceiling-analyst-says-a-hawkish-fed-would-cap-gold-rallies-202611271242"
+  }
+ ],
+ "takvim": [
+  {
+   "zaman": "Cum 4 Ara 16:30 (İstanbul)",
+   "olay": "ABD istihdam raporu (Kasım verisi, 8:30 ET)",
+   "onem": "yuksek"
+  },
+  {
+   "zaman": "Sal-Çar 8-9 Ara; açıklama Çar 22:00 (İstanbul)",
+   "olay": "Fed faiz kararı (2 günlük toplantı, basın toplantısı 22:30)",
+   "onem": "yuksek"
+  },
+  {
+   "zaman": "Per 10 Ara 16:30 (İstanbul)",
+   "olay": "ABD TÜFE (Kasım verisi)",
+   "onem": "yuksek"
+  }
+ ],
+ "riskler": [
+  "Hafta sonu sonrası açılışta fiyat boşluğu oluşabilir",
+  "Hisse satışı ve yüksek VIX, altının likidite ihtiyacıyla da satılmasına yol açabilir",
+  "RSI 68 ile kısa vadede aşırı alım bölgesine yakınız; geri çekilme olasılığı var",
+  "USD/TRY hareketi gram altını onstan bağımsız etkileyebilir"
+ ]
+}
